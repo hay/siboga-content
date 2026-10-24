@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
+                "file": "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md"
+                "file": "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -216,6 +216,11 @@
   },
   "active": "d354bc5666a562ca",
   "lastOpenFiles": [
+    "records/Haven Jakarta.md",
+    "records/Krantenartikel waar Anna Weber wordt geinterviewed.md",
+    "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
+    "records/Anna Weber.md",
+    "records/Foto van Anna Weber terwijl ze algen onderzoekt.md",
     "Records/Haven Jakarta.md",
     "Chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
     "Records/Anna Weber.md",
