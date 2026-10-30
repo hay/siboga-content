@@ -10,7 +10,11 @@ kicker: Wie er aan boord waren
 ![De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
 *[[Foto van de bemanning en wetenschappelijke staf van de Siboga (300.426)|De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)]]*
 
-De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
+Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
+
+Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak. De commandant had de leiding en droeg de verantwoordelijkheid voor schip en bemanning. De twee officieren hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart. De schipper, de chef d'équipage, leidde het werk aan dek: de ankers, de touwen en trossen, de sloepen en het uitzetten en binnenhalen van de netten. De matrozen en lichtmatrozen deden dat werk met hun handen. Ze stonden aan het roer, hielden het schip schoon en bedienden de stoomspil.
+
+Onderdeks draaide de stoommachine. De hoofdmachinist en twee machinisten zorgden dat de machine bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel. Stokers schepten dag in dag uit kolen in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden. Een korporaal-hofmeester beheerde de proviand en zorgde voor de tafel, en een inheemse sergeant-kok kookte de maaltijden. Twee privébedienden zorgden voor het echtpaar Weber. De scheepsarts waakte over de gezondheid van iedereen aan boord en hielp daarnaast mee met het onderzoek.
 
 Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officieren, 45 schepelingen, twee privébedienden en zes wetenschappers. Later kwamen er nog vijf matrozen en twee stokers bij. Dat was veel minder dan de 86 koppen die het schip naar Indië hadden gebracht. Zonder geschut en met een speciale opdracht kon de bemanning kleiner zijn.
 
