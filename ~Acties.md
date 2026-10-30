@@ -16,34 +16,14 @@
 	1.  wetenschappers, kapitein, scheepsarts
 	2. alle bemanningsleden vooral lokaal
 4. specimen
-    
-
-5waar gevonden
-    
-6. waar nu
-    
-
-7. de reis
-    
-
-8. stations
-    
-9. boek anna
-    
-10. kaarten klopten niet/kaarten : ‘s nachts voor anker: expeditie online naturalis
-    
-
-11. naderhand
-    
-
-12. eerbeek: rijksmonument
-    
-13. nn publicaties
-    
-
-14. Hoe gaat het nu met de soorten?
-    
-15. Snorren/en baarden/kleding
-    
-
-**
+	1. waar gevonden
+	2. waar nu
+5. de reis
+	1. stations
+	2. boek anna
+6. kaarten klopten niet/kaarten ‘s nachts voor anker: expeditie online naturalis
+7. Naderhand
+	1. Eerbeek: rijksmonument 
+	2. publicaties
+	3. Hoe gaat het nu met de soorten?
+8. Extra: Snorren/en baarden/kleding
