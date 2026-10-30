@@ -1,2 +1,6 @@
 .env
 .obsidian
+_fit
+/.claude
+/.idea
+.env.example

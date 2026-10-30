@@ -1,8 +1,8 @@
 ---
 type: chapter
 chapter: "3"
-location: Q4201319
-comment: "Voorstel (concept), gebaseerd op de records in /records en op Acda, Op de deining van de wetenschap (2019), blz. 153-165."
+location: -8.7249,115.5487
+comment: "OJ Voorstel (concept), gebaseerd op de records in /records en op Acda, Op de deining van de wetenschap (2019), blz. 153-165. Opmerking van SF: misschien voor de leuk zeker De Man (onze Man uit Middelburg) vermelden"
 kicker: Wie er aan boord waren
 ---
 > Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: officieren, machinisten, stokers, matrozen en geleerden. Toch leefden ze aan boord in twee werelden.
