@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "1"
-location: "[[Haven Jakarta]]"
+location:
 comment:
 kicker: 7 maart 1899
 ---
