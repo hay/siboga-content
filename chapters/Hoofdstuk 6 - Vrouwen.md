@@ -2,7 +2,7 @@
 type: chapter
 chapter: "6"
 location: Q10393
-comment:
+comment: buitenzorg nederlands indie niet bogor
 kicker: Vrouwen aan boord en aan het bureau
 ---
 Aan boord van de Siboga waren twee vrouwen. Daarna schreven nog veel meer vrouwen mee aan de boekenreeks over de expeditie.
