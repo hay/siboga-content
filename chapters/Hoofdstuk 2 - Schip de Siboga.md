@@ -1,4 +1,11 @@
-
+---
+type: chapter
+chapter: "2"
+location:
+comment:
+kicker:
+---
+>citaat
 
 ## Ideeën
 
