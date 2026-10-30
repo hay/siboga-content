@@ -14,4 +14,11 @@ Er zijn ook nog [168 publicaties waar heel veel soorten zijn beschreven](https:/
 > Het was een mooie ochtend in [[Jakarta]]
 ## Overige bronnen
 - [[Mooie foto van Anna die ik nog ]]
-- 
+-
+## Ideeën
+	1. opdracht
+	2. financiering (Emma, Wilhelmina etc)
+	3. , doel
+	4. KNAG
+	5. sultan
+	6. , Anna en Max
