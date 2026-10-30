@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "1"
-location: https://www.wikidata.org/wiki/Q546796
+location: "[[_fit/records/Haven van Batavia|Haven van Batavia]]"
 comment: DJ
 kicker: 7 maart 1899
 ---
