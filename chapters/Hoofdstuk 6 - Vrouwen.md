@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "6"
-location: Pulau-pulau Jedan
+location: Q10393
 comment:
 kicker: Vrouwen aan boord en aan het bureau
 ---
