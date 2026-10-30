@@ -21,7 +21,7 @@ Ze herstelde netten en kleding en liet brieven schrijven aan haar zoon. Wat we v
 
 ## Vrouwen in de Siboga-reeks
 
-Van de 148 delen van de reeks (1901–1986) schreven minstens dertien vrouwen er zeventien. Onder hen zijn Ethel Barton (1901), Fanny Moser (1903), [[Maria Boissevain]] (1906), Gerarda Stiasny-Wijnhoff (1936) en Marian Pettibone (1970). Anna zelf schreef er vijf.
+Van de 148 delen van de reeks (1901–1986) schreven minstens dertien vrouwen er zeventien. Onder hen zijn [[Ethel Barton]] (1901), [[Fanny Moser]] (1903), [[Maria Boissevain]] (1906), [[Gerarda Stiasny-Wijnhoff]] (1936) en [[Marian Pettibone]] (1970). [[Anna Weber-van Bosse]] zelf schreef er vijf.
 
 ## Bronnen (voor het team)
 
