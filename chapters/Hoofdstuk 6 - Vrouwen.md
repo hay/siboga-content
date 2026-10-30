@@ -1,6 +1,6 @@
 ---
 type: chapter
-chapter: "7"
+chapter: "6"
 location: "[[Huis Eerbeek]]"
 comment: "Startversie. Locatie nog kiezen: Huis Eerbeek (Anna) of Buitenzorg/Bogor (de baboe)."
 kicker: Vrouwen aan boord en aan het bureau
