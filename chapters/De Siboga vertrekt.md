@@ -9,7 +9,7 @@ De **Siboga-expeditie** was een wetenschappelijke expeditie  van 7 maart 1899 to
 
 Aan boord van de Siboga was een uitgebreide wetenschappelijke staf: belangrijkste leden daarvan waren [[Max Weber]] (initiatiefnemer van de Siboga expeditie) en algologe [[Anna Weber-van Bosse]].  Het echtpaar maakte een reis [door Egypte](https://commons.wikimedia.org/wiki/File:UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg) en India voordat zij in Jakarta aan boord van de Siboga gingen. 
 
-![de tekst](https://commons.wikimedia.org/wiki/File:UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg)
+![Anna Weber-van Bosse in Egypte op weg naar Batavia (Nederlands-Indië)](https://upload.wikimedia.org/wikipedia/commons/9/9c/UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds. 
 
