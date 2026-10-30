@@ -4,7 +4,7 @@ chapter: "1"
 location: "[[Haven Jakarta]]"
 comment:
 ---
-[[Anna Weber]] was aan boord van de Siboga. [[Foto van Anna Weber terwijl ze algen onderzoekt|Kijk hier een mooie foto van Anna]]. Ze werd trouwens ook nog [[Krantenartikel waar Anna Weber wordt geinterviewed|geinterviewed]]. Er is zelfs een [[Weberolegra weberi|vlinder]] naar haar vernoemd!
+[[Anna Weber]] was aan boord van de Siboga. [[Foto van Anna Weber terwijl ze algen onderzoekt|Kijk hier een mooie foto van Anna]]. Ze werd trouwens ook nog [[Krantenartikel waar Anna Weber wordt geinterviewed|geinterviewed]]. Er is zelfs een [[Murex (Murex) tribulus Linnaeus, 1758|vlinder]] naar haar vernoemd!
 
 Zoals we ook al zeiden in [[Hoofdstuk 5 - Terug in Amsterdam|het laatste hoofdstuk]]: het was een prachtige expeditie.
 
