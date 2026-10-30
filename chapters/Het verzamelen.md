@@ -7,7 +7,7 @@ kicker:
 ---
 ## Dreggen en korren
 
-Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[Dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
+Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
 
 ![Uitzetten van de dreg vanaf de Siboga|460](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.009_-_Siboga_-_uitzetten_van_de_dreg.jpg?width=1000)
 
