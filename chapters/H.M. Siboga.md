@@ -5,8 +5,7 @@ location: Q745025
 comment: AH Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis.
 kicker: Een varend laboratorium
 ---
-> „den 7den Maart 1899 stoomde H.S. Siboga 's morgens vroeg de haven uit"
-> — Anna Weber-van Bosse, [[Een jaar aan boord H.M. Siboga]] (1904)
+
 
 ![Hr.Ms. Siboga in 1898|600](https://commons.wikimedia.org/wiki/Special:FilePath/Siboga,_gunboat_(1898).jpg?width=1200)
 

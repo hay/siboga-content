@@ -25,7 +25,7 @@ Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]].
 
 ![Nieuwenhuyzen|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_(1899-1900).jpg?width=400)
 
-De matrozen en stokers waren voor een groot deel Indonesiërs. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Hoofdstuk 2 - Schip de Siboga]]). Van hem is geen portret bekend.
+De matrozen en stokers waren voor een groot deel Indonesiërs. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[H.M. Siboga]]). Van hem is geen portret bekend.
 
 ## De geleerden
 
