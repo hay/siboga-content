@@ -5,7 +5,7 @@ location: -6.123871, 106.80861
 comment: DJ
 kicker: 7 maart 1899
 ---
-De **Siboga-expeditie** was een Nederlandse zoölogische, botanische en geologische en hydrografische expeditie naar Nederlands-Indië (het huidige Indonesië) van 7 maart 1899 tot 28 februari 1900. De expeditie is genoemd naar het marinevaartuig waarmee de expeditie is uitgevoerd, de kanonneerboot [[Hr.Ms. Siboga]].
+De **Siboga-expeditie** was een wetenschappelijke expeditie  van 7 maart 1899 tot 28 februari 1900 door de zeeën van Nederlands-Indië (het huidige Indonesië). De expeditie is genoemd naar het marinevaartuig waarmee de expeditie is uitgevoerd, de kanonneerboot [[Hr.Ms. Siboga]].
 
 Aan boord van de Siboga was een uitgebreide wetenschappelijke staf: belangrijkste leden daarvan waren [[Max Weber]] (initiatiefnemer van de Siboga expeditie) en algologe [[Anna Weber-van Bosse]].  Het echtpaar maakte een reis [door Egypte](https://commons.wikimedia.org/wiki/File:UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg) en India voordat zij in Jakarta aan boord van de Siboga gingen. 
 
