@@ -25,5 +25,5 @@
 6. Naderhand
 	1. Eerbeek: rijksmonument 
 	2. publicaties
-	3. Hoe gaat het nu met de soorten?
+&. Hoe gaat het nu met de soorten?
 7. Extra: Snorren/en baarden/kleding
