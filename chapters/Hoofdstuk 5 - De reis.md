@@ -1,6 +1,6 @@
 ---
-type:
-chapter:
+type: chapter
+chapter: "5"
 location:
 comment:
 kicker:

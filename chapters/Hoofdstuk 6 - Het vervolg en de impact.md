@@ -1,5 +1,5 @@
 ---
-type:
+type: chapter
 chapter: "6"
 location:
 comment:
