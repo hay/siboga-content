@@ -1,5 +1,10 @@
-Citaat
-
+---
+type:
+chapter:
+location:
+comment:
+kicker:
+---
 Op de reis van de Siboga werden XX (hoeveel) stations aangedaan. (Kaartview). Een station is een locatie waar de specimen werden (op)gevangen, geplukt of uit de zee werden gepakt. 
 # Ideeën 
 de reis
