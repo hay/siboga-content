@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "6"
-location: Q10393
+location: -6.597803, 106.799263
 comment: Sandra - buitenzorg nederlands indie niet bogor
 kicker: Vrouwen aan boord en aan het bureau
 ---

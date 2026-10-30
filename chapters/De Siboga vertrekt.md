@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "1"
-location: https://www.wikidata.org/wiki/Q1286686
+location: -6.123871, 106.80861
 comment: DJ
 kicker: 7 maart 1899
 ---

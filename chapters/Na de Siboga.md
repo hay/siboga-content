@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "8"
-location: https://www.wikidata.org/wiki/Q1636150
+location: 52.10885, 6.0716
 comment: DJ
 kicker:
 ---

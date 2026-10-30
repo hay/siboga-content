@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "3"
-location: Q4201319
+location: -8.7249,115.5487
 comment: "OJ Voorstel (concept), gebaseerd op de records in /records. Het aantal opvarenden is nog onbekend. Opmerking van SF: misschien voor de leuk zeker De Man (onze Man uit Middelburg) vermelden"
 kicker: Wie er aan boord waren
 ---
