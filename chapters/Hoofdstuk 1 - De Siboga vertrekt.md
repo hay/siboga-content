@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "1"
-location:
+location: Q546796
 comment:
 kicker: 7 maart 1899
 ---
