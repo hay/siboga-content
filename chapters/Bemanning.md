@@ -7,8 +7,7 @@ kicker: Wie er aan boord waren
 ---
 > Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: officieren, machinisten, stokers, matrozen en geleerden. Toch leefden ze aan boord in twee werelden.
 
-![De bemanning en de wetenschappelijke staf van de Siboga|600](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
-*De bemanning en de wetenschappelijke staf op het dek van de Siboga, 1899-1900. Foto: Bijzondere Collecties UvA, 300.426.*
+![[Foto van de bemanning en wetenschappelijke staf van de Siboga (300.426)]]
 
 De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
@@ -16,8 +15,8 @@ Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officie
 
 ## Het echtpaar Weber
 
-![Max Weber|180](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Max_Wilhelm_Carl_Weber.jpg?width=400) ![Anna Weber-van Bosse|180](https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Antoinette_Weber-van_Bosse.jpg?width=400)
-*Max Weber, omstreeks 1900, en Anna Weber-van Bosse, omstreeks 1910. Foto's: Bijzondere Collecties UvA (Bibliotheek Artis).*
+![[Portret van Max Weber]]
+![[Portret van Anna Weber-van Bosse]]
 
 De expeditie was het werk van een echtpaar. [[Max Weber]] werd in 1852 in Bonn geboren, als zoon van een Duitse vader en een Nederlandse moeder. Hij was hoogleraar in Amsterdam en had al eens meegevaren op de Willem Barents naar de Noordelijke IJszee. Vanaf 1896 lobbyde hij voor een diepzee-expeditie in het oosten van de archipel. Hij wilde vooral weten welke dieren daar in de diepzee leefden.
 
@@ -27,15 +26,13 @@ Commandant Tydeman stond zijn eigen kajuit, de grootste hut aan boord, aan het e
 
 Max Weber zat vaak buiten boord, op een klein plankje tussen lucht en water. Daar bond hij thermometers en waterscheppers aan de loodlijn. Aan boord heette dat plankje "de pijnbank".
 
-![Max Weber op het plankje|380](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.328_-_Siboga_-_Max_Weber_turend_naar_de_instrumenten_voor_een_diepzeeloding.jpg?width=800)
-*Max Weber op "de pijnbank", turend naar de instrumenten voor een diepzeeloding, 1899-1900. Foto: Bijzondere Collecties UvA, 300.328.*
+![[Max Weber op zijn plankje]]
 
 Anna en de baboe waren de enige vrouwen aan boord (zie [[Hoofdstuk 6 - Vrouwen]]). Dat Anna een jaar lang deel uitmaakte van de bemanning van een marineschip was in die tijd uitzonderlijk. Pas in de Tweede Wereldoorlog traden de eerste vrouwen in marinedienst.
 
 ## De wetenschappelijke staf
 
-![Groepsportret in het laboratorium, 16 september 1899|500](https://commons.wikimedia.org/wiki/Special:FilePath/Siboga_expedition_group_portrait_in_laboratory.jpg?width=1000)
-*De wetenschappelijke staf in het laboratorium, 16 september 1899. Van links naar rechts: Nierstrasz, Huijsmans, Max Weber en Versluys. Foto: Bijzondere Collecties UvA.*
+![[Foto van de wetenschappelijke staf van de Siboga in het laboratorium]]
 
 Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je [[Hugo Frederik Nierstrasz]], tekenaar [[Jozef Willem Huijsmans]], Max Weber en zijn eerste assistent [[Jan Versluys]].
 
@@ -43,30 +40,27 @@ De drie zoölogen aan boord waren uitgekozen door Weber en de Utrechtse hooglera
 
 Huijsmans kwam erbij op aanraden van Melchior Treub, de directeur van de Plantentuin in Buitenzorg. Hij was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's. Die ontwikkelden ze in een voormalige voorraadkamer. Daar was het donker, maar ook zo heet dat Tydeman de ruimte "de hel" noemde. Al snel zei iedereen hem dat na.
 
-![August Herman Schmidt|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_August_Herman_Schmidt,_Dutch_physician_(1871-1937),_ship's_doctor_on_the_Siboga_Expedition_(1899-1900).jpg?width=400) ![Jan Versluys|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Dutch_zoologist_Dr._Jan_Versluys_during_the_Siboga_expedition,_16_September_1899.jpg?width=400) ![J.W. Huijsmans|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_J.W._Huysmans,_draughtsman_and_scientific_illustrator_of_the_Siboga_expedition.jpg?width=400)
-*Van links naar rechts: scheepsarts August Herman Schmidt (uitsnede uit "Leden der expeditie", Eigen Haard, 1900), Jan Versluys (uitsnede uit het groepsportret in het laboratorium, 16 september 1899) en J.W. Huijsmans (uitsnede uit een foto uit 1908, Bijzondere Collecties UvA, 300.442).*
+![[Portret van August Herman Schmidt]]
+![[Portret van Jan Versluys]]
+![[Portret van J.W. Huijsmans]]
 
 ## Het schip van Tydeman
 
-![Gustaaf Frederik Tydeman|180](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=400)
-*Commandant Gustaaf Frederik Tydeman, 1900. Foto: Bijzondere Collecties UvA, 300.436.*
+![[Portret van Gustaaf Frederik Tydeman]]
 
 Het schip stond onder bevel van luitenant ter zee der eerste klasse [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Weber schreef in zijn dagboek bij een lastige manoeuvre dat Tydeman "even kalm als altijd" bleef. Hij vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Anna hoorde Tydeman eens zeggen dat loden bij mooi weer iedereen lukt, maar dat je er bij slecht weer zeemanschap voor nodig hebt.
 
 Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: eerste navigateur [[Helenus Johannes Boldingh]], geboren in Hoorn, en tweede navigateur [[C.E. Hoorens van Heyningen]], geboren in Leerdam. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van schipper [[W. Eisma]], de chef d'équipage. Van hem is (nog) geen portret bekend.
 
-![C.E. Hoorens van Heyningen|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_C.E._Hoorens_van_Heyningen,_Dutch_naval_officer,_second_navigator_of_HNLMS_Siboga_during_the_Siboga_Expedition_(1899-1900).jpg?width=400)
-*Tweede navigateur C.E. Hoorens van Heyningen. Uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard, 1900.*
+![[Portret van C.E. Hoorens van Heyningen]]
 
 Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist [[Doedo Klazinga]] en de machinisten [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De korporaal-stokers [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
 
-![De heren Loyer en Verhey op het dek van de Siboga|420](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.011_-_Siboga_-_de_heren_Loyer_en_Verhey_op_het_dek_van_de_Siboga.jpg?width=900)
-*Korporaal-stokers Loyer en Verhey op het dek van de Siboga, 1899-1900. Foto: Bijzondere Collecties UvA, 300.011.*
+![[Foto van Loyer en Verhey op het dek van de Siboga]]
 
 Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het koken deed een inheemse sergeant-kok, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
 
-![Nieuwenhuyzen|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_(1899-1900).jpg?width=400)
-*Korporaal-hofmeester Nieuwenhuyzen. Uitsnede uit een foto van een zwaard- of zeilvis op het dek van de Siboga, 1899-1900. Foto: Bijzondere Collecties UvA, 300.142.*
+![[Portret van Nieuwenhuyzen]]
 
 Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Hoofdstuk 2 - Schip de Siboga]]). Van hem is geen portret bekend.
 
@@ -82,18 +76,15 @@ Ook de baboe van Anna hoorde bij het gezelschap. In het hele jaar was er maar é
 
 Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de scheepskat.
 
-![Anna Weber-van Bosse met de scheepskat Titi|260](https://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_Anna_Weber-van_Bosse_met_op_haar_schoot_de_scheepskat_Titi,_gemaakt_op_het_dek_van_de_Siboga.jpg?width=600)
-*Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga, 1899. Uitsnede uit de groepsfoto 300.427, Bijzondere Collecties UvA.*
+![[Foto van Anna Weber-van Bosse met de scheepskat Titi]]
 
 Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "scheepsvogel". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
 
-![De scheepsvogel Piet op het erf van de pasanggrahan op Saleier|420](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.273_-_Siboga_-_de_%22scheepsvogel%22_Piet,_een_kasuaris,_op_het_erf_van_de_pasanggrahan_op_Saleyer.jpg?width=900)
-*De "scheepsvogel" Piet, een kasuaris, op het erf van de pasanggrahan op Saleier, 1899-1900. Foto: Bijzondere Collecties UvA, 300.273.*
+![[Foto van de kasuaris Piet op Saleier]]
 
 Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de radja van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
 
-![Groepsfoto op Koninginnedag met de radja van Misool|600](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.428_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga_met_de_radja_van_Misool.jpg?width=1200)
-*Groepsfoto op Koninginnedag, 31 augustus 1899, met de radja van Misool naast Anna Weber-van Bosse. Foto: Bijzondere Collecties UvA, 300.428.*
+![[Foto van de bemanning en wetenschappelijke staf van de Siboga met de radja van Misool]]
 
 ## Na de reis
 
