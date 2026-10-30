@@ -2,7 +2,7 @@
 type: chapter
 chapter: "8"
 location: Q1636150
-comment:
+comment: DJ
 kicker:
 ---
 Na de reis vertrokken [[Max Weber]] en [[Anna Weber-van Bosse]] naar [[Huis Eerbeek]], hun Gelderse woonhuis. 
