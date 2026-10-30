@@ -2,7 +2,7 @@
 type: chapter
 chapter: "5"
 location:
-comment: "Sandra doet deze. Concept (31-10-2026) op basis van de stationslijst (siboga_stations_1899-1900.csv), Anna Weber-van Bosse (1904) en Acda blz. 157-164. Locatie nog kiezen."
+comment:
 kicker: Bijna een jaar, 363 stations
 ---
 Wie de route van de [[Hr.Ms. Siboga]] op de kaart volgt, ziet een kluwen van lijnen. Bijna een jaar lang zigzagde het schip tussen honderden eilanden. Steeds weer hield het stil om de zee te onderzoeken. Elke plek waar dat gebeurde, kreeg een nummer: een station.
