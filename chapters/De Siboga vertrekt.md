@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "1"
-location: "[[_fit/records/Haven van Batavia|Haven van Batavia]]"
+location: "[[Haven van Batavia 1|Haven van Batavia 1]]"
 comment: DJ
 kicker: 7 maart 1899
 ---
