@@ -1,7 +1,7 @@
 ---
 type: chapter
-chapter: "7"
-location: Q24997161
+chapter: "11"
+location:
 comment:
 kicker:
 ---

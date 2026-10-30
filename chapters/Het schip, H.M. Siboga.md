@@ -21,7 +21,7 @@ Op 7 maart 1899 lichtte de Siboga op de rede van Soerabaja het anker.
 
 ![Laboratorium aan boord van de Siboga|500](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.004_-_Siboga_-_laboratorium_aan_boord_van_de_Siboga.jpg?width=1000)
 
-In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werd het ook geconserveerd, in potjes, blikken en glazen cilinders, zodat het later in het Zoölogisch Museum Amsterdam bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Hoofdstuk 3 - Bemanning]].
+In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werd het ook geconserveerd, in potjes, blikken en glazen cilinders, zodat het later in het Zoölogisch Museum Amsterdam bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Bemanning]].
 
 Vlak voor de deur van het laboratorium stond de meetapparatuur voor het dreggen. Die laat zien hoe dicht onderzoek en zeemanschap aan boord bij elkaar lagen.
 
@@ -43,7 +43,7 @@ In 1902 tekende Tydeman de hele inrichting voor zijn *Description of the ship an
 
 ![Peilinrichting met de toestellen van Le Blanc en Lucas|380](https://commons.wikimedia.org/wiki/Special:FilePath/Tydeman_-_Siboga_ship_1902_-_pl_03.jpg?width=800)
 
-De thermometers en waterscheppers werden vaak door Max Weber zelf aan de draad gebonden, vanaf een plankje buiten boord (zie [[Hoofdstuk 3 - Bemanning]]).
+De thermometers en waterscheppers werden vaak door Max Weber zelf aan de draad gebonden, vanaf een plankje buiten boord (zie [[Bemanning]]).
 
 ## Dreggen en korren
 
