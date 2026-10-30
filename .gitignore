@@ -3,6 +3,5 @@
 .env
 .env.example
 .idea/inspectionProfiles/profiles_settings.xml
-/.idea
-/.obsidian
-/.obsidian
+.idea
+.obsidian

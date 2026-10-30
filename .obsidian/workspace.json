@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d354bc5666a562ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam"
-            }
-          },
-          {
             "id": "735d4cede205f71a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Records/Mooie foto van Anna die ik nog.md",
+                "file": "pages/welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mooie foto van Anna die ik nog"
+              "title": "welcome"
+            }
+          },
+          {
+            "id": "70c63273bfb86901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.4591941833496
+    "width": 339.453125
   },
   "right": {
     "id": "a75228096012b97c",
@@ -190,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md"
+                "file": "pages/about.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -214,23 +215,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "d354bc5666a562ca",
+  "active": "70c63273bfb86901",
   "lastOpenFiles": [
-    "records/Haven Jakarta.md",
-    "records/Krantenartikel waar Anna Weber wordt geinterviewed.md",
+    "pages/welcome.md",
+    "pages/about.md",
+    "etc",
+    "pages",
+    "Welcome.md",
+    "Welkom.md",
+    "etc/i18n.md",
     "chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
-    "records/Anna Weber.md",
-    "records/Foto van Anna Weber terwijl ze algen onderzoekt.md",
-    "Records/Haven Jakarta.md",
-    "Chapters/Hoofdstuk 1 - de Siboga vertrekt uit Amsterdam.md",
-    "Records/Anna Weber.md",
-    "Records",
-    "Chapters",
-    "Records/Mooie foto van Anna die ik nog.md",
-    "Records/Weberolegra weberi.md",
-    "Records/Krantenartikel waar Anna Weber wordt geinterviewed.md",
-    "Records/Foto van Anna Weber terwijl ze algen onderzoekt.md",
-    "Siboga (Schip).md",
-    "Welcome.md"
+    "records/Gorter.md",
+    "records/August Herman Schmidt.md",
+    "onderzoek/linked-data-bronnen/04-gbif-specimens.md",
+    "onderzoek/linked-data-bronnen/02-kb-monografieen.md",
+    "onderzoek/linked-data-bronnen/01-uva-allard-pierson.md",
+    "records/Verhey.md",
+    "records/The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930.md",
+    "records/Samioen.md",
+    "records/Noest.md",
+    "records/Nieuwenhuyzen.md",
+    "records/Loyer.md",
+    "records/Johannes Govertus de Man.md",
+    "records/Helenus Johannes Boldingh.md",
+    "records/Foto van slagenteller, dynamometer en veeraccumulator op het dek van de Siboga.md",
+    "records/Foto van het uitzetten van de dreg vanaf de Siboga.md",
+    "records/Foto van het laboratorium aan boord van de Siboga.md",
+    "records/Foto van het bovenkomen van de kor.md",
+    "records/Foto van de wetenschappelijke staf van de Siboga in het laboratorium.md",
+    "records/Foto van de stoomspil en rolstoppers met de dregkabel op het dek van de Siboga.md",
+    "onderzoek/linked-data-bronnen/data/wereldmuseum-weber-van-bosse.csv",
+    "onderzoek/linked-data-bronnen/data/uva-allard-pierson-siboga.csv",
+    "onderzoek/linked-data-bronnen/data/kb-siboga-livraisons.csv",
+    "onderzoek/linked-data-bronnen/data/colonial-collections-siboga-treffers.csv",
+    "onderzoek/linked-data-bronnen/data",
+    "onderzoek/linked-data-bronnen",
+    "onderzoek",
+    "functioneel-ontwerp/fo-siboga-v2.pdf"
   ]
 }
