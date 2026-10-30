@@ -5,7 +5,6 @@ location:
 comment: AH concept
 kicker:
 ---
-
 ## Dreggen en korren
 
 Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[Dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
