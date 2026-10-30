@@ -11,7 +11,7 @@ kicker: Een varend laboratorium
 
 ## Van kanonneerboot tot laboratorium
 
-De [[Hr.Ms. Siboga]] was geen onderzoeksschip toen ze van de Rijkswerf in Amsterdam kwam, maar vaartuig van de marine, bedoeld voor dienst in Indië. Na jaren lobbyen kreeg [[Max Weber]] op 4 juli 1898 het bericht dat de minister van Koloniën het schip beschikbaar stelde voor zijn expeditie. Op 1 november 1898 stelde [[Gustaaf Frederik Tydeman]] het schip in Amsterdam in dienst. In december vertrok het naar Indië.
+De [[Hr.Ms. Siboga]] was geen onderzoeksschip, maar een marinevaartuig, bedoeld voor dienst in Indië. Na jaren lobbyen kreeg [[Max Weber]] op 4 juli 1898 het bericht dat de minister van Koloniën het schip beschikbaar stelde voor zijn expeditie. Op 1 november 1898 stelde [[Gustaaf Frederik Tydeman]] het schip in Amsterdam in dienst. In december vertrok het naar Indië.
 
 In de marinehaven van Soerabaja werd de Siboga verbouwd. Het geschut ging van boord en in de bergruimte voor de artillerie kwamen de wetenschappelijke uitrusting en de verzamelde planten en dieren. In het voorschip werd het laboratorium opgesteld. De voorraadkamer werd een donkere kamer voor de fotografie. Tydeman stond zijn eigen kajuit af aan het echtpaar Max Weber en Anna Weber-van Bosse, en sliep zelf in een extra ingerichte officiershut.
 
