@@ -24,7 +24,7 @@ Het was zwaar en traag werk. Een anonieme opvarende schreef in juli 1899 aan [[K
 
 ![Het bovenkomen van de kor|460](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.005_-_Siboga_-_bovenkomen_van_de_kor.jpg?width=1000)
 
-Als de kor eindelijk bovenkwam, was het spannend wat erin zat. Soms was het geweld van het water zo groot dat een korboom brak. De diepste korring van de reis, op bijna 4400 meter in de Banda-zee, leverde vooral een ton modder op en maar weinig dieren.
+Als de kor eindelijk bovenkwam, was het spannend wat erin zat. Soms was het geweld van het water zo groot dat een korboom brak. 
 
 ![De kor wordt aan boord gehaald; een van de korbomen is gebroken|460](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.006_-_Siboga_-_de_kor_wordt_aan_boord_gehaald.jpg?width=1000)
 
