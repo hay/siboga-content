@@ -10,5 +10,10 @@ Deze website is gebouwd in het kader van de [Hackalod 2026](https://netwerkdigit
 - Daniëlle Jansen
 - Annika Hendriksen
 - Sandra Fauconnier
+## Databronnen
+### Kaart
+- Diepte en land: Natural Earth
+- Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
+- Historische kaart: Stadsarchief Amsterdam, gegeorefereerd met [Allmaps](https://allmaps.org)
 ## Technische informatie
 %BUILD_INFO%
