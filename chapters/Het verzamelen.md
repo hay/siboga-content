@@ -2,7 +2,7 @@
 type: chapter
 chapter: "10"
 location:
-comment: AH
+comment: AH concept
 kicker:
 ---
 
@@ -29,6 +29,3 @@ Als de kor eindelijk bovenkwam, was het spannend wat erin zat. Soms was het gewe
 ![De kor wordt aan boord gehaald; een van de korbomen is gebroken|460](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.006_-_Siboga_-_de_kor_wordt_aan_boord_gehaald.jpg?width=1000)
 
 Naast dreg en kor had de Siboga ook een diepzeefuik. Die werd vanuit een vlet tot op een bepaalde diepte afgezonken, met een boei gemarkeerd en later weer opgehaald.
-## 
-Ideeën 
-Korren dreggen visnetten 
