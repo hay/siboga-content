@@ -2,7 +2,7 @@
 type: chapter
 chapter: "5"
 location:
-comment: "Sandra doet deze. Concept (30-10-2026) op basis van de stationslijst (siboga_stations_1899-1900.csv) en Acda blz. 157-164. Locatie nog kiezen."
+comment: "Sandra doet deze. Concept (31-10-2026) op basis van de stationslijst (siboga_stations_1899-1900.csv), Anna Weber-van Bosse (1904) en Acda blz. 157-164. Locatie nog kiezen."
 kicker: Bijna een jaar, 363 stations
 ---
 Wie de route van de [[Hr.Ms. Siboga]] op de kaart volgt, ziet een kluwen van lijnen. Bijna een jaar lang zigzagde het schip tussen honderden eilanden. Steeds weer hield het stil om de zee te onderzoeken. Elke plek waar dat gebeurde, kreeg een nummer: een station.
@@ -15,9 +15,15 @@ Het gebied is groot. Tussen het westelijkste en het oostelijkste station ligt ru
 
 ## Wat is een station?
 
-Een station is een plek waar de expeditie onderzoek deed en dat precies vastlegde. Bij elk station werden de datum, de positie, de diepte en het soort bodem genoteerd, en wat er gedaan was. Ook wat er misging, kwam in de lijst: een gescheurd net, een verloren thermometer.
+[[Anna Weber-van Bosse]] legt het in [[Een jaar aan boord H.M. Siboga|haar reisverslag]] zelf uit:
 
-De Siboga legde daarvoor zelden aan. Meestal lag of dreef het schip op open zee en gingen de instrumenten en netten overboord. [[Station 262]] bijvoorbeeld lag in zee bij de Kei-eilanden, op 560 meter diepte. Andere stations waren een ankerplaats bij de kust. Van daaruit gingen de wetenschappers met een sloep naar het rif of aan land. [[Station 258]] was zo'n ankerplaats: de rede van Tual, op de Kei-eilanden, in 22 meter water.
+> „stations — zoo noemt men die plaatsen, waar wetenschappelijk onderzoek van welken aard ook verricht wordt"
+
+Bij elk station werden de datum, de positie, de diepte en het soort bodem genoteerd, en wat er gedaan was. Ook wat er misging, kwam in de lijst: een gescheurd net, een verloren thermometer.
+
+Waar het volgende station kwam, spraken Weber en commandant [[Gustaaf Frederik Tydeman]] de avond ervoor af. 's Ochtends vroeg ging het anker op. Eenmaal op de plek riep Tydeman volgens Anna naar Weber: „wij zijn nu op die of die breedte, zullen wij looden voor het dreggen". Lagen de stations ver uit elkaar, zoals in de Banda-zee, dan voer het schip 's nachts door naar het volgende.
+
+De Siboga legde voor een station zelden aan. Meestal lag of dreef het schip op open zee en gingen de instrumenten en netten overboord. [[Station 262]] bijvoorbeeld lag in zee bij de Kei-eilanden, op 560 meter diepte. Andere stations waren een ankerplaats bij de kust. Van daaruit gingen de wetenschappers met een sloep naar het rif of aan land. [[Station 258]] was zo'n ankerplaats: de rede van Tual, op de Kei-eilanden, in 22 meter water.
 
 Sommige stations duurden een paar uur, andere weken. Terwijl het schip voor onderhoud weg was, verzamelden de wetenschappers op het land en op de riffen. Dat werd telkens één station: rond Makassar station 71, op Selayar station 213. Eén station lag zelfs op een rivier: bij station 82 werden vissen verzameld in de Mahakam op Borneo.
 
@@ -25,17 +31,21 @@ Op een drukke dag kwamen er meerdere stations bij. De nummers lopen van 1 tot 32
 
 ## De reis in drie delen
 
-De route werd vooraf gepland rond de moessons, de seizoenen met vaste winden. Ook moest het schip regelmatig kolen laden, onderhoud krijgen, en post en voedsel aan boord nemen. Zo werd het een reis in drie delen, met twee pauzes ertussen.
+Weber stelde de route vooraf op, rekening houdend met de moessons, de seizoenen met vaste winden. Ook moest het schip regelmatig kolen laden, onderhoud krijgen, en post en voedsel aan boord nemen. Zo werd het een reis in drie delen, met twee pauzes ertussen.
 
-**Maart tot mei 1899.** Op 7 maart 1899 vertrok de Siboga uit Surabaya (toen Soerabaja), de marinehaven van Java. Het eerste station lag dezelfde dag in de zeestraat tussen Java en het eiland Madura. Daarna ging het naar het oosten, langs de rij eilanden die nu Nusa Tenggara heet: Bali, Lombok, Sumbawa, Flores, Sumba en Savu, tot de westpunt van Timor. Op 10 mei kwam het schip aan in Makassar op Sulawesi (toen Celebes). De Siboga ging terug naar Surabaya voor onderhoud. De wetenschappers bleven een maand in Makassar.
+**Maart tot mei 1899.** Op 7 maart 1899 vertrok de Siboga uit Surabaya (toen Soerabaja), de marinehaven van Java. Het eerste station lag dezelfde dag in de zeestraat tussen Java en het eiland Madura. Daarna ging het naar het oosten, langs de rij eilanden die nu Nusa Tenggara heet: Bali, Lombok, Sumbawa, Flores, Sumba en Savu, tot de westpunt van Timor. Op 9 mei kwam het schip aan bij Makassar op Sulawesi (toen Celebes). De Siboga ging terug naar Surabaya voor onderhoud. De wetenschappers bleven een maand in Makassar.
 
-**Juni tot september 1899.** Op 8 juni ging de reis verder, nu naar het noorden. Het schip voer door de Straat Makassar, langs de oostkust van Borneo, naar de Celebes-zee en de Sulu-eilanden. Die eilanden hoorden niet bij Nederlands-Indië; nu horen ze bij de Filipijnen. Amerikaanse marineofficieren kwamen er aan boord, omdat ze dachten dat de Nederlanders er hun vlag kwamen planten. Bij een kop thee werd dat misverstand opgelost.
+Al in de eerste weken stond er een vraag op het programma die Weber al jaren bezighield. De Britse natuuronderzoeker Alfred Russel Wallace had een scherpe grens getrokken tussen de dieren van Azië en die van Australië. In het zuiden liep die grens door de zeestraat tussen Bali en Lombok, en volgens Wallace was die straat heel diep en heel oud. Weber dacht dat de Aziatische dieren naar het oosten toe geleidelijk plaatsmaakten voor Australische. Op 22 maart 1899 werd er in de straat gelood, bij zware zee. Het diepste punt op de onderzeese rug tussen Bali en Lombok was 312 meter. Voor Weber was dat het bewijs dat hier geen diepe, oude kloof lag.
 
-Daarna boog de route af naar het oosten. Langs de noordpunt van Sulawesi ging het naar de Molukken: Ternate, Halmahera en Bacan. Verder naar Waigeo en Misool en de westkust van Nieuw-Guinea, het deel dat nu bij Indonesië hoort. Via Seram, Ambon, Buru en Buton kwam de Siboga op 26 september aan bij Selayar (toen Saleier), ten zuiden van Sulawesi. Weer ging het schip voor onderhoud naar Surabaya. De wetenschappers wachtten op Selayar (zie [[Bemanning]]).
+**Juni tot september 1899.** Op 8 juni ging de reis verder, nu naar het noorden. Het schip voer door de Straat Makassar, langs de oostkust van Borneo, naar de Celebes-zee en de Sulu-eilanden. Die eilanden hoorden bij de Filipijnen. Spanje had ze kort daarvoor overgedragen aan de Verenigde Staten. Amerikaanse marineofficieren kwamen aan boord, omdat ze dachten dat de Nederlanders er hun vlag kwamen planten. Bij een kop thee werd dat misverstand opgelost.
+
+Daarna ging het naar de noordpunt van Sulawesi en de eilandjes ten noorden daarvan, tot de Karkaralong-eilanden, toen de noordelijkste Nederlandse bezitting. Van daar voer de Siboga tot in zicht van het Filipijnse eiland Mindanao, op zoek naar een onderzeese rug. Toen boog de route af naar het oosten, naar de Molukken: Ternate, Halmahera en Bacan. Verder naar Waigeo en Misool en de westkust van Nieuw-Guinea, het deel dat nu bij Indonesië hoort. Via Seram, Ambon, Buru en Buton kwam de Siboga op 26 september aan bij Selayar (toen Saleier), ten zuiden van Sulawesi. Weer ging het schip voor onderhoud naar Surabaya. De wetenschappers wachtten op Selayar (zie [[Bemanning]]).
 
 **Oktober 1899 tot februari 1900.** Eind oktober vertrok de Siboga van Selayar naar de Banda-zee, de diepste zee van het gebied. Daar werd het diepste punt van de hele reis gemeten: 5684 meter. Via Ambon en de Banda-eilanden ging het naar de Kei- en Aru-eilanden, vlak bij Nieuw-Guinea. Verder naar het oosten kwam de Siboga niet.
 
-In januari 1900 voer het schip naar het zuiden, langs Timor en Rote. Bij [[Station 297]], tussen die twee eilanden, kwam het net op 520 meter diepte boven met een groot stuk boomstam. Daarna ging het naar het westen, langs de zuidkust van Flores en de noordkust van Sumbawa. Het laatste station, nummer 323, lag bij het eiland Bawean, ten noorden van Java. Op 26 februari 1900 liep de Siboga de marinehaven van Surabaya weer binnen.
+Bij de Aru-eilanden veranderde het plan. Een stoomschip van de pakketvaartmaatschappij bracht een zwaargewonde stuurman naar de Siboga. Hij was aangevallen bij een bezoek aan de zuidkust van Nieuw-Guinea. De Siboga bracht hem in zestig uur naar Ambon. Het geplande bezoek aan de Tanimbar-eilanden ging niet door, en de opvarenden brachten oudejaarsavond 1899 varend door op de Banda-zee.
+
+Vanuit Ambon voer het schip in januari 1900 via de eilanden Damar en Roma naar het zuiden, langs Timor en Rote. Bij [[Station 297]], tussen die twee eilanden, kwam het net op 520 meter diepte boven met een groot stuk boomstam. Daarna ging het naar het westen, langs de zuidkust van Flores en de noordkust van Sumbawa. Het laatste station, nummer 323, lag bij het eiland Bawean, ten noorden van Java. Op 26 februari 1900 viel het anker op de rede van Surabaya. Anna schreef: „en de Siboga-Expeditie behoorde tot het verleden."
 
 ## De kaart
 
@@ -51,13 +61,25 @@ Na de reis publiceerde Weber de lijst met alle stations, met een grote uitvouwka
   - de afstanden: west-oost van station 1 (113,14° O) tot station 274 (134,90° O), noord-zuid van station 101 (6,25° N, Sulu-zee) tot station 299 (10,87° Z, Rote). Bawean (322-323) heeft geen coördinaten in de lijst, dus de werkelijke west-oostafstand is iets groter;
   - de dieptes: 130 van de 351 stations met een diepte liggen ondieper dan 100 m, 100 dieper dan 1000 m;
   - "Verder naar het oosten kwam de Siboga niet": station 274 is het oostelijkste.
+- A. Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904), projectkennis (`Jaar aan boord 03 Weber-van Bosse compressed.pdf`). Gedrukte paginanummers; de PDF-paginanummers zijn niet vastgesteld en de citaten zijn uit de OCR-tekst, nog niet visueel gecontroleerd op de scan:
+  - plan rond de moessons (p. 8-9);
+  - definitie van "stations" en 's nachts doorstomen in open zee (p. 13);
+  - de afspraak 's avonds en Tydemans roep 's ochtends (p. 14; in het origineel begint het citaat met „WEBER,");
+  - Wallace, Webers idee van een geleidelijke overgang, Lombokstraat, 22 maart, 312 M (p. 16-18). Klopt met de stationslijst: station 24, 22 maart 1899, 312 m;
+  - aankomst bij Makassar op 9 mei (p. 64; Acda blz. 157 en de stationslijst noemen 10 mei);
+  - Sulu hoort bij de Filipijnen, Amerikaanse officieren, overdracht door Spanje (p. 97-99);
+  - Karkaralong als noordelijkste Nederlandse bezitting, tot in zicht van Mindanao (p. 119-121);
+  - de gewonde stuurman van de *Generaal Pel*, zestig uur naar Ambon, Tanimbar (Tenimber) geschrapt, oudejaarsavond (p. 283-286);
+  - van Ambon via Damar en Roma naar Timor (p. 290);
+  - Bawean als laatste pleisterplaats, 26 februari anker op de rede van Surabaya, slotcitaat (p. 336-337).
 - G.M.W. Acda, [[Op de deining van de wetenschap]] (2019), in `media/Op de deining van de wetenschap - De Siboga-expeditie (blz. 143-167).pdf` (PDF-pagina = gedrukte pagina min 142):
   - vertrek 7 maart 1899, planning rond moessons, kolen, dok en post, en de drie trajecten (blz. 157-158, PDF 15-16);
   - 363 stations en de uitvouwkaart in Webers verslag (blz. 160, PDF 18);
   - diepste punt 5684 m in de Banda-zee (blz. 162, PDF 20);
-  - de Amerikaanse officieren in de Sulu-archipel (blz. 163, PDF 21);
-  - aankomst in Surabaya op maandag 26 februari 1900 (blz. 164, PDF 22). Let op: op blz. 158 noemt Acda 27 februari als einde van het derde traject.
-- Nog te controleren: Acda zet in het derde traject Ambon ná de Aru-eilanden. In de stationslijst ligt Ambon (station 231, 14 november 1899) vóór Kei en Aru. Tussen station 274 (26 december) en 275 (8 januari 1900) zitten geen stations; volgens Acda (blz. 163) week het schip toen uit naar Ambon om een gewonde stuurman van de KPM-boot *Generaal Pel* weg te brengen. Dat verklaart de volgorde bij Acda, maar staat niet in de tekst hierboven.
+  - aankomst in Surabaya op maandag 26 februari 1900 (blz. 164, PDF 22). Acda schrijft "marinehaven", Anna "reede". Op blz. 158 noemt Acda 27 februari als einde van het derde traject.
+- Nog te controleren:
+  - Anna schrijft (p. 18) dat het lood de volgende dag ten zuiden van de rug "duizende meters" aanwees. Het diepste station ten zuiden van de rug in de stationslijst is station 32 (23 maart 1899): 842 m. Daarom staat er in de tekst geen getal voor de zuidkant.
+  - Of de loding Wallace weerlegde, is Webers standpunt. De Wallace-lijn wordt nog steeds gebruikt; een drempel van ruim 300 m zegt op zich weinig over een oude landverbinding. Dat laatste is algemene kennis, niet uit een van de bronnen hier.
 
 ## Ideeën
 
