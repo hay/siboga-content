@@ -14,3 +14,5 @@ Aan boord van de Siboga was een uitgebreide wetenschappelijke staf: belangrijkst
 	4. KNAG
 	5. sultan
 	6. 
+
+Boek van Anna: https://www.wikidata.org/wiki/Q124560811

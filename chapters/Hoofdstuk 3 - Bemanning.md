@@ -25,13 +25,7 @@ Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]].
 
 ![Nieuwenhuyzen|160](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_(1899-1900).jpg?width=400)
 
-## Zwaar werk aan dek
-
-Het onderzoek draaide om netten die over de zeebodem werden gesleept: de [[Dreg]] en de [[Kor]]. Om ze weer boven te krijgen was de stoomspil nodig. Die werd bediend door [[Samioen]], een Javaanse matroos. Van hem is geen portret bekend, maar wel de machine waaraan hij werkte.
-
-![Stoomspil en rolstoppers met de dregkabel|420](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.007_-_Siboga_-_stoomspil_en_twee_rolstoppers_met_de_dregkabel_op_het_dek_van_de_Siboga.jpg?width=900)
-
-Hoe zwaar dat werk was, schreef een anonieme opvarende in juli 1899 aan [[Krantenartikel De expeditie der Siboga (Het Vaderland, 24-07-1899)|Het Vaderland]]. In Straat Bali hadden ze op 2500 meter diepte gekord. Daarna waren ze ruim zes uur bezig om de kor weer binnen te halen. Soms scheurde het net op de rotsbodem, of brak de lijn en verdwenen dure instrumenten voorgoed in de diepte.
+De matrozen en stokers waren voor een groot deel Indonesiërs. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Hoofdstuk 2 - Schip de Siboga]]). Van hem is geen portret bekend.
 
 ## De geleerden
 
