@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Siboga foto-review</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Siboga foto-review</h1>
+  <div class="progress" id="progress"></div>
+  <div class="filters">
+    <select id="f-status" title="Status">
+      <option value="open">Nog te beoordelen</option>
+      <option value="alle">Alle foto's</option>
+      <option value="goedgekeurd">Goedgekeurd</option>
+      <option value="afgewezen">Afgewezen</option>
+    </select>
+    <select id="f-zekerheid" title="Aantal kandidaat-stations">
+      <option value="alle">Elk aantal stations</option>
+      <option value="1">Eén station</option>
+      <option value="meer">Meerdere stations</option>
+      <option value="geen">Geen station</option>
+    </select>
+    <input id="f-zoek" type="search" placeholder="Zoek in titel of plaats…">
+    <a class="btn ghost" href="/api/export" title="Schrijft beslissingen.csv en downloadt die">Exporteer CSV</a>
+    <button class="btn ghost" id="help-open" type="button" title="Uitleg (?)">Help</button>
+  </div>
+</header>
+
+<dialog id="help">
+  <form method="dialog" class="help-head">
+    <h2>Wat je ermee doet</h2>
+    <button class="btn ghost" aria-label="Sluiten">Sluiten <kbd>Esc</kbd></button>
+  </form>
+  <ul>
+    <li><b>Links:</b> een lijst van alle foto's. Je filtert op status (nog te beoordelen, goedgekeurd, afgewezen of alle), op aantal kandidaat-stations (één, meerdere of geen) en met een zoekveld.</li>
+    <li><b>Rechts:</b> de foto en de beschrijving, rechtstreeks van Commons; klik op de foto om de Commons-pagina te openen. Daaronder staan de kandidaat-stations, elk met de remarks, de datum, de Wikidata-link en een kaartlink.</li>
+    <li><b>Beoordelen:</b> vink de juiste station(s) aan en kies <b>Goedkeuren</b> of <b>Afwijzen</b>. Je kunt ook een opmerking toevoegen. Heeft een foto precies één kandidaat, dan staat die al aangevinkt.</li>
+    <li><b>Station toevoegen:</b> typ een stationnummer, zoals <code>47a</code>. Zo kun je ook foto's zonder kandidaat alsnog koppelen.</li>
+    <li><b>Sneltoetsen:</b> <kbd>←</kbd>/<kbd>→</kbd> voor vorige en volgende, <kbd>1</kbd>–<kbd>9</kbd> om een station aan of uit te vinken, <kbd>G</kbd> goedkeuren, <kbd>A</kbd> afwijzen, <kbd>U</kbd> wissen, <kbd>?</kbd> deze uitleg. Na een beslissing gaat de tool vanzelf naar de volgende foto.</li>
+    <li><b>Opslaan:</b> elke keuze wordt meteen bewaard in <code>review-gui/beslissingen.json</code>. <b>Exporteer CSV</b> maakt <code>review-gui/beslissingen.csv</code>, met de stations, hun Wikidata-ID's en het datumbereik per foto.</li>
+  </ul>
+</dialog>
+
+<main class="layout">
+  <aside class="sidebar">
+    <div class="count" id="list-count"></div>
+    <ol id="list"></ol>
+  </aside>
+
+  <section class="detail" id="detail">
+    <p class="empty">Laden…</p>
+  </section>
+</main>
+
+<footer class="keys">
+  <span><kbd>←</kbd><kbd>→</kbd> vorige/volgende</span>
+  <span><kbd>1</kbd>–<kbd>9</kbd> station aan/uit</span>
+  <span><kbd>G</kbd> goedkeuren</span>
+  <span><kbd>A</kbd> afwijzen</span>
+  <span><kbd>U</kbd> beslissing wissen</span>
+  <span><kbd>?</kbd> help</span>
+</footer>
+
+<template id="tpl-detail">
+  <div class="photo">
+    <a class="img-link" target="_blank" rel="noopener"><img alt=""></a>
+    <div class="img-status"></div>
+  </div>
+  <div class="info">
+    <div class="status-badge"></div>
+    <h2 class="subject"></h2>
+    <p class="meta"></p>
+    <p class="desc"></p>
+    <h3>Kandidaat-stations</h3>
+    <ul class="stations"></ul>
+    <form class="add-station">
+      <input type="text" placeholder="Station toevoegen, bv. 125 of 47a" aria-label="Stationnummer">
+      <button type="submit" class="btn ghost">Toevoegen</button>
+    </form>
+    <textarea class="note" rows="2" placeholder="Opmerking (optioneel)"></textarea>
+    <div class="actions">
+      <button class="btn accept" data-act="goedgekeurd">Goedkeuren <kbd>G</kbd></button>
+      <button class="btn reject" data-act="afgewezen">Afwijzen <kbd>A</kbd></button>
+      <button class="btn ghost" data-act="wis">Wissen <kbd>U</kbd></button>
+      <span class="nav">
+        <button class="btn ghost" data-nav="-1">← Vorige</button>
+        <button class="btn ghost" data-nav="1">Volgende →</button>
+      </span>
+    </div>
+    <p class="msg" role="status"></p>
+  </div>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
