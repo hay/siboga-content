@@ -60,12 +60,3 @@ Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "scheepsvogel". Toen 
 Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de radja van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
 
 ![Groepsfoto op Koninginnedag met de radja van Misool|600](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.428_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga_met_de_radja_van_Misool.jpg?width=1200)
-
-## Open vragen en bronnen (voor het team)
-
-- Hoeveel opvarenden had de Siboga in totaal? Uit de records valt dat niet op te maken.
-- De oude aantekening was "alle bemanningsleden vooral lokaal". Van de matrozen kennen we alleen [[Samioen]] bij naam. Hier is meer bronnenonderzoek nodig, bijvoorbeeld in [[Een jaar aan boord H.M. Siboga]].
-- Van [[Helenus Johannes Boldingh]], [[Doedo Klazinga]], [[Noest]], [[Conrad]], [[Gorter]] en [[Samioen]] is (nog) geen portret op Wikidata of Commons.
-- Dat Nierstrasz de belangrijkste fotograaf was en dat Huijsmans negentien was, staat niet in de records. Het eerste komt uit de Commons-beschrijvingen van de UvA-foto's, het tweede is afgeleid uit zijn geboortejaar 1880.
-- De foto's komen van [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Photographs_of_the_Siboga_Expedition), uit de Bijzondere Collecties van de UvA. De portretten zijn de P18-afbeeldingen van de Wikidata-items van de personen.
-- De vroegere linkjes in dit hoofdstuk: [Leden der expeditie](https://commons.wikimedia.org/wiki/File:Leden_der_expeditie.jpg) en [de hele bemanning](https://commons.wikimedia.org/wiki/File:UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg).
