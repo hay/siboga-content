@@ -13,13 +13,4 @@ De opdracht voor de Siboga-expeditie werd gegeven door Treubmaatschappij.
 
 De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds. 
 
-
-## Ideeën
-	1. opdracht
-	2. financiering (Emma, Wilhelmina etc)
-	3. , doel
-	4. KNAG
-	5. sultan
-	6. 
-
-Boek van Anna: https://www.wikidata.org/wiki/Q124560811
+Anna Weber schreef na de expeditie een persoonlijk reisverslag dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
