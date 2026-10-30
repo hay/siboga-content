@@ -3,6 +3,7 @@ type: chapter
 chapter: "1"
 location: "[[Haven Jakarta]]"
 comment:
+kicker: 7 maart 1899
 ---
 [[Anna Weber]] was aan boord van de Siboga. [[Foto van Anna Weber terwijl ze algen onderzoekt|Kijk hier een mooie foto van Anna]]. Ze werd trouwens ook nog [[Krantenartikel waar Anna Weber wordt geinterviewed|geinterviewed]]. Er is zelfs een [[Murex (Murex) tribulus Linnaeus, 1758|vlinder]] naar haar vernoemd!
 
