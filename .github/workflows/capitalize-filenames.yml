@@ -1,0 +1,68 @@
+name: Capitalize note names
+
+# Gives every Markdown note a capital first letter (welcome.md -> Welcome.md),
+# so notes made on Windows and Mac don't drift apart in case.
+# Folders keep their names: the pipeline reads chapters/, records/, pages/ etc.
+
+on:
+  push:
+    branches: ['**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capitalize-${{ github.ref }}
+
+jobs:
+  capitalize:
+    if: ${{ !github.event.deleted }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Rename notes that start with a lowercase letter
+        shell: python
+        run: |
+          import subprocess, sys
+
+          def git(*args):
+              return subprocess.run(["git", *args], check = True, capture_output = True, text = True).stdout
+
+          files = [f for f in git("ls-files", "-z", "--", "*.md").split("\0") if f]
+          folded = {}
+          for f in files:
+              folded.setdefault(f.lower(), []).append(f)
+
+          renamed = 0
+          for path in files:
+              folder, _, name = path.rpartition("/")
+              # Skip hidden files and folders such as .obsidian/
+              if any(part.startswith(".") for part in path.split("/")):
+                  continue
+              if not name[:1].islower():
+                  continue
+              target = (folder + "/" if folder else "") + name[0].upper() + name[1:]
+              # A case-only duplicate must be merged by hand; renaming would clobber it
+              if len(folded[path.lower()]) > 1:
+                  others = ", ".join(f for f in folded[path.lower()] if f != path)
+                  print(f"::warning file={path}::not renamed, case duplicate of {others}")
+                  continue
+              git("mv", path, target)
+              print(f"{path} -> {target}")
+              renamed += 1
+
+          print(f"{renamed} file(s) renamed")
+          sys.exit(0)
+
+      - name: Commit and push
+        run: |
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Hoofdletter aan het begin van bestandsnamen"
+          # Someone may have pushed in the meantime; GITHUB_TOKEN pushes don't retrigger this workflow
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
