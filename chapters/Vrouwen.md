@@ -2,7 +2,7 @@
 type: chapter
 chapter: "6"
 location: Q10393
-comment: buitenzorg nederlands indie niet bogor
+comment: Sandra - buitenzorg nederlands indie niet bogor
 kicker: Vrouwen aan boord en aan het bureau
 ---
 Aan boord van de Siboga waren twee vrouwen. Daarna schreven nog veel meer vrouwen mee aan de boekenreeks over de expeditie.
@@ -13,7 +13,7 @@ Aan boord van de Siboga waren twee vrouwen. Daarna schreven nog veel meer vrouwe
 
 ## De baboe
 
-De andere vrouw kennen we niet bij naam. Anna noemt haar "baboe", de koloniale term voor een Indonesische huishoudster. Ze kwam uit Buitenzorg (nu Bogor) en was getrouwd met [[Bandong]], de bediende van de Webers. Ze riep Anna als het net bovenkwam:
+De andere vrouw kennen we niet bij naam. Anna noemt haar "baboe", een koloniale term voor een Indonesische huishoudster. Ze kwam uit Buitenzorg (nu Bogor) en was getrouwd met [[Bandong]], de bediende van de Webers. Ze riep Anna als het net bovenkwam:
 
 > „Njonja, poekat datang" (Mevrouw, het net komt boven).
 
