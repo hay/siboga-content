@@ -10,6 +10,7 @@ kicker:
 Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
 
 ![Uitzetten van de dreg vanaf de Siboga|460](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.009_-_Siboga_-_uitzetten_van_de_dreg.jpg?width=1000)
+[Dreggen aan boord van de Siboga](https://commons.wikimedia.org/wiki/File:UvA-Artis_300.009_-_Siboga_-_uitzetten_van_de_dreg.jpg)
 
 Dreg en kor hingen aan een staaltros. De meest gebruikte was 6000 meter lang en 10 millimeter dik. Er kon nog een tros van 4000 meter en 12 millimeter aan vastgemaakt worden. Op [[Tekening van de dreginrichting van de Siboga (Tydeman 1902, plaat 1)|plaat 1]] van Tydeman zie je de route van die tros over het dek. Hij liep over een zwenkboom en een dynamometer, die de trekkracht mat, langs een veeraccumulator die schokken opving, naar de stoomspil.
 
