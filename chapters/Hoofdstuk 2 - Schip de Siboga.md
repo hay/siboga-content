@@ -2,7 +2,7 @@
 type: chapter
 chapter: "2"
 location: Q745025
-comment: "Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis."
+comment: AH Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis.
 kicker: Een varend laboratorium
 ---
 > „den 7den Maart 1899 stoomde H.S. Siboga 's morgens vroeg de haven uit"

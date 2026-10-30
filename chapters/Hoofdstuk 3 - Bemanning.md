@@ -2,7 +2,7 @@
 type: chapter
 chapter: "3"
 location: Q4201319
-comment: "Voorstel (concept), gebaseerd op de records in /records. Het aantal opvarenden is nog onbekend."
+comment: OJ Voorstel (concept), gebaseerd op de records in /records. Het aantal opvarenden is nog onbekend.
 kicker: Wie er aan boord waren
 ---
 ![De bemanning en de wetenschappelijke staf van de Siboga|600](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
