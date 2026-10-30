@@ -5,3 +5,4 @@ description_nl: Nederlandse algoloog (1852-1942)
 contenttype: person
 comment:
 ---
+Anna Weber-van Bosse was een wierendeskundige die als enige 
