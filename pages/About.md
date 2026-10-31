@@ -38,7 +38,7 @@ Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://
 ### Kaart
 - Diepte en land: Natural Earth
 - Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
-- Historische kaart: [[Stadsarchief Amsterdam]], gegeorefereerd met [Allmaps](https://allmaps.org)
+- Historische kaart: [[Stadsarchief Amsterdam]]
 ## Team
 ![[media/team.jpg|300]]
 *Het team van siboga.nl tijdens de Hackalod 2026. Van links naar rechts: Olaf Janssen, Sandra Fauconnier, Daniëlle Jansen, Annika Hendriksen, Hay Kranen en Daan van Ramshorst*
