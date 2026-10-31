@@ -22,7 +22,7 @@ Het was bijna allemaal zeeleven, en vooral dieren zonder ruggengraat. Wie nu in 
 
 Die exemplaren horen bij bijna 3000 verschillende soorten. En dat is nog lang niet alles: veel vissen, schelpen en ander materiaal zijn nog niet digitaal ontsloten.
 
-De meeste vondsten liggen nu in [[Naturalis Biodiversity Center|Naturalis]] in Leiden, waar de verzameling van het [[Zoölogisch Museum Amsterdam]] naartoe is gegaan. Maar Siboga-materiaal ligt ook in Londen, Parijs, Harvard en Trondheim. De wetenschappers die de vondsten beschreven, kregen vaak een deel van het materiaal mee of mochten het houden.
+De meeste vondsten liggen nu in [[Naturalis Biodiversity Center|Naturalis]] in Leiden, waar de verzameling van het [[Zoölogisch Museum Amsterdam]] naartoe is gegaan. Maar Siboga-materiaal ligt ook in [[Natural History Museum, Londen|Londen]], [[Muséum national d'Histoire naturelle|Parijs]], [[Museum of Comparative Zoology|Harvard]] en [[NTNU Vitenskapsmuseet|Trondheim]]. De wetenschappers die de vondsten beschreven, kregen vaak een deel van het materiaal mee of mochten het houden.
 
 ## Nieuw voor de wetenschap
 

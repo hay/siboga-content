@@ -65,6 +65,6 @@ Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de 
   - de dagindeling, de zeemijlen, de kolen, de staaltrossen, de diepste korring en de fuik (blz. 158).
 - [Expeditie Online van Naturalis](https://expeditieonline.naturalis.nl/nl/expeditie/siboga-expeditie). Hieruit komen de pianosnaar van 10.000 meter, de muziek van de hoofdmachinist, de aquaria en de parfumflesjes, en de potjes, blikken en cilinders.
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902), platen 1-3 ([Commons](https://commons.wikimedia.org/wiki/Category:Description_of_the_ship_and_appliances_used_for_scientific_exploration_(1902))).
-- De foto's komen uit de [[Bijzondere Collecties van de Universiteit van Amsterdam|Bijzondere Collecties van de UvA]] (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
+- De foto's komen uit de [[Bijzondere Collecties van de Universiteit van Amsterdam]] (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
 - Nog te controleren: waar de Siboga precies in dok lag. Het record zegt "waarschijnlijk op de marinewerf van Soerabaja".
 :::

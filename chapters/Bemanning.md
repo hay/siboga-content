@@ -137,5 +137,5 @@ Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart 
 - Anna Weber-van Bosse, *[[Een jaar aan boord H.M. Siboga]]* (1904)
 - Emily Hutcheson, *[[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]]* (2023)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
-- [[Bijzondere Collecties van de Universiteit van Amsterdam|Bijzondere Collecties Universiteit van Amsterdam]], via Wikimedia Commons
+- [[Bijzondere Collecties van de Universiteit van Amsterdam]], via Wikimedia Commons
 :::

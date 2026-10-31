@@ -17,7 +17,7 @@ Bijna negentig jaar lang had de soort geen naam. Pas in 1989 beschreef de koraal
 
 ## Van bijna bedreigd naar bedreigd
 
-De IUCN, de organisatie achter de [[IUCN Rode Lijst|Rode Lijst]] van bedreigde soorten, noemde deze koraal in 2008 en 2014 nog „bijna bedreigd". In 2024 werd dat [[IUCN Rode Lijst-beoordeling van Ctenactis albitentaculata (2024)|„bedreigd"]].
+De IUCN, de organisatie achter de Rode Lijst van bedreigde soorten, noemde deze koraal in 2008 en 2014 nog „bijna bedreigd". In 2024 werd dat [[IUCN Rode Lijst-beoordeling van Ctenactis albitentaculata (2024)|„bedreigd"]].
 
 Dat oordeel gaat vooral over de toekomst. De koraal is nog vrij algemeen, en sinds 1989 is hij naar schatting met minder dan een kwart afgenomen. De soort leeft vooral in ondiep water en verbleekt snel als het zeewater te warm wordt. Rond 2035 wordt het zeewater op de riffen waar hij voorkomt naar verwachting elk jaar zo warm dat koralen ernstig verbleken. Daardoor kan de soort vóór 2050 met minstens twee derde afnemen.
 
