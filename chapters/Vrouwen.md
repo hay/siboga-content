@@ -5,7 +5,7 @@ geojson: "[[Vrouwen.geojson]]"
 comment: Sandra - buitenzorg nederlands indie niet bogor. Uitgebreid en ingekort 31-10-2026 (Anna 1904, KB, GLAM-lijst, Stiasny-Wijnhoff 1923); zie Bronnen.
 kicker: Vrouwen aan boord en in de wetenschap
 ---
-Aan boord van de Siboga waren twee vrouwen, tussen ruim vijftig mannen (zie [[Bemanning]]). Na de reis raakten veel meer vrouwen bij de expeditie betrokken: wetenschappers die de vondsten onderzochten en erover publiceerden.
+Aan boord van de Siboga waren twee vrouwen, tussen ruim vijftig mannen (zie [[records/Bemanning]]). Na de reis raakten veel meer vrouwen bij de expeditie betrokken: wetenschappers die de vondsten onderzochten en erover publiceerden.
 
 ## Anna Weber-van Bosse: in lange rok het rif op
 
@@ -21,7 +21,7 @@ De andere vrouw kennen we niet bij naam. Anna noemt haar "baboe", een koloniaal 
 
 > „Njonja, poekat datang" (Mevrouw, het net komt boven).
 
-Alleen Anna's boek noemt Indonesische bemanningsleden bij naam (zie [[Bemanning]]).
+Alleen Anna's boek noemt Indonesische bemanningsleden bij naam (zie [[records/Bemanning]]).
 
 ## Bijna negentig jaar onderzoek: de Siboga-reeks
 
@@ -50,13 +50,16 @@ In dezelfde jaren beschreven [[Anna van Dam]] (1933) en [[Jentina Leene]] (1938)
 :::
 
 ## Bronnen
+:::details Bekijk hier de bronnen
 - Anna Weber-van Bosse, [[Een jaar aan boord H.M. Siboga]] (1904)
 - G.M.W. Acda, [[Op de deining van de wetenschap]] (2019), blz. 164
 - G. Stiasny-Wijnhoff, "On Brinkmann's System of the Nemertea Enopla and *Siboganemertes weberi*, n.g.n.sp.", *Quarterly Journal of Microscopical Science* 67 (1923), blz. 627–669, [doi:10.1242/jcs.s2-67.268.627](https://doi.org/10.1242/jcs.s2-67.268.627)
 - Lijst van de Siboga-reeks op [Wikipedia:GLAM/Expedities](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Expedities/Expedities), naar M. Weber en L.F. de Beaufort, *Siboga-Expeditie. A survey of the results as far as published* (1963)
 - Bibliografische gegevens van de [[KB, nationale bibliotheek]]
+:::
 
 ### Delen van de Siboga-reeks door vrouwen
+:::details Bekijk hier de hele lijst
 - 1901 – [[Ethel Barton]], *[The genus Halimeda](https://www.biodiversitylibrary.org/item/18953)*
 - 1903 – [[Fanny Moser]], *[Die Ctenophoren der Siboga-Expedition](https://www.biodiversitylibrary.org/item/18941)*
 - 1904 – [[Anna Weber-van Bosse]] en M. Foslie, *[The Corallinaceae of the Siboga-Expedition](https://www.biodiversitylibrary.org/item/18871)*
@@ -74,3 +77,4 @@ In dezelfde jaren beschreven [[Anna van Dam]] (1933) en [[Jentina Leene]] (1938)
 - 1938 – [[Jentina Leene]], *The Decapoda Brachyura of the Siboga Expedition. VII. Brachygnatha: Portunidae*
 - 1961 – [[Eve Southward]], *Pogonophora of the Siboga Expedition. II*
 - 1970 – [[Marian Pettibone]], *Polychaeta errantia of the Siboga Expedition. IV*
+:::
