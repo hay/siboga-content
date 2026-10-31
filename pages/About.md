@@ -49,5 +49,8 @@ Voor deze site zijn onder meer deze databronnen, collecties en literatuur gebrui
 - Olaf Janssen
 - Hay Kranen
 - Daan van Ramshorst
+
 ## Technische informatie
+Deze applicatie is gebouwd met hulp van het Claude Opus 5.5 model van Anthropic.
+  
 %BUILD_INFO%
