@@ -49,17 +49,13 @@ In 1902 tekende Tydeman de hele inrichting voor zijn *Description of the ship an
 De thermometers en waterscheppers werden vaak door Max Weber zelf aan de draad gebonden, vanaf een plankje buiten boord (zie [[Bemanning]]).
 
 
-
 ## In het dok
 
-Een schip dat elke dag zo zwaar werkt, heeft onderhoud nodig. Halverwege de reis lag de Siboga lange tijd [[Foto van de Siboga in dok|in dok]], terwijl de expeditie op het eiland Saleier wachtte.
+Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de reis lag de Siboga lange tijd [[Foto van de Siboga in dok|in dok]], terwijl de expeditie op het eiland Saleier wachtte.
 
 ![De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.424_-_Siboga_-_de_Siboga_ligt_in_dok.jpg?width=1200)
 *[[Foto van de Siboga in dok|De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)]]*
 
-## Ideeën
-1. collecties
-2. scheepskist > ander schip Wilhelmina HNLS koningin wilhelmina
 
 ## Bronnen (voor het team)
 
