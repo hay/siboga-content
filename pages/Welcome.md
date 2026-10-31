@@ -2,4 +2,4 @@
 type: page
 title: De Siboga-expeditie
 ---
-Ontdek de Siboga-expeditie: een wetenschappelijke ontdekkingsreis in 1899 en 1900 door de zeeën van Nederlands-Indië op de kanonneerboot Hr.Ms. Siboga. De biologen aan boord verzamelden veel nieuwe soorten planten en dieren en veroorzaakten een revolutie in de wetenschappelijke wereld. Leer hier alles over de expeditie: wie voeren er mee, waar kwamen ze allemaal kwamen en wat verzamelden ze in en langs het water.
+Ontdek de Siboga-expeditie! In 1899 voer de boot Siboga door de zeeën van Nederlands-Indië, het huidige Indonesië. Aan boord: biologen die het leven in en rond de zee onderzochten. Ze verzamelden enorm veel planten en dieren waarvan een groot deel nog nooit beschreven was. Hun ontdekkingen veranderden de manier waarop wetenschappers naar de natuur keken. Ontdek hier wie er meegingen, waar ze kwamen en wat ze vonden.
