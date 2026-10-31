@@ -31,10 +31,10 @@ Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://
 ### Literatuur
 - M. Weber (red.), [[Siboga-Expeditie (publicatiereeks)|Siboga-Expeditie]] (1901-1986)
 - A. Weber-van Bosse, [[Een jaar aan boord H.M. Siboga]] (1904)
-- G.M.W. Acda, [[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf (2019), [[media/Op de deining van de wetenschap. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf.pdf|PDF]]
+- G.M.W. Acda, [[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf (2019)
 - E.S. Hutcheson, [[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930|The Living Seas: Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]] (2023)
 - A. Kieskamp, [[In lange rok de koraalriffen op]] (2026)
-- [[Krantenartikel De expeditie der Siboga (Het Vaderland, 24-07-1899)|De expeditie der Siboga]], Het Vaderland, 24 juli 1899, [[media/Het Vaderland 1899-07-24 - De expeditie der Siboga.webp|scan]]
+- [[Krantenartikel De expeditie der Siboga (Het Vaderland, 24-07-1899)|De expeditie der Siboga]], Het Vaderland, 24 juli 1899
 ### Kaart
 - Diepte en land: Natural Earth
 - Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
