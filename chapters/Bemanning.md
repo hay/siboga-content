@@ -30,6 +30,7 @@ Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officie
 :::gallery
 ![Portret van Max Weber, omstreeks 1900](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Max_Wilhelm_Carl_Weber.jpg?width=1200)
 *[[Portret van Max Weber|Portret van Max Weber, omstreeks 1900]]*
+
 ![Portret van Anna Weber-van Bosse, omstreeks 1910](https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Antoinette_Weber-van_Bosse.jpg?width=1200)
 *[[Portret van Anna Weber-van Bosse|Portret van Anna Weber-van Bosse, omstreeks 1910]]*
 :::
@@ -64,8 +65,10 @@ De drie zoölogen aan boord waren uitgekozen door Weber en de Utrechtse hooglera
 :::gallery
 ![Scheepsarts August Herman Schmidt, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_August_Herman_Schmidt,_Dutch_physician_%281871-1937%29,_ship's_doctor_on_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
 *[[Portret van August Herman Schmidt|Scheepsarts August Herman Schmidt, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)]]*
+
 ![Jan Versluys in het laboratorium van de Siboga, 16 september 1899, uitsnede uit het groepsportret van de wetenschappelijke staf](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Dutch_zoologist_Dr._Jan_Versluys_during_the_Siboga_expedition,_16_September_1899.jpg?width=1200)
 *[[Portret van Jan Versluys|Jan Versluys in het laboratorium van de Siboga, 16 september 1899, uitsnede uit het groepsportret van de wetenschappelijke staf]]*
+
 ![Tekenaar J.W. Huijsmans in 1908, uitsnede uit een foto met zijn echtgenote](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_J.W._Huysmans,_draughtsman_and_scientific_illustrator_of_the_Siboga_expedition.jpg?width=1200)
 *[[Portret van J.W. Huijsmans|Tekenaar J.W. Huijsmans in 1908, uitsnede uit een foto met zijn echtgenote]]*
 :::
