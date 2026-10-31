@@ -5,3 +5,5 @@ description_nl:
 contenttype: location
 comment:
 ---
+
+De exacte kaartlocatie van dit station is onbekend.
