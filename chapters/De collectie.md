@@ -11,7 +11,7 @@ kicker: Duizenden dieren en planten uit zee
 
 In elf maanden haalde de Siboga een enorme hoeveelheid leven uit zee. Er werd 181 keer met de kor of de dreg gevist, en nog ruim honderd keer met andere netten. Daarbij kwamen de vondsten van de riffen, de stranden en soms van de vismarkt. Bijna alles werd aan boord geconserveerd, op sterkwater of gedroogd (zie [[Het verzamelen]]). Al tijdens de reis gingen meer dan honderd kisten naar het Zoölogisch Laboratorium in Amsterdam. Toen de expeditie terugkwam, bestond de verzameling volgens Naturalis uit 8 grote blikken, 377 glazen cilinders en 9 pakketten met grote dieren: samen zo'n 17.000 objecten. Daarnaast waren honderden flessen gevuld met plankton.
 
-Het was bijna allemaal zeeleven, en vooral dieren zonder ruggengraat. Wie nu in de online gegevens van natuurmuseums zoekt naar wat de Siboga-expeditie verzamelde, vindt ruim 13.000 exemplaren. Ongeveer zo zijn ze verdeeld:
+Het was bijna allemaal zeeleven, en vooral dieren zonder ruggengraat. Wie nu in de online gegevens van natuurhistorische musea zoekt naar wat de Siboga-expeditie bij elkaar heeft gebracht, vindt ruim 13.000 exemplaren. Ongeveer zo zijn ze verdeeld:
 
 - **Koralen, kwallen en poliepen** (neteldieren): ruim 4000
 - **Sponzen**: ruim 3200
@@ -21,7 +21,7 @@ Het was bijna allemaal zeeleven, en vooral dieren zonder ruggengraat. Wie nu in 
 - **Wieren en planten**: ruim 150
 - **Wormen, weekdieren, vissen, manteldieren en andere groepen**: de rest
 
-Die exemplaren horen bij bijna 3000 verschillende soorten. En dat is nog lang niet alles: veel vissen, schelpen en ander materiaal staan nog niet online.
+Die exemplaren horen bij bijna 3000 verschillende soorten. En dat is nog lang niet alles: veel vissen, schelpen en ander materiaal zijn nog niet digitaal ontsloten.
 
 De meeste vondsten liggen nu in Naturalis in Leiden, waar de verzameling van het Zoölogisch Museum Amsterdam naartoe is gegaan. Maar Siboga-materiaal ligt ook in Londen, Parijs, Harvard en Trondheim. De wetenschappers die de vondsten beschreven, kregen vaak een deel van het materiaal mee of mochten het houden.
 
