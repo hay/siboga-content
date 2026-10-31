@@ -81,16 +81,16 @@ Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: 
 
 :::gallery
 ![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
-*[[Portret van Gustaaf Frederik Tydeman|Commandant Gustaaf Frederik Tydeman, 1900]]*
+*[[Portret van Gustaaf Frederik Tydeman|Commandant Gustaaf Frederik Tydeman]]*
 
 ![Tweede navigateur C.E. Hoorens van Heyningen, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_C.E._Hoorens_van_Heyningen,_Dutch_naval_officer,_second_navigator_of_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
-*[[Portret van C.E. Hoorens van Heyningen|Tweede navigateur C.E. Hoorens van Heyningen, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)]]*
+*[[Portret van C.E. Hoorens van Heyningen|Tweede navigateur C.E. Hoorens van Heyningen)]]*
 
 ![Korporaal-stokers Loyer en Verhey op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.011_-_Siboga_-_de_heren_Loyer_en_Verhey_op_het_dek_van_de_Siboga.jpg?width=1200)
-*[[Foto van Loyer en Verhey op het dek van de Siboga|Korporaal-stokers Loyer en Verhey op het dek van de Siboga (1899-1900)]]*
+*[[Foto van Loyer en Verhey op het dek van de Siboga|Korporaal-stokers Loyer en Verhey op het dek van de Siboga)]]*
 
 ![Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
-*[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis]]*
+*[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900)]]*
 :::
 
 Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist [[Doedo Klazinga]] en de machinisten [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De korporaal-stokers [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
