@@ -75,9 +75,9 @@ De drie zoölogen aan boord waren uitgekozen door Weber en de Utrechtse hooglera
 
 ## Het schip van Tydeman
 
-Het schip stond onder bevel van luitenant ter zee der eerste klasse [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Weber schreef in zijn dagboek bij een lastige manoeuvre dat Tydeman "even kalm als altijd" bleef. Hij vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Anna hoorde Tydeman eens zeggen dat loden bij mooi weer iedereen lukt, maar dat je er bij slecht weer zeemanschap voor nodig hebt.
+Het schip stond onder bevel van **luitenant ter zee der eerste klasse** [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Weber schreef in zijn dagboek bij een lastige manoeuvre dat Tydeman "even kalm als altijd" bleef. Hij vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Anna hoorde Tydeman eens zeggen dat loden bij mooi weer iedereen lukt, maar dat je er bij slecht weer zeemanschap voor nodig hebt.
 
-Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: eerste navigateur [[Helenus Johannes Boldingh]], geboren in Hoorn, en tweede navigateur [[C.E. Hoorens van Heyningen]], geboren in Leerdam. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van schipper [[W. Eisma]], de chef d'équipage. Van hem is (nog) geen portret bekend.
+Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: **eerste navigateur** [[Helenus Johannes Boldingh]], geboren in Hoorn, en **tweede navigateur** [[C.E. Hoorens van Heyningen]], geboren in Leerdam. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van **schipper** [[W. Eisma]], de chef d'équipage. Van hem is (nog) geen portret bekend.
 
 :::gallery
 ![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
@@ -93,11 +93,11 @@ Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: 
 *[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900)]]*
 :::
 
-Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist [[Doedo Klazinga]] en de machinisten [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De korporaal-stokers [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
+Diep in het schip werkten de mannen die je op het dek zelden zag. **Hoofdmachinist** [[Doedo Klazinga]] en de **machinisten** [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De **korporaal-stokers** [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
 
-Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het koken deed een inheemse sergeant-kok, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
+Voor de proviand en de tafel zorgde **korporaal-hofmeester** [[Nieuwenhuyzen]]. Het koken deed een inheemse **sergeant-kok**, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
 
-Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip Hr.Ms. Siboga]]). Van hem is geen portret bekend.
+Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse **matrozen, lichtmatrozen en stokers**. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip Hr.Ms. Siboga]]). Van hem is geen portret bekend.
 
 ## Samen aan tafel
 
