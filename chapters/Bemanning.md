@@ -34,7 +34,7 @@ Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officie
 *[[Portret van Anna Weber-van Bosse|Portret van Anna Weber-van Bosse, omstreeks 1910]]*
 :::
 
-De expeditie was het werk van een echtpaar. [[Max Weber]] werd in 1852 in Bonn geboren en was hoogleraar in Amsterdam en had al eens meegevaren op de Willem Barents naar de Noordelijke IJszee. Vanaf 1896 lobbyde hij voor een diepzee-expeditie in het oosten van de archipel. Hij wilde vooral weten welke dieren daar in de diepzee leefden.
+De expeditie was het werk van een echtpaar. [[Max Weber]] werd in 1852 in Bonn geboren en was hoogleraar in Amsterdam. Vanaf 1896 lobbyde hij voor een diepzee-expeditie in het oosten van de archipel. Hij wilde vooral weten welke dieren daar in de diepzee leefden.
 
 [[Anna Weber-van Bosse]] voer mee als wetenschapper in haar eigen recht. Ze had in Amsterdam botanie gestudeerd en daar Max leren kennen. Ze trouwden in 1883. Daarna maakten ze samen onderzoeksreizen naar Noorwegen, Nederlands-Indië en Zuid-Afrika. Anna werd een bekende algologe. In 1910 kreeg ze als eerste vrouw in Nederland een eredoctoraat. Over de reis schreef ze het boek [[Een jaar aan boord H.M. Siboga]], vol details over het leven aan boord.
 
@@ -50,13 +50,11 @@ Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna ee
 ## De wetenschappelijke staf
 
 ![Groepsportret in het laboratorium van de Siboga (16 september 1899), met van links naar rechts H.F. Nierstrasz, J.W. Huysmans, Max Weber en J. Versluys](https://commons.wikimedia.org/wiki/Special:FilePath/Siboga_expedition_group_portrait_in_laboratory.jpg?width=1200)
-*[[Foto van de wetenschappelijke staf van de Siboga in het laboratorium|Groepsportret in het laboratorium van de Siboga (16 september 1899), met van links naar rechts H.F. Nierstrasz, J.W. Huysmans, Max Weber en J. Versluys]]*
-
-Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je H. G. Nierstrasz, **wetenschappelijk tekenaar** J.W. Huijsmans, Max Weber en zijn **eerste assistent** Jan Versluys.
+*[[Foto van de wetenschappelijke staf van de Siboga in het laboratorium|Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je H. G. Nierstrasz, wetenschappelijk tekenaar J.W. Huijsmans, Max Weber en zijn eerste assistent Jan Versluys.]]*
 
 De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker.
-* [[Jan Versluys]] was op het Zoölogisch Laboratorium in Amsterdam Webers assistent. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië.
-* [[Hugo Frederik Nierstrasz]] had in Utrecht bij Hubrecht gestudeerd.
+* [[Jan Versluys]] was Webers **eerste assistent**. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië.
+* [[Hugo Frederik Nierstrasz]] had in Utrecht diergeneeskunde gestudeerd.
 * **Scheepsarts** [[August Herman Schmidt]] was naast arts ook zoöloog. Hij was conservator bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
 
 [[Jozef Willem Huijsmans]] was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's.
@@ -74,9 +72,15 @@ De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoog
 
 ## Het schip van Tydeman
 
-Het schip stond onder bevel van **luitenant ter zee der eerste klasse** [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Weber schreef in zijn dagboek bij een lastige manoeuvre dat Tydeman "even kalm als altijd" bleef. Hij vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Anna hoorde Tydeman eens zeggen dat loden bij mooi weer iedereen lukt, maar dat je er bij slecht weer zeemanschap voor nodig hebt.
+Het schip stond onder bevel van **luitenant ter zee der eerste klasse** [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Bij een lastige manoeuvre schreef Weber in zijn dagboek over hem:
 
-Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: **eerste navigateur** [[Helenus Johannes Boldingh]], geboren in Hoorn, en **tweede navigateur** [[C.E. Hoorens van Heyningen]], geboren in Leerdam. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van **schipper** [[W. Eisma]], de chef d'équipage. Van hem is (nog) geen portret bekend.
+> „Tydeman blijft even kalm als altijd" ([[Max Weber]], dagboek)
+
+Weber vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Toen er bij harde wind gelood moest worden, hoorde Anna Tydeman zeggen:
+
+> „bij mooi weder looden, dat kan iedereen, maar bij leelijk weêr is er zeemanschap voor nodig" ([[Gustaaf Frederik Tydeman]], opgetekend door [[Anna Weber-van Bosse]])
+
+Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: **eerste navigateur** [[Helenus Johannes Boldingh]] en **tweede navigateur** [[C.E. Hoorens van Heyningen]]. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van **schipper** [[W. Eisma]], de chef d'équipage.
 
 :::gallery
 ![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
@@ -94,17 +98,15 @@ Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: 
 
 Diep in het schip werkten de mannen die je op het dek zelden zag. **Hoofdmachinist** [[Doedo Klazinga]] en de **machinisten** [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De **korporaal-stokers** [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
 
-Voor de proviand en de tafel zorgde **korporaal-hofmeester** [[Nieuwenhuyzen]]. Het koken deed een inheemse **sergeant-kok**, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
+Voor de proviand en de tafel zorgde **korporaal-hofmeester** [[Nieuwenhuyzen]]. Het koken deed een inheemse **sergeant-kok**, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking:
 
-Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse **matrozen, lichtmatrozen en stokers**. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip Hr.Ms. Siboga]]). Van hem is geen portret bekend.
+> „onze commandant is ook niet voor een kleintje vervaard" ([[Nieuwenhuyzen]], opgetekend door [[Anna Weber-van Bosse]])
+
+Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse **matrozen, lichtmatrozen en stokers**. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald. Van hem is geen portret bekend.
 
 ## Samen aan tafel
 
-Overdag werkte iedereen hard, en 's nachts lag het schip meestal voor anker. Dan was er tijd voor elkaar. Officieren en wetenschappers aten samen aan de tafel op de kampanje, het achterdek. Na het avondeten bleven ze er zitten om te lezen, te schrijven of een spelletje halma te spelen. Vaak traden de Javaanse matrozen 's avonds op met wajang en gamelan.
-
-Aan land gingen officieren en wetenschappers geregeld op bezoek bij bestuurders en bewoners, of op zoek naar planten, dieren en gesteenten. De omgang met de eilandbewoners was volgens Acda steeds vriendschappelijk. In de Soeloe-archipel, waar Spanje en Amerika oorlog voerden, kwamen Amerikaanse marineofficieren aan boord. Zij dachten dat de Siboga daar de Nederlandse vlag kwam planten. Bij een kop thee werd het misverstand opgelost.
-
-Ook de baboe van Anna hoorde bij het gezelschap. In het hele jaar was er maar één onaangenaam voorval tussen haar en het scheepsvolk. Volgens Anna gedroegen de Javaanse matrozen zich netjes tegenover haar, netter dan een Hollandse bemanning tegenover een Hollandse vrouw gedaan zou hebben. Anna droeg haar boek later op aan haar reisgenoten, van wie ze "fijne hoffelijkheid en ware vriendschap" had ondervonden.
+'s Nachts lag het schip meestal voor anker. Dan aten officieren en wetenschappers samen aan de tafel op de kampanje, en bleven ze er zitten om te lezen, te schrijven of halma te spelen. Vaak traden de Javaanse matrozen op met wajang en gamelan. Anna droeg haar boek later op aan haar reisgenoten, van wie ze "fijne hoffelijkheid en ware vriendschap" had ondervonden.
 
 ## Titi en Piet
 
@@ -127,11 +129,7 @@ Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op 
 
 ## Na de reis
 
-Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart namen wetenschappers en officieren afscheid, maar voor de meesten was het geen afscheid voorgoed. De Webers bleven bevriend met Tydeman, en Tydeman met Boldingh.
-
-Ieder ging zijn eigen weg. Boldingh bleef in Indië en ging met Hr.Ms. Bali verder met het in kaart brengen van de zeeën. Hoorens van Heyningen probeerde het leraarschap aan de hbs in Semarang. Dat beviel hem zo goed dat hij in 1901 de marine verliet. Hoofdmachinist Klazinga werd in 1904 bevorderd tot officier-machinist. Voor een machinist was dat toen uitzonderlijk, en Acda schrijft het mede toe aan zijn werk op de Siboga.
-
-Van de wetenschappers werd Versluys hoogleraar in Giessen en later in Wenen. Nierstrasz promoveerde op materiaal van de expeditie en volgde in 1910 Hubrecht op als hoogleraar in Utrecht. Schmidt werd huisarts in Utrecht. Huijsmans bleef in Indië en kreeg in de Plantentuin van Buitenzorg een eigen werkplaats en drukkerij. De Webers, Versluys en Nierstrasz beschreven de vondsten in de Siboga-reeks. De laatste bijdrage van dat viertal verscheen in 1941.
+Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart namen wetenschappers en officieren afscheid, maar de Webers bleven bevriend met Tydeman. Boldingh ging met Hr.Ms. Bali verder met het in kaart brengen van de zeeën, en hoofdmachinist Klazinga werd in 1904 bevorderd tot officier-machinist, voor een machinist toen uitzonderlijk. De Webers, Versluys en Nierstrasz beschreven de vondsten in de Siboga-reeks. De laatste bijdrage van dat viertal verscheen in 1941.
 
 ## Bronnen
 :::details Bekijk alle bronnen
