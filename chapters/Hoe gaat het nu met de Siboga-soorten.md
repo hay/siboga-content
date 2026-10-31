@@ -22,7 +22,14 @@ De IUCN, de organisatie achter de Rode Lijst van bedreigde soorten, noemde deze 
 
 Dat oordeel gaat vooral over de toekomst. De koraal is nog vrij algemeen, en sinds 1989 is hij naar schatting met minder dan een kwart afgenomen. De soort leeft vooral in ondiep water en verbleekt snel als het zeewater te warm wordt. Rond 2035 wordt het zeewater op de [[Rif|riffen]] waar hij voorkomt naar verwachting elk jaar zo warm dat koralen ernstig verbleken. Daardoor kan de soort vóór 2050 met minstens twee derde afnemen.
 
-Of de koraal nu nog bij Selayar leeft, weten we niet. Daarvoor zou iemand opnieuw moeten gaan kijken. Het exemplaar van de Siboga laat wel zien waar de soort ruim 125 jaar geleden leefde.
+## Waar leeft hij nu?
+
+Duikers en snorkelaars fotograferen de koraal en zetten hun foto's op [iNaturalist](https://www.inaturalist.org/observations?taxon_name=Ctenactis%20albitentaculata), waar andere waarnemers de naam controleren. Op [[GBIF]] ([soortpagina](https://www.gbif.org/species/2260588)) komen die waarnemingen samen met museumexemplaren uit de hele wereld, ook dat van de Siboga. Zo is te zien dat de soort de laatste jaren in Indonesië ruim twintig keer is gefotografeerd, van Noord-Sulawesi tot Raja Ampat.
+
+Bij Selayar zelf staat geen recente waarneming. Dat zegt weinig: er duiken daar weinig mensen die hun foto's delen. Ruim 150 kilometer noordelijker, in de Spermonde-archipel bij Makassar, werden in de jaren 1980 nog exemplaren verzameld. Of hij bij Selayar nog leeft, kan alleen iemand vertellen die er gaat kijken.
+
+![[Kaart Ctenactis albitentaculata 1899 en nu.png|700]]
+*Waar* Ctenactis albitentaculata *is gevonden: door de Siboga in 1899 (ster, plek bij benadering), als museumexemplaar in 1980-1986 (vierkantjes) en als waarneming in 2000-2026 (rondjes). Kaart gemaakt met GBIF-gegevens van 31 oktober 2026 en Natural Earth.*
 
 ## Bronnen
 :::details Bekijk alle bronnen
@@ -34,6 +41,9 @@ Of de koraal nu nog bij Selayar leeft, weten we niet. Daarvoor zou iemand opnieu
   - jaarlijkse ernstige verbleking (ASB) gemiddeld vanaf 2033 (SSP5-8.5) of 2036 (SSP2-4.5) zonder aanpassing; met 1 °C aanpassing pas 2061 of 2070 (p. 5);
   - vrijlevende koraal, ongeveer 40 cm, opvallende witte tentakels (p. 6);
   - gevoelig voor verbleking, klimaatverandering als grootste bedreiging (p. 7).
+- Huidige vindplaatsen: GBIF-zoekopdracht taxonKey 2260588, 31-10-2026: 362 records wereldwijd, waarvan 277 met coördinaten; 88 komen uit "iNaturalist Research-grade Observations". In Indonesië 21 iNaturalist-waarnemingen (2003-2026) en 8 RMNH-exemplaren uit de Spermonde-archipel (1980-1986). Geen record met coördinaten binnen ongeveer 1 graad van Selayar. De afstand Spermonde-Selayar (ongeveer 170 km) is berekend.
+- Kaart: gemaakt met matplotlib uit die GBIF-gegevens; landkaart Natural Earth (ne_10m_land, publiek domein). De plek van de Siboga-ster (6,12° Z, 120,46° O, de rede bij de hoofdplaats van Selayar) is een schatting: station 213 heeft geen coördinaten in de lijst. Script en data: `etc/kaart-ctenactis/` (make_map.py, data.txt); het script heeft ne_10m_land.geojson van Natural Earth nodig.
+- "Research grade" op iNaturalist betekent dat de meerderheid van de waarnemers het over de naam eens is, niet dat een specialist hem heeft gecontroleerd.
 - "Met witte tentakels" is de betekenis van de naam (afgeleid). "Dr. Bert W. Hoeksema" staat in de beschrijving van de foto op Commons.
 - Foto: Bernard Dupont, 10-10-2009, Tanjung Kubur (Straat van Lembeh), CC BY-SA 2.0, via Commons; determinatie volgens de beschrijving nagekeken door Bert W. Hoeksema.
 - Nog te controleren: of het Siboga-exemplaar tot het typemateriaal van Hoeksema (1989) hoort. Zijn publicatie staat waarschijnlijk vrij online in de repository van [[Naturalis Biodiversity Center|Naturalis]].
