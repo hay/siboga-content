@@ -15,3 +15,6 @@ Aan boord van de Siboga was een uitgebreide wetenschappelijke staf. De belangrij
 De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
 
 Anna Weber schreef na de expeditie een persoonlijk reisverslag dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
+
+![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
+*[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
