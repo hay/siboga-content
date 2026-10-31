@@ -4,7 +4,7 @@ title: Over deze website
 ---
 Deze website is gebouwd in het kader van de [Hackalod 2026](https://netwerkdigitaalerfgoed.nl/agenda/hackalod-2026/). 
 ## Collecties en databronnen
-Voor deze site zijn onder meer deze collecties en databronnen gebruikt. Bronnen met ![[media/NDE-logo.png|16]] staan in het [NDE-datasetregister](https://datasetregister.netwerkdigitaalerfgoed.nl/).
+Voor deze site zijn onder meer deze databronnen, collecties en literatuur gebruikt. Bronnen met ![[media/NDE-logo.png|16]] staan in het [NDE-datasetregister](https://datasetregister.netwerkdigitaalerfgoed.nl/).
 
 ### Databronnen
 - [Personen uit de Nederlandse Thesaurus van Auteursnamen (NTA)](https://datasetregister.netwerkdigitaalerfgoed.nl/datasets/http://data.bibliotheken.nl/id/dataset/persons) ![[media/NDE-logo.png|16]]
