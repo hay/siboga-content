@@ -1,6 +1,6 @@
 ---
 type: record
-uri: https://www.gbif.org/taxon/3247N
+uri: https://www.gbif.org/species/2260588
 description_nl: Een soort paddenstoelkoraal, al verzameld tijdens de Siboga-Expeditie, en nu op de Rode Lijst.
 contenttype: item
 comment: Dit gaat over de soort, niet het specimen
