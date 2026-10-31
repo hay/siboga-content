@@ -5,13 +5,14 @@ title: Over deze website
 Deze website is gebouwd in het kader van de [Hackalod 2026](https://netwerkdigitaalerfgoed.nl/agenda/hackalod-2026/). 
 ## Team
 ![[media/team.jpg|300]]
+*Het team van siboga.nl tijdens de Hackalod 2026. Van links naar rechts: Olaf Janssen, Sandra Fauconnier, Daniëlle Jansen, Annika Hendriksen, Hay Kranen en Daan van Ramshorst*
 
 - Sandra Fauconnier
 - Annika Hendriksen
 - Daniëlle Jansen
 - Olaf Janssen
 - Hay Kranen
-- Daan van Ramshrost
+- Daan van Ramshorst
 ## Collecties en databronnen
 Voor deze site zijn onder meer deze collecties en databronnen gebruikt. Bronnen met ![[media/NDE-logo.png|16]] staan in het [NDE-datasetregister](https://datasetregister.netwerkdigitaalerfgoed.nl/).
 
