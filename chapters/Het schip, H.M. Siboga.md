@@ -58,9 +58,8 @@ Een schip dat elke dag zo zwaar werkt, heeft onderhoud nodig. Halverwege de reis
 *[[Foto van de Siboga in dok|De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)]]*
 
 ## Ideeën
-
-	1. collecties
-	2. scheepskist > ander schip Wilhelmina HNLS koningin wilhelmina
+1. collecties
+2. scheepskist > ander schip Wilhelmina HNLS koningin wilhelmina
 
 ## Bronnen (voor het team)
 
