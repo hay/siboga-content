@@ -1,7 +1,7 @@
 ---
 type: chapter
-chapter: "10"
-location:
+chapter: "8"
+location: -0.758,119.861
 comment: "AH concept, aangevuld met Acda, Op de deining van de wetenschap (2019), blz. 148-167 /  NB Betere titel nodig Verwijderd: Max Weber wilde met zijn team niet alleen zoveel mogelijk specimens verzamelen, hij wilde ook weten of de [[https://nl.wikipedia.org/wiki/Wallacelijn|Lijn van Wallace]] klopte, de veronderstelde grens tussen de Aziatische en de Australische dieren- en plantenwereld. Hij stelde zelf een andere scheidslijn voor, de Weberlijn."
 kicker: Korren en dreggen, buizen en potten
 ---

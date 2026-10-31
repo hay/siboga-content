@@ -1,7 +1,7 @@
 ---
 type: chapter
 chapter: "5"
-location:
+location: -2.191,125.958
 comment:
 kicker: Bijna een jaar, 363 stations
 ---
