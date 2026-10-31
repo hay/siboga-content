@@ -28,19 +28,12 @@ Meestal lag of dreef het schip op open zee, zoals bij [[Station 262]], op 560 me
 
 Hoe er verzameld werd, lees je in [[Het verzamelen]].
 
-## Bronnen (voor het team)
+## Kaarten die niet klopten
 
-- Stationslijst: "Liste des Stations de la Campagne scientifique du Siboga, révisée par le Commandant M.-G. F. Tydeman", aan het eind van Max Weber, *Introduction et description de l'expédition* (Siboga-Expeditie I, livraison 3), Leiden: E.J. Brill, 1902. De lijst heeft eigen paginanummers (p. 3-16); in de scan zijn dat PDF-pagina's 162/163-176 (de projectdocumenten verschillen hierover, nog te controleren). Het fragment hierboven is p. 7, gecontroleerd met OCR van de afbeelding. Uitgewerkt in `siboga_stations_1899-1900.csv` (363 stations, met Wikidata-URI's). Hieruit komen stations 258 (Tual, 22 m) en 262 (560 m).
-- A. Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904), projectkennis. Gedrukte paginanummers; citaten uit de OCR-tekst, nog niet op de scan gecontroleerd:
-  - definitie van "stations" (p. 13);
-  - de plek 's avonds afgesproken (p. 14);
+Onderweg bleken de zeekaarten er vaak naast te zitten. Tussen Buru en Sulawesi stond een ondiepe bank op de kaart, waar Weber dagen wilde dreggen. Het lood vond er op 4800 meter nog geen bodem. Bij Banda stond een diepte van 7200 meter, door een Britse geleerde het "Weber-diep" genoemd. De Siboga mat er hooguit 4446 meter, en Weber moest zelf vaststellen dat zijn diep niet bestond. Waar de kaart juist ondiep water aangaf, tussen Banda en Tioer, lag het diepste punt van de reis: 5684 meter. Aan boord grapten ze dat veel uitkomsten "van negeerenden aard" waren.
 
-## Ideeën
+## Bronnen
 
-Oorspronkelijke aantekeningen:
+- "Liste des Stations de la Campagne scientifique du Siboga, révisée par le Commandant M.-G. F. Tydeman", in Max Weber, *Introduction et description de l'expédition* (Siboga-Expeditie I, livraison 3), Leiden: E.J. Brill, 1902. 
+- A. Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904)
 
-Op de reis van de Siboga werden XX (hoeveel) stations aangedaan. (Kaartview). Een station is een locatie waar de specimen werden (op)gevangen, geplukt of uit de zee werden gepakt.
-	de reis
-		1. stations
-		2. boek anna
-		3. kaarten klopten niet/kaarten 's nachts voor anker: expeditie online naturalis
