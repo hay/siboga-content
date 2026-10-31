@@ -1,6 +1,6 @@
 # 5. Wikidata: de stations van de expeditie
 
-**Oordeel: de spil.** Wikidata staat ook in het NDE-register, maar het belangrijkste is dat alle andere bronnen er aan elkaar te knopen zijn. De stations van de expeditie staan er al.
+**Oordeel: de spil.** Wikidata staat niet in het NDE-datasetregister, maar is wel onderdeel van het Termennetwerk van het NDE. Het belangrijkste is dat alle andere bronnen er aan elkaar te knopen zijn. De stations van de expeditie staan er al.
 
 ## Wat er staat
 
