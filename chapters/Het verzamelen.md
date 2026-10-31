@@ -8,7 +8,7 @@ kicker: Korren en dreggen, buizen en potten
 ## Verzamelen in de diepzee
 
 
-Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra laadboom, waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het loden.
+Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra [[Laadboom|laadboom]], waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het [[Loden|loden]].
 
 Vele kisten met apparatuur, buizen, potten en chemicaliën werden met de [[HNLMS Koningin Wilhelmina der Nederlanden]] ]] naar de Indische archipel. De [[Scan van schriftje met Inhoud der kisten|inhoud van de kisten]] werd beschreven in een [schriftje](https://archief.amsterdam/inventarissen/file/d40a95f4-d13a-2841-e053-b784100aaebf).
 
@@ -20,14 +20,14 @@ Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden 
 ![Uitzetten van de dreg vanaf de Siboga (1899-1900); de dreg heeft dikke zwabbers die fijne dieren van de bodem in hun vezels vasthouden](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.009_-_Siboga_-_uitzetten_van_de_dreg.jpg?width=1200)
 *[[Foto van het uitzetten van de dreg vanaf de Siboga|Uitzetten van de dreg vanaf de Siboga (1899-1900); de dreg heeft dikke zwabbers die fijne dieren van de bodem in hun vezels vasthouden]]*
 
-Er werd bijna elke dag gedregd. Eerst werd gelood om te weten hoe diep de dregplaats was. Aan dezelfde lodingdraad hingen ook een apparaatje voor een bodemmonster, een waterschepper en een forse thermometer. Zo wist men meteen hoe de bodem eruitzag en hoe warm het water op die diepte was.
+Er werd bijna elke dag gedregd. Eerst werd gelood om te weten hoe diep de dregplaats was. Aan dezelfde lodingdraad hingen ook een apparaatje voor een bodemmonster, een [[Waterschepper|waterschepper]] en een forse thermometer. Zo wist men meteen hoe de bodem eruitzag en hoe warm het water op die diepte was.
 
-Dreg en kor hingen aan een staaltros. De meest gebruikte was 6000 meter lang en 10 millimeter dik. Er kon nog een tros van 4000 meter en 12 millimeter aan vastgemaakt worden. Op [[Tekening van de dreginrichting van de Siboga (Tydeman 1902, plaat 1)|plaat 1]] van Tydeman zie je de route van die tros over het dek. Hij liep over een zwenkboom en een dynamometer, die de trekkracht mat, langs een veeraccumulator die schokken opving, naar de stoomspil.
+Dreg en kor hingen aan een [[Tros|staaltros]]. De meest gebruikte was 6000 meter lang en 10 millimeter dik. Er kon nog een tros van 4000 meter en 12 millimeter aan vastgemaakt worden. Op [[Tekening van de dreginrichting van de Siboga (Tydeman 1902, plaat 1)|plaat 1]] van Tydeman zie je de route van die tros over het dek. Hij liep over een [[Zwenkboom|zwenkboom]] en een [[Dynamometer|dynamometer]], die de trekkracht mat, langs een [[Veeraccumulator|veeraccumulator]] die schokken opving, naar de [[Stoomspil|stoomspil]].
 
 ![Plaat 1 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreginrichting van de Siboga, met o.a. accumulator, zwenkboom, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium en de standaard van het elektrische zoeklicht](https://commons.wikimedia.org/wiki/Special:FilePath/Tydeman_-_Siboga_ship_1902_-_pl_01.jpg?width=1200)
 *[[Tekening van de dreginrichting van de Siboga (Tydeman 1902, plaat 1)|Plaat 1 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreginrichting van de Siboga, met o.a. accumulator, zwenkboom, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium en de standaard van het elektrische zoeklicht]]*
 
-Die stoomspil werd bediend door de Javaanse matroos [[Samioen]]. Rolstoppers hielden de kabel vast als het net binnengehaald werd.
+Die stoomspil werd bediend door de Javaanse [[Matroos|matroos]] [[Samioen]]. [[Rolstopper|Rolstoppers]] hielden de kabel vast als het net binnengehaald werd.
 
 ![Stoomspil en twee rolstoppers met de dregkabel op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.007_-_Siboga_-_stoomspil_en_twee_rolstoppers_met_de_dregkabel_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van de stoomspil en rolstoppers met de dregkabel op het dek van de Siboga|Stoomspil en twee rolstoppers met de dregkabel op het dek van de Siboga (1899-1900)]]*
@@ -46,22 +46,22 @@ Als de kor eindelijk bovenkwam, was het spannend wat erin zat. Soms was het gewe
 
 ## Fuiken, leefnetten en riffen
 
-Naast dreg en kor had de Siboga ook een diepzeefuik. Die werd vanuit een vlet tot op een bepaalde diepte afgezonken, met een boei gemarkeerd en later weer opgehaald. Er werden ook leefnetten gebruikt; op een foto uit die tijd wordt er een aan boord gehaald.
+Naast dreg en kor had de Siboga ook een [[Fuik|diepzeefuik]]. Die werd vanuit een [[Sloep|vlet]] tot op een bepaalde diepte afgezonken, met een boei gemarkeerd en later weer opgehaald. Er werden ook [[Leefnet|leefnetten]] gebruikt; op een foto uit die tijd wordt er een aan boord gehaald.
 
-Niet alles kwam uit de diepte. Op de riffen zochten wetenschappers en officieren tussen de koraalblokken naar zeedieren. Commandant Tydeman deed daar graag aan mee. Volgens Anna Weber-van Bosse had de expeditie aan zijn scherpe oog menig kostbaar dier te danken.
+Niet alles kwam uit de diepte. Op de [[Rif|riffen]] zochten wetenschappers en [[Officier|officieren]] tussen de koraalblokken naar zeedieren. [[Commandant]] Tydeman deed daar graag aan mee. Volgens Anna Weber-van Bosse had de expeditie aan zijn scherpe oog menig kostbaar dier te danken.
 
 De expeditieleden keken ook goed naar hoe de bewoners van de eilanden visten. Weber beschreef onder meer een soort harpoen, een toestel om parelschelpen op te halen en een slimme hengel met een vlieger. Aan de vlieger hing een lijn met een haak, zodat je op afstand van de boot vissen aan het oppervlak kon vangen.
 
 ## Van dek naar museum
 
-Wat dreg, kor en fuik opleverden, werd in het laboratorium aan boord onderzocht en geconserveerd. Zo kon het later in het [[Zoölogisch Museum Amsterdam]] bewaard worden. Honderden flessen werden gevuld met plankton, het voedsel van de diepzeedieren. Al tijdens de reis ging het zoölogisch materiaal in meer dan honderd kisten, in verschillende zendingen, naar Nederland.
+Wat dreg, kor en fuik opleverden, werd in het laboratorium aan boord onderzocht en [[Conserveren|geconserveerd]]. Zo kon het later in het [[Zoölogisch Museum Amsterdam]] bewaard worden. Honderden flessen werden gevuld met [[Plankton|plankton]], het voedsel van de diepzeedieren. Al tijdens de reis ging het zoölogisch materiaal in meer dan honderd kisten, in verschillende zendingen, naar Nederland.
 
 Een van de opvallendste vangsten was een zeilvis van bijna drie meter lang. Met zijn hoge rugvin boven water kan zo'n vis 'zeilend' flink snelheid maken.
 
 ![Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.142_-_Siboga_-_zwaard-_of_zeilvis_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van de zeilvis op het dek van de Siboga|Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen]]*
 
-Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, en wat de watertemperatuur was, hoe er was verzameld en soms ook wat er misging.
+Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een [[Station|station]]. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, en wat de watertemperatuur was, hoe er was verzameld en soms ook wat er misging.
 ## Bronnen
 :::details Bekijk alle bronnen
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)

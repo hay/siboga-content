@@ -5,7 +5,7 @@ geojson: "[[Bemanning.geojson]]"
 comment: OJ Voorstel (concept), gebaseerd op de records in /records en op Acda, Op de deining van de wetenschap (2019), blz. 153-165. Opmerking van SF = misschien voor de leuk zeker De Man (onze Man uit Middelburg) vermelden
 kicker: Wie er aan boord waren
 ---
-> Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: officieren, machinisten, stokers, matrozen en geleerden. Toch leefden ze aan boord in twee werelden.
+> Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: [[Officier|officieren]], [[Machinist|machinisten]], [[Stoker|stokers]], [[Matroos|matrozen]] en geleerden. Toch leefden ze aan boord in twee werelden.
 
 ![De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
 *[[Foto van de bemanning en wetenschappelijke staf van de Siboga (300.426)|De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)]]*
@@ -13,15 +13,15 @@ kicker: Wie er aan boord waren
 Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
 Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak.
-* De **commandant** had de leiding en droeg de verantwoordelijkheid voor schip en bemanning.
-* De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart.
-* De **schipper, de chef d'équipage**, leidde het werk aan dek: de ankers, de touwen en trossen, de sloepen en het uitzetten en binnenhalen van de netten.
-* De **matrozen en lichtmatrozen** deden dat werk met hun handen. Ze stonden aan het roer, hielden het schip schoon en bedienden de stoomspil.
-* De **hoofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel.
-* **Stokers** schepten dag in dag uit kolen in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden.
-* Een **korporaal-hofmeester** beheerde de proviand en zorgde voor de tafel, en een inheemse **sergeant-kok** kookte de maaltijden.
-* Twee **privébedienden** zorgden voor het echtpaar Weber.
-* De **scheepsarts** waakte over de gezondheid van iedereen aan boord en hielp daarnaast mee met het onderzoek.
+* De **[[Commandant|commandant]]** had de leiding en droeg de verantwoordelijkheid voor schip en [[Bemanning|bemanning]].
+* De twee **officieren** hielden om beurten de [[Wacht houden|wacht]], bepaalden de positie van het schip en brachten met de [[Sloep|stoomsloep]] of de roeisloep [[Ankerplaats|ankerplaatsen]] en kusten [[In kaart brengen|in kaart]].
+* De **schipper, de [[Chef d'équipage|chef d'équipage]]**, leidde het werk aan dek: de ankers, de touwen en [[Tros|trossen]], de sloepen en het uitzetten en binnenhalen van de netten.
+* De **matrozen en [[Lichtmatroos|lichtmatrozen]]** deden dat werk met hun handen. Ze stonden aan het roer, hielden het schip schoon en bedienden de [[Stoomspil|stoomspil]].
+* De **hoofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het [[Loden|lodingtoestel]].
+* **Stokers** schepten dag in dag uit [[Kolen laden|kolen]] in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden.
+* Een **[[Hofmeester|korporaal-hofmeester]]** beheerde de proviand en zorgde voor de tafel, en een inheemse **[[Sergeant-kok|sergeant-kok]]** kookte de maaltijden.
+* Twee **[[Privébediende|privébedienden]]** zorgden voor het echtpaar Weber.
+* De **[[Scheepsarts|scheepsarts]]** waakte over de gezondheid van iedereen aan boord en hielp daarnaast mee met het onderzoek.
 
 Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officieren, 45 schepelingen, twee privébedienden en zes wetenschappers. Later kwamen er nog vijf matrozen en twee stokers bij. Dat was veel minder dan de 86 koppen die het schip naar Indië hadden gebracht. Zonder geschut en met een speciale opdracht kon de bemanning kleiner zijn.
 
@@ -35,18 +35,18 @@ Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officie
 *[[Portret van Anna Weber-van Bosse|Portret van Anna Weber-van Bosse, omstreeks 1910]]*
 :::
 
-De expeditie was het werk van een echtpaar. [[Max Weber]] werd in 1852 in Bonn geboren en was hoogleraar in Amsterdam. Vanaf 1896 lobbyde hij voor een diepzee-expeditie in het oosten van de archipel. Hij wilde vooral weten welke dieren daar in de diepzee leefden.
+De expeditie was het werk van een echtpaar. [[Max Weber]] werd in 1852 in Bonn geboren en was hoogleraar in Amsterdam. Vanaf 1896 lobbyde hij voor een diepzee-expeditie in het oosten van de archipel. Hij wilde vooral weten welke dieren daar in de [[Diepzee|diepzee]] leefden.
 
-[[Anna Weber-van Bosse]] voer mee als wetenschapper in haar eigen recht. Ze had in Amsterdam botanie gestudeerd en daar Max leren kennen. Ze trouwden in 1883. Daarna maakten ze samen onderzoeksreizen naar Noorwegen, Nederlands-Indië en Zuid-Afrika. Anna werd een bekende algologe. In 1910 kreeg ze als eerste vrouw in Nederland een eredoctoraat. Over de reis schreef ze het boek [[Een jaar aan boord H.M. Siboga]], vol details over het leven aan boord.
+[[Anna Weber-van Bosse]] voer mee als wetenschapper in haar eigen recht. Ze had in Amsterdam botanie gestudeerd en daar Max leren kennen. Ze trouwden in 1883. Daarna maakten ze samen onderzoeksreizen naar Noorwegen, Nederlands-Indië en Zuid-Afrika. Anna werd een bekende [[Algen|algologe]]. In 1910 kreeg ze als eerste vrouw in Nederland een eredoctoraat. Over de reis schreef ze het boek [[Een jaar aan boord H.M. Siboga]], vol details over het leven aan boord.
 
-Commandant Tydeman stond zijn eigen kajuit, de grootste hut aan boord, aan het echtpaar af. Zelf kon hij in zijn benauwde vervangende hut niet slapen. Hij bracht de nacht dan door op de eettafel.
+Commandant Tydeman stond zijn eigen [[Kajuit|kajuit]], de grootste hut aan boord, aan het echtpaar af. Zelf kon hij in zijn benauwde vervangende hut niet slapen. Hij bracht de nacht dan door op de eettafel.
 
-Max Weber zat vaak buiten boord, op een klein plankje tussen lucht en water. Daar bond hij thermometers en waterscheppers aan de loodlijn. Aan boord heette dat plankje "de pijnbank".
+Max Weber zat vaak buiten boord, op een klein plankje tussen lucht en water. Daar bond hij thermometers en [[Waterschepper|waterscheppers]] aan de loodlijn. Aan boord heette dat plankje "de pijnbank".
 
 ![Max Weber zit op "zijn" plankje, bevestigd aan de zijkant van het schip.](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.328_-_Siboga_-_Max_Weber_turend_naar_de_instrumenten_voor_een_diepzeeloding.jpg?width=1200)
 *[[Max Weber op zijn plankje|Max Weber zit op "zijn" plankje, bevestigd aan de zijkant van het schip.]]*
 
-Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna een jaar lang deel uitmaakte van de bemanning van een marineschip was in die tijd uitzonderlijk. Pas in de Tweede Wereldoorlog traden de eerste vrouwen in marinedienst.
+Anna en de [[Baboe|baboe]] waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna een jaar lang deel uitmaakte van de bemanning van een marineschip was in die tijd uitzonderlijk. Pas in de Tweede Wereldoorlog traden de eerste vrouwen in marinedienst.
 
 ## De wetenschappelijke staf
 
@@ -56,7 +56,7 @@ Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna ee
 De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker.
 * [[Jan Versluys]] was Webers **eerste assistent**. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië.
 * [[Hugo Frederik Nierstrasz]] had in Utrecht diergeneeskunde gestudeerd.
-* **Scheepsarts** [[August Herman Schmidt]] was naast arts ook zoöloog. Hij was conservator bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
+* **Scheepsarts** [[August Herman Schmidt]] was naast arts ook [[Zoöloog|zoöloog]]. Hij was [[Conserveren|conservator]] bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
 
 [[Jozef Willem Huijsmans]] was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's.
 
@@ -73,15 +73,15 @@ De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoog
 
 ## Het schip van Tydeman
 
-Het schip stond onder bevel van **luitenant ter zee der eerste klasse** [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Bij een lastige manoeuvre schreef Weber in zijn dagboek over hem:
+Het schip stond onder bevel van **luitenant ter zee der eerste klasse** [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als [[Hydrografie|hydrograaf]] bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Bij een lastige manoeuvre schreef Weber in zijn dagboek over hem:
 
 > „Tydeman blijft even kalm als altijd" ([[Max Weber]], dagboek)
 
-Weber vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Toen er bij harde wind gelood moest worden, hoorde Anna Tydeman zeggen:
+Weber vernoemde zelfs een [[Zeestraat|zeestraat]] bij het eiland Penida naar hem. Toen er bij harde wind gelood moest worden, hoorde Anna Tydeman zeggen:
 
 > „bij mooi weder looden, dat kan iedereen, maar bij leelijk weêr is er zeemanschap voor nodig" ([[Gustaaf Frederik Tydeman]], opgetekend door [[Anna Weber-van Bosse]])
 
-Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: **eerste navigateur** [[Helenus Johannes Boldingh]] en **tweede navigateur** [[C.E. Hoorens van Heyningen]]. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van **schipper** [[W. Eisma]], de chef d'équipage.
+Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: **eerste [[Navigateur|navigateur]]** [[Helenus Johannes Boldingh]] en **tweede navigateur** [[C.E. Hoorens van Heyningen]]. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van **schipper** [[W. Eisma]], de chef d'équipage.
 
 :::gallery
 ![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
@@ -107,11 +107,11 @@ Het grootste deel van de bemanning die het schip uit Nederland had gebracht, gin
 
 ## Samen aan tafel
 
-'s Nachts lag het schip meestal voor anker. Dan aten officieren en wetenschappers samen aan de tafel op de kampanje, en bleven ze er zitten om te lezen, te schrijven of halma te spelen. Vaak traden de Javaanse matrozen op met wajang en gamelan. Anna droeg haar boek later op aan haar reisgenoten, van wie ze "fijne hoffelijkheid en ware vriendschap" had ondervonden.
+'s Nachts lag het schip meestal voor anker. Dan aten officieren en wetenschappers samen aan de tafel op de [[Kampanje|kampanje]], en bleven ze er zitten om te lezen, te schrijven of halma te spelen. Vaak traden de Javaanse matrozen op met [[Wajang|wajang]] en [[Gamelan|gamelan]]. Anna droeg haar boek later op aan haar reisgenoten, van wie ze "fijne hoffelijkheid en ware vriendschap" had ondervonden.
 
 ## Titi en Piet
 
-Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de **scheepskat**.
+Niet alle opvarenden hadden twee benen of een [[Monsterrol|monsterrol]]. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de **scheepskat**.
 
 :::gallery
 ![Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga (1899)](https://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_Anna_Weber-van_Bosse_met_op_haar_schoot_de_scheepskat_Titi,_gemaakt_op_het_dek_van_de_Siboga.jpg?width=1200)
@@ -121,16 +121,16 @@ Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan 
 *[[Foto van de kasuaris Piet op Saleier|De "scheepsvogel" Piet, een kasuaris]]*
 :::
 
-Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "**scheepsvogel**". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
+Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "**scheepsvogel**". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de [[Pasanggrahan|pasanggrahan]]. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
 
-Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de radja van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
+Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de [[Radja|radja]] van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
 
 ![Groepsfoto op het dek van de Siboga op Koninginnedag, 31 augustus 1899, met de bemanning, de officieren, de wetenschappelijke staf en de radja van Misool naast Anna Weber](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.428_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga_met_de_radja_van_Misool.jpg?width=1200)
 *[[Foto van de bemanning en wetenschappelijke staf van de Siboga met de radja van Misool|Groepsfoto op het dek van de Siboga op Koninginnedag, 31 augustus 1899, met de bemanning, de officieren, de wetenschappelijke staf en de radja van Misool naast Anna Weber]]*
 
 ## Na de reis
 
-Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart namen wetenschappers en officieren afscheid, maar de Webers bleven bevriend met Tydeman. Boldingh ging met Hr.Ms. Bali verder met het in kaart brengen van de zeeën, en hoofdmachinist Klazinga werd in 1904 bevorderd tot officier-machinist, voor een machinist toen uitzonderlijk. De Webers, Versluys en Nierstrasz beschreven de vondsten in de Siboga-reeks. De laatste bijdrage van dat viertal verscheen in 1941.
+Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart namen wetenschappers en officieren afscheid, maar de Webers bleven bevriend met Tydeman. Boldingh ging met [[Hr.Ms.]] Bali verder met het in kaart brengen van de zeeën, en hoofdmachinist Klazinga werd in 1904 bevorderd tot officier-machinist, voor een machinist toen uitzonderlijk. De Webers, Versluys en Nierstrasz beschreven de vondsten in de [[Siboga-reeks]]. De laatste bijdrage van dat viertal verscheen in 1941.
 
 ## Bronnen
 :::details Bekijk alle bronnen

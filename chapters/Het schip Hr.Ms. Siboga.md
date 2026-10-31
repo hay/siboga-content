@@ -12,31 +12,31 @@ kicker: Een varend laboratorium op stoom
 
 ## Van kanonneerboot tot laboratorium
 
-De [[Hr.Ms. Siboga]] was geen onderzoeksschip, maar een marinevaartuig, bedoeld voor dienst in Indië. Na jaren lobbyen kreeg [[Max Weber]] op 4 juli 1898 het bericht dat de minister van Koloniën het schip beschikbaar stelde voor zijn expeditie. Op 1 november 1898 stelde [[Gustaaf Frederik Tydeman]] het schip in Amsterdam in dienst. In december vertrok het naar Indië.
+De [[Hr.Ms. Siboga]] was geen onderzoeksschip, maar een [[Marinevaartuig|marinevaartuig]], bedoeld voor dienst in Indië. Na jaren lobbyen kreeg [[Max Weber]] op 4 juli 1898 het bericht dat de minister van Koloniën het schip beschikbaar stelde voor zijn expeditie. Op 1 november 1898 stelde [[Gustaaf Frederik Tydeman]] het schip in Amsterdam in dienst. In december vertrok het naar Indië.
 
-In de marinehaven van Soerabaja werd de Siboga verbouwd. Het geschut ging van boord en in de bergruimte voor de artillerie kwamen de wetenschappelijke uitrusting en de verzamelde planten en dieren. In het voorschip werd het laboratorium opgesteld. De voorraadkamer werd een donkere kamer voor de fotografie. Tydeman stond zijn eigen kajuit af aan het echtpaar Max Weber en Anna Weber-van Bosse. Voor hem werd een extra officiershut ingericht, maar daar was het zo benauwd dat hij vaak op de eettafel op de kampanje sliep.
+In de marinehaven van Soerabaja werd de Siboga verbouwd. Het geschut ging van boord en in de bergruimte voor de artillerie kwamen de wetenschappelijke uitrusting en de verzamelde planten en dieren. In het voorschip werd het laboratorium opgesteld. De voorraadkamer werd een [[Donkere kamer|donkere kamer]] voor de fotografie. Tydeman stond zijn eigen [[Kajuit|kajuit]] af aan het echtpaar Max Weber en Anna Weber-van Bosse. Voor hem werd een extra officiershut ingericht, maar daar was het zo benauwd dat hij vaak op de eettafel op de [[Kampanje|kampanje]] sliep.
 
-Op 7 maart 1899 lichtte de Siboga op de rede van Soerabaja het anker.
+Op 7 maart 1899 lichtte de Siboga op de [[Ankerplaats|rede]] van Soerabaja het anker.
 
 ## Het laboratorium
 
 ![Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.004_-_Siboga_-_laboratorium_aan_boord_van_de_Siboga.jpg?width=1200)
 *[[Foto van het laboratorium aan boord van de Siboga|Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz]]*
 
-In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werden de specimens ook geconserveerd, in potjes, blikken en glazen cilinders, zodat het later in het [[Zoölogisch Museum Amsterdam]] bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Bemanning]].
+In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werden de [[Specimen|specimens]] ook [[Conserveren|geconserveerd]], in potjes, blikken en glazen cilinders, zodat het later in het [[Zoölogisch Museum Amsterdam]] bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Bemanning]].
 
 ![Slagenteller, dynamometer en veeraccumulator op het dek van de Siboga, voor de toegang tot het laboratorium (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.008_-_Siboga_-_slagenteller,_dynamometer_en_veeraccumulator_op_het_dek_van_de_Siboga_voor_de_toegang_tot_het_laboratorium.jpg?width=1200)
 *[[Foto van slagenteller, dynamometer en veeraccumulator op het dek van de Siboga|Slagenteller, dynamometer en veeraccumulator op het dek van de Siboga, voor de toegang tot het laboratorium (1899-1900)]]*
 
 ## Werken aan boord
 
-Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, rust nodig.
+Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese [[Rif|riffen]] niet zichtbaar waren. Bovendien had de kleine [[Bemanning|bemanning]], die overdag voortdurend in touw was, rust nodig.
 
-Toch legde het schip 12.350 zeemijlen af. Het verstookte 1216 ton kolen, en zestien keer moest er kolen geladen worden. 's Avonds was er ruimte voor ontspanning. Volgens Anna Weber maakten de hoofdmachinist, [[Doedo Klazinga]], en zijn assistenten vaak muziek.
+Toch legde het schip 12.350 [[Zeemijl|zeemijlen]] af. Het verstookte 1216 ton [[Kolen laden|kolen]], en zestien keer moest er kolen geladen worden. 's Avonds was er ruimte voor ontspanning. Volgens Anna Weber maakten de [[Machinist|hoofdmachinist]], [[Doedo Klazinga]], en zijn assistenten vaak muziek.
 
 ## Loden: hoe diep is de zee?
 
-Voor elke [[Dreg|dregbeurt]] werd eerst gelood om de diepte te bepalen. Aan de lodingdraad hingen tegelijk een peillood dat een monster van de bodem meenam, een waterschepper en een forse diepzeethermometer.
+Voor elke [[Dreg|dregbeurt]] werd eerst [[Loden|gelood]] om de diepte te bepalen. Aan de lodingdraad hingen tegelijk een peillood dat een monster van de bodem meenam, een [[Waterschepper|waterschepper]] en een forse diepzeethermometer.
 
 ![Plaat 2 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreg- en peilinrichting van de Siboga, met o.a. accumulator, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium, de Le Blanc-peilmachine en een zeeftafel](https://commons.wikimedia.org/wiki/Special:FilePath/Tydeman_-_Siboga_ship_1902_-_pl_02.jpg?width=1200)
 *[[Tekening van de dreg- en peilinrichting van de Siboga (Tydeman 1902, plaat 2)|Plaat 2 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreg- en peilinrichting van de Siboga, met o.a. accumulator, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium, de Le Blanc-peilmachine en een zeeftafel]]*
