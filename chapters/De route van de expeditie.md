@@ -83,7 +83,7 @@ Na de reis publiceerde Weber de lijst met alle stations, met een grote uitvouwka
 
 Oorspronkelijke aantekeningen:
 
-	Op de reis van de Siboga werden XX (hoeveel) stations aangedaan. (Kaartview). Een station is een locatie waar de specimen werden (op)gevangen, geplukt of uit de zee werden gepakt.
+Op de reis van de Siboga werden XX (hoeveel) stations aangedaan. (Kaartview). Een station is een locatie waar de specimen werden (op)gevangen, geplukt of uit de zee werden gepakt.
 	de reis
 		1. stations
 		2. boek anna
