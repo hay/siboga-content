@@ -15,3 +15,4 @@ Anna schreef het haar eigen reisverhaal over de Siboga-expeditie '[[Een jaar aan
 ##### Wetenschappelijke publicatiereeks
 Max Weber had hij ook de bedoeling om de resultaten van de Siboga-expeditie te publiceren. Deze wetenschappelijke Sibogareeks werd uiteindelijk - na een eerste publicatie van Max Weber - tussen 1904 en 1983 door een groot aantal wetenschappers geschreven. Uiteindelijk verschenen 148 artikelen over de [[Het verzamelen|specimen en soorten die tijdens de expeditie werden verzameld]].
 
+![De inleiding van de Siboga-reeks](https://archimer.ifremer.fr/doc/00000/4745/4237.pdf)
