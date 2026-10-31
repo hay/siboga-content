@@ -6,7 +6,7 @@ Verkenning van 31 oktober 2026: welke termen uit [[Verklarend woordenboek]] hebb
 
 ## Werkwijze
 
-- Gezocht via de GraphQL-API (`https://termennetwerk-api.netwerkdigitaalerfgoed.nl/graphql`), zie [[06-termennetwerk]].
+- Gezocht via de GraphQL-API (`https://termennetwerk-api.netwerkdigitaalerfgoed.nl/graphql`), zie [06-termennetwerk.md](06-termennetwerk.md).
 - Bronnen: Cultuurhistorische Thesaurus (CHT, RCE), Art & Architecture Thesaurus (AAT), Indisch Erfgoed Thesaurus (IED), Thesaurus Wereldmuseum, GTAA onderwerpen (Beeld & Geluid) en Wikidata.
 - CHT en AAT gebruiken meervoudsvormen; waar het enkelvoud niets gaf, is ook het meervoud of een synoniem gezocht.
 - **Match** betekent: *ja* = zelfde begrip; *deels* = bredere of verwante term, of omschrijving niet gecontroleerd; *nee* = niets bruikbaars. Het oordeel is gebaseerd op het label en de eerste 90 tekens van de omschrijving (scopeNote), niet op de volledige omschrijving.

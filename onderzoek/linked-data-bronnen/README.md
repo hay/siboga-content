@@ -12,6 +12,7 @@ Elke bron heeft een eigen bestand met **steekproeven**: losse URI's die je kunt 
 | 4 | GBIF (Naturalis, NHM Londen, MNHN Parijs, …) | Specimens met datum, vindplaats en stationsnummer | 13.218 specimens met verzamelaar "Siboga Expedition" | [04-gbif-specimens.md](04-gbif-specimens.md) |
 | 5 | Wikidata | De stations van de expeditie | 363 items, 255 met coördinaten | [05-wikidata-stations.md](05-wikidata-stations.md) |
 | 6 | NDE Termennetwerk | Historische plaatsnamen en personen koppelen | dienst, geen dataset | [06-termennetwerk.md](06-termennetwerk.md) |
+| 8 | NDE Termennetwerk | Matches voor de termen uit het Verklarend woordenboek | 47 van 79 termen goed, 16 deels | [08-termennetwerk-woordenboek.md](08-termennetwerk-woordenboek.md) |
 | – | Bevraagd zonder resultaat | Rijksmuseum, RCE, RKD, en andere | – | [07-niet-gevonden.md](07-niet-gevonden.md) |
 
 ## Waarom vind je in het register zelf niets?
