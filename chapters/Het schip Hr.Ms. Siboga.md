@@ -59,13 +59,10 @@ Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de 
 
 ## Bronnen
 :::details Bekijk alle bronnen
-- G.M.W. Acda, [[Op de deining van de wetenschap]] (2019), blz. 149-158, in `media/Op de deining van de wetenschap - De Siboga-expeditie (blz. 143-167).pdf`. Hieruit komen:
-  - het flottieljevaartuig en de toezegging van 4 juli 1898 (blz. 149-150);
-  - de indienststelling op 1 november 1898 (blz. 153);
-  - de verbouwing en de lodingtoestellen (blz. 157);
-  - de dagindeling, de zeemijlen, de kolen, de staaltrossen, de diepste korring en de fuik (blz. 158).
-- [Expeditie Online van Naturalis](https://expeditieonline.naturalis.nl/nl/expeditie/siboga-expeditie). Hieruit komen de pianosnaar van 10.000 meter, de muziek van de hoofdmachinist, de aquaria en de parfumflesjes, en de potjes, blikken en cilinders.
-- G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902), platen 1-3 ([Commons](https://commons.wikimedia.org/wiki/Category:Description_of_the_ship_and_appliances_used_for_scientific_exploration_(1902))).
-- De foto's komen uit de [[Bijzondere Collecties van de Universiteit van Amsterdam]] (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
+- G.M.W. Acda, [[Op de deining van de wetenschap|Op de deining van de wetenschap - De Siboga-expeditie]] (2019) 
+- [Expeditie Online van Naturalis](https://expeditieonline.naturalis.nl/nl/expeditie/siboga-expeditie)
+-  G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902), platen 1-3 ([Commons](https://commons.wikimedia.org/wiki/Category:Description_of_the_ship_and_appliances_used_for_scientific_exploration_(1902))).
+- De foto's komen uit de [[Bijzondere Collecties van de Universiteit van Amsterdam]] (via Commons). 
+- De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
 - Nog te controleren: waar de Siboga precies in dok lag. Het record zegt "waarschijnlijk op de marinewerf van Soerabaja".
 :::
