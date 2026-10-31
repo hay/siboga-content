@@ -30,7 +30,7 @@ In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd o
 
 ## Werken aan boord
 
-Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, haar rust nodig. In de hele reis voer de Siboga maar 75 nachten door.
+Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, rust nodig. 
 
 Toch legde het schip 12.350 zeemijlen af. Het verstookte 1216 ton kolen, en zestien keer moest er kolen geladen worden. 's Avonds was er ruimte voor ontspanning. Volgens Anna Weber maakten de hoofdmachinist, [[Doedo Klazinga]], en zijn assistenten vaak muziek.
 
