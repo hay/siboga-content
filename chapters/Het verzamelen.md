@@ -59,8 +59,7 @@ Een van de opvallendste vangsten was een zeilvis van bijna drie meter lang. Met 
 ![Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.142_-_Siboga_-_zwaard-_of_zeilvis_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van de zeilvis op het dek van de Siboga|Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen]]*
 
-Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, hoe de bodem eruitzag, hoe er was verzameld en wat er misging. Zo weet je nu nog precies waar een dier uit de collectie vandaan komt.
-
+Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, en wat de watertemperatuur was, hoe er was verzameld en soms ook wat er misging. 
 ## Bronnen
 
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
