@@ -5,7 +5,7 @@ location: 52.165065,4.472570
 comment: "Concept 31-10-2026 (voorheen placeholder Klimaatimpact), op basis van GBIF, de IUCN Rode Lijst (2024) en de stationslijst. Locatie nog kiezen: station 213 (Selayar) heeft geen coördinaten in de lijst."
 kicker: Een koraal uit 1899, bedreigd in 2024
 ---
-Wat de Siboga in 1899 ophaalde, ligt nog steeds in museumladen. Dankzij digitale collecties kunnen we nagaan hoe het die soorten nu vergaat. Neem deze paddenstoelkoraal.
+Door de Siboga-expeditie hebben we (vaak de allereerste) wetenschappelijke gegevens over veel soorten in de wateren rond Indonesie.
 
 ## Een naamloze koraal van Selayar
 
