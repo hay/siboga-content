@@ -3,16 +3,6 @@ type: page
 title: Over deze website
 ---
 Deze website is gebouwd in het kader van de [Hackalod 2026](https://netwerkdigitaalerfgoed.nl/agenda/hackalod-2026/). 
-## Team
-![[media/team.jpg|300]]
-*Het team van siboga.nl tijdens de Hackalod 2026. Van links naar rechts: Olaf Janssen, Sandra Fauconnier, Daniëlle Jansen, Annika Hendriksen, Hay Kranen en Daan van Ramshorst*
-
-- Sandra Fauconnier
-- Annika Hendriksen
-- Daniëlle Jansen
-- Olaf Janssen
-- Hay Kranen
-- Daan van Ramshorst
 ## Collecties en databronnen
 Voor deze site zijn onder meer deze collecties en databronnen gebruikt. Bronnen met ![[media/NDE-logo.png|16]] staan in het [NDE-datasetregister](https://datasetregister.netwerkdigitaalerfgoed.nl/).
 
@@ -49,5 +39,15 @@ Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://
 - Diepte en land: Natural Earth
 - Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
 - Historische kaart: [[Stadsarchief Amsterdam]], gegeorefereerd met [Allmaps](https://allmaps.org)
+## Team
+![[media/team.jpg|300]]
+*Het team van siboga.nl tijdens de Hackalod 2026. Van links naar rechts: Olaf Janssen, Sandra Fauconnier, Daniëlle Jansen, Annika Hendriksen, Hay Kranen en Daan van Ramshorst*
+
+- Sandra Fauconnier
+- Annika Hendriksen
+- Daniëlle Jansen
+- Olaf Janssen
+- Hay Kranen
+- Daan van Ramshorst
 ## Technische informatie
 %BUILD_INFO%
