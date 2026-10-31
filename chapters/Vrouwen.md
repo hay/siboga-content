@@ -56,7 +56,7 @@ In dezelfde jaren beschreven [[Anna van Dam]] (1933) en [[Jentina Leene]] (1938)
 - Anna Weber-van Bosse, [[Een jaar aan boord H.M. Siboga]] (1904)
 - G.M.W. Acda, [[Op de deining van de wetenschap]] (2019), blz. 164
 - G. Stiasny-Wijnhoff, "On Brinkmann's System of the Nemertea Enopla and *Siboganemertes weberi*, n.g.n.sp.", *Quarterly Journal of Microscopical Science* 67 (1923), blz. 627–669, [doi:10.1242/jcs.s2-67.268.627](https://doi.org/10.1242/jcs.s2-67.268.627)
-- Lijst van de Siboga-reeks op [Wikipedia:GLAM/Expedities](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Expedities/Expedities), naar M. Weber en L.F. de Beaufort, *Siboga-Expeditie. A survey of the results as far as published* (1963)
+- M. Weber en L.F. de Beaufort, *Siboga-Expeditie. A survey of the results as far as published* (1963)
 - Bibliografische gegevens van de [[KB, nationale bibliotheek]]
 - Wikipedia, [*Mia Boissevain*](https://nl.wikipedia.org/wiki/Mia_Boissevain)
 :::
