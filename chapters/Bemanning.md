@@ -7,7 +7,7 @@ kicker: Wie er aan boord waren
 ---
 >Mij was de taak opgedragen, alle werkzaamheden de marine flora betreffende, op mij te nemen. ([[Anna Weber-van Bosse]])
 
-Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: [[Officier|officieren]], [[Machinist|machinisten]], [[Stoker|stokers]], [[Matroos|matrozen]] en geleerden. Toch leefden ze aan boord in twee werelden.
+Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: [[Officier|officieren]], [[Machinist|machinisten]], [[Stoker|stokers]], [[Matroos|matrozen]] en geleerden.
 
 ![De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
 *[[Foto van de bemanning en wetenschappelijke staf van de Siboga (300.426)|De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)]]*
