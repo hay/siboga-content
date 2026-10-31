@@ -83,5 +83,5 @@ De naam *Bathygadus* betekent "diepzee-kabeljauw". Het is een rattenstaart, een 
 - [[Naturalis Biodiversity Center|Naturalis]], *Siboga-expeditie: wat een vangst!*, Expeditie Online
 - Wikipedia, *Siboga-expeditie*
 - [[GBIF]], Global Biodiversity Information Facility, gegevens van [[Naturalis Biodiversity Center|Naturalis]], het [[Museum of Comparative Zoology]] en andere musea
-- [[Wikimedia Commons]]
+- Wikimedia Commons
 :::

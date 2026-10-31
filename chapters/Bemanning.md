@@ -11,8 +11,6 @@ kicker: Wie er aan boord waren
 
 Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
-## Rollen aan boord
-
 Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak.
 * De **commandant** had de leiding en droeg de verantwoordelijkheid voor schip en bemanning.
 * De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart.
@@ -139,5 +137,5 @@ Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart 
 - Anna Weber-van Bosse, *[[Een jaar aan boord H.M. Siboga]]* (1904)
 - Emily Hutcheson, *[[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]]* (2023)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
-- Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
+- [[Bijzondere Collecties van de Universiteit van Amsterdam|Bijzondere Collecties Universiteit van Amsterdam]], via Wikimedia Commons
 :::
