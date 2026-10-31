@@ -17,7 +17,7 @@ Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eige
 * De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart. 
 * De **schipper, de chef d'équipage**, leidde het werk aan dek: de ankers, de touwen en trossen, de sloepen en het uitzetten en binnenhalen van de netten. 
 * De **matrozen en lichtmatrozen** deden dat werk met hun handen. Ze stonden aan het roer, hielden het schip schoon en bedienden de stoomspil.
-* De h**oofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel. 
+* De **hoofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel. 
 * **Stokers** schepten dag in dag uit kolen in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden. 
 * Een **korporaal-hofmeester** beheerde de proviand en zorgde voor de tafel, en een inheemse **sergeant-kok** kookte de maaltijden. 
 * Twee **privébedienden** zorgden voor het echtpaar Weber. 
@@ -75,25 +75,27 @@ De drie zoölogen aan boord waren uitgekozen door Weber en de Utrechtse hooglera
 
 ## Het schip van Tydeman
 
-![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
-*[[Portret van Gustaaf Frederik Tydeman|Commandant Gustaaf Frederik Tydeman, 1900]]*
-
 Het schip stond onder bevel van luitenant ter zee der eerste klasse [[Gustaaf Frederik Tydeman]]. Hij was meer dan een gezagvoerder. Als hydrograaf bracht hij onderweg de zeebodem in kaart, en hij fotografeerde zelf ook. Weber schreef in zijn dagboek bij een lastige manoeuvre dat Tydeman "even kalm als altijd" bleef. Hij vernoemde zelfs een zeestraat bij het eiland Penida naar hem. Anna hoorde Tydeman eens zeggen dat loden bij mooi weer iedereen lukt, maar dat je er bij slecht weer zeemanschap voor nodig hebt.
 
 Voor de navigatie had Tydeman twee officieren, die hij vooraf nauwelijks kende: eerste navigateur [[Helenus Johannes Boldingh]], geboren in Hoorn, en tweede navigateur [[C.E. Hoorens van Heyningen]], geboren in Leerdam. Beiden hadden ervaring met het in kaart brengen van zeeën. Veel zeekaarten van dit gebied klopten niet, dus de officieren maten zelf en rekenden hun metingen de volgende dag uit. Hoorens van Heyningen vond dat heerlijk werk. Het werk aan dek stond onder leiding van schipper [[W. Eisma]], de chef d'équipage. Van hem is (nog) geen portret bekend.
 
+:::gallery
+![Commandant Gustaaf Frederik Tydeman, 1900](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.436_-_Siboga_-_Gustaaf_Frederik_Tydeman.jpg?width=1200)
+*[[Portret van Gustaaf Frederik Tydeman|Commandant Gustaaf Frederik Tydeman, 1900]]*
+
 ![Tweede navigateur C.E. Hoorens van Heyningen, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_C.E._Hoorens_van_Heyningen,_Dutch_naval_officer,_second_navigator_of_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
 *[[Portret van C.E. Hoorens van Heyningen|Tweede navigateur C.E. Hoorens van Heyningen, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)]]*
-
-Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist [[Doedo Klazinga]] en de machinisten [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De korporaal-stokers [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
 
 ![Korporaal-stokers Loyer en Verhey op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.011_-_Siboga_-_de_heren_Loyer_en_Verhey_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van Loyer en Verhey op het dek van de Siboga|Korporaal-stokers Loyer en Verhey op het dek van de Siboga (1899-1900)]]*
 
-Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het koken deed een inheemse sergeant-kok, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
-
 ![Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
 *[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis]]*
+:::
+
+Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist [[Doedo Klazinga]] en de machinisten [[Noest]] en [[Conrad]] hielden de stoommachine draaiende. De korporaal-stokers [[Gorter]], [[Loyer]] en [[Verhey]] stookten de ketels. Loyer en Verhey staan samen op een van de weinige foto's waarop gewone opvarenden met naam genoemd worden.
+
+Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het koken deed een inheemse sergeant-kok, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
 
 Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip, H.M. Siboga]]). Van hem is geen portret bekend.
 
@@ -109,13 +111,15 @@ Ook de baboe van Anna hoorde bij het gezelschap. In het hele jaar was er maar é
 
 Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de scheepskat.
 
+:::gallery
 ![Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga (1899)](https://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_Anna_Weber-van_Bosse_met_op_haar_schoot_de_scheepskat_Titi,_gemaakt_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van Anna Weber-van Bosse met de scheepskat Titi|Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga (1899)]]*
 
-Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "scheepsvogel". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
-
 ![De "scheepsvogel" Piet, een kasuaris, op het erf van de pasanggrahan op Saleier (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.273_-_Siboga_-_de_%22scheepsvogel%22_Piet,_een_kasuaris,_op_het_erf_van_de_pasanggrahan_op_Saleyer.jpg?width=1200)
 *[[Foto van de kasuaris Piet op Saleier|De "scheepsvogel" Piet, een kasuaris, op het erf van de pasanggrahan op Saleier (1899-1900)]]*
+:::
+
+Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "scheepsvogel". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
 
 Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de radja van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
 
