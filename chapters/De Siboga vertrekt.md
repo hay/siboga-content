@@ -15,7 +15,7 @@ De [[Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsc
 
 De Maatschappij lobbyde bij de Nederlandse en koloniale overheid. In mei 1898 besloot de [[gouverneur-generaal]] in Batavia de [[Hr.Ms. Siboga|kanonneerboot Siboga]] ter beschikking van Weber te stellen. De koloniale regering in Nederlands-Indië betaalde ook de kolen, het onderhoud van het schip en de salarissen van de commandant, de officieren en de bemanning.
 ## Financiering
-De financiering van de expeditie lag grotendeels in de handen van de Treub-maatschappij. De Maatschappij zocht ook particuliere fondsen voor de expeditie. Ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
+De financiering van de expeditie lag grotendeels in handen van de Treub-maatschappij. De Maatschappij zocht ook particuliere fondsen voor de expeditie. Ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
 ## Voorbereiding
 ![Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.004_-_Siboga_-_laboratorium_aan_boord_van_de_Siboga.jpg?width=1200)
 *[[Foto van het laboratorium aan boord van de Siboga|Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz]]*
