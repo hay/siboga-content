@@ -22,7 +22,7 @@ De financiering van de expeditie lag grotendeels in handen van de Treub-maatscha
 
 Weber kocht thermometers, waterflessen, laboratoriumuitrusting en netten. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter. Aan boord van de Siboga was een uitgebreide wetenschappelijke staf. De belangrijkste leden daarvan waren [[Max Weber]] (initiatiefnemer van de Siboga-expeditie) en [[Algen|algologe]] [[Anna Weber-van Bosse]].  Het echtpaar maakte een reis [door Egypte](https://commons.wikimedia.org/wiki/File:UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg) en India voordat zij in Batavia (nu Jakarta) aan boord van de Siboga gingen.
 ## Een jaar aan boord van de Siboga
-Anna Weber schreef [[Na de Siboga|na de expeditie een persoonlijk reisverslag]] dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
+Anna Weber schreef [[Na de Siboga|na de expeditie]] een persoonlijk reisverslag dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
 
 ![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
 *[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
