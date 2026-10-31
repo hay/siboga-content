@@ -135,9 +135,10 @@ Ieder ging zijn eigen weg. Boldingh bleef in Indië en ging met Hr.Ms. Bali verd
 Van de wetenschappers werd Versluys hoogleraar in Giessen en later in Wenen. Nierstrasz promoveerde op materiaal van de expeditie en volgde in 1910 Hubrecht op als hoogleraar in Utrecht. Schmidt werd huisarts in Utrecht. Huijsmans bleef in Indië en kreeg in de Plantentuin van Buitenzorg een eigen werkplaats en drukkerij. De Webers, Versluys en Nierstrasz beschreven de vondsten in de Siboga-reeks. De laatste bijdrage van dat viertal verscheen in 1941.
 
 ## Bronnen
-
+:::details Bekijk alle bronnen
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
 - Anna Weber-van Bosse, *[[Een jaar aan boord H.M. Siboga]]* (1904)
 - Emily Hutcheson, *[[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]]* (2023)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
 - Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
+:::

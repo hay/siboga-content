@@ -1,16 +1,18 @@
 ---
 type: chapter
-chapter: "10"
-location:
+chapter: "8"
+location: -0.758,119.861
 comment: "AH concept, aangevuld met Acda, Op de deining van de wetenschap (2019), blz. 148-167 /  NB Betere titel nodig Verwijderd: Max Weber wilde met zijn team niet alleen zoveel mogelijk specimens verzamelen, hij wilde ook weten of de [[https://nl.wikipedia.org/wiki/Wallacelijn|Lijn van Wallace]] klopte, de veronderstelde grens tussen de Aziatische en de Australische dieren- en plantenwereld. Hij stelde zelf een andere scheidslijn voor, de Weberlijn."
 kicker: Korren en dreggen, buizen en potten
 ---
 ## Verzamelen in de diepzee
 
 
-
 Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra laadboom, waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het loden.
 
+Vele kisten met apparatuur en chemicaliën werden met de HNLMS Koningin Wilhelmina der Nederlanden verscheept naar de Indische archipel.
+#hier een afbeelding
+[[Inhoud der kisten]]
 ## Dreggen en korren
 
 Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[Dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
@@ -59,11 +61,11 @@ Een van de opvallendste vangsten was een zeilvis van bijna drie meter lang. Met 
 ![Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.142_-_Siboga_-_zwaard-_of_zeilvis_op_het_dek_van_de_Siboga.jpg?width=1200)
 *[[Foto van de zeilvis op het dek van de Siboga|Een gevangen zeilvis (Istiophorus orientalis) van 2,68 meter op het dek van de Siboga (1899-1900), met erachter tekenaar J.W. Huysmans en op de achtergrond korporaal-hofmeester Nieuwenhuyzen]]*
 
-Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, hoe de bodem eruitzag, hoe er was verzameld en wat er misging. Zo weet je nu nog precies waar een dier uit de collectie vandaan komt.
-
+Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, en wat de watertemperatuur was, hoe er was verzameld en soms ook wat er misging. 
 ## Bronnen
-
+:::details Bekijk alle bronnen
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
 - *De expeditie der Siboga*, Het Vaderland, 24 juli 1899
 - Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
+:::

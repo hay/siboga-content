@@ -1,8 +1,8 @@
 ---
 type: chapter
-chapter: "8"
-location: https://www.wikidata.org/wiki/Q1636150
-comment: DJ
+chapter: "7"
+location: 52.10885, 6.0716
+comment: "DJ ; SF opmerking: De Man hierin verwerken"
 kicker:
 ---
 >Onverwachts deed zich echter een omstandigheid voor, die mij ertoe bracht mijn reisherinneringen neer te schrijven en den lezer aan te bieden ([[Anna Weber-van Bosse]])
