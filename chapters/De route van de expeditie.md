@@ -36,4 +36,3 @@ Onderweg bleken de zeekaarten er vaak naast te zitten. Tussen Buru en Sulawesi s
 
 - "Liste des Stations de la Campagne scientifique du Siboga, révisée par le Commandant M.-G. F. Tydeman", in Max Weber, *Introduction et description de l'expédition* (Siboga-Expeditie I, livraison 3), Leiden: E.J. Brill, 1902. 
 - A. Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904)
-
