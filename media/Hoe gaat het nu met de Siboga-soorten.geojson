@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Selayar",
+                "link": "[[Station 213]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.4666, -6.1196]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Straat van Lembeh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125.223, 1.4507]
+            }
+        }
+    ]
+}

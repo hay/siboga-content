@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "4"
+geojson: "[[De collectie.geojson]]"
 comment: AH. Concept OJ, op basis van GBIF (stand 31-10-2026), Acda (2019), Expeditie Online van Naturalis, Wikipedia en de records in /records.
 kicker: Duizenden dieren en planten uit zee
 ---

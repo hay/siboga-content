@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "6"
+geojson: "[[Vrouwen.geojson]]"
 comment: Sandra - buitenzorg nederlands indie niet bogor. Uitgebreid en ingekort 31-10-2026 (Anna 1904, KB, GLAM-lijst, Stiasny-Wijnhoff 1923); zie Bronnen.
 kicker: Vrouwen aan boord en aan het bureau
 ---

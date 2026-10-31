@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Straat Bali"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.425, -8.1]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Celebes-zee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [119.3667, 3.1167]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Banda-zee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [126.455, -5.745]
+            }
+        }
+    ]
+}

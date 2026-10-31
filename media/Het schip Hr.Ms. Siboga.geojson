@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soerabaja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.7333, -7.2]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saleier",
+                "link": "[[Station 213]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.4666, -6.1196]
+            }
+        }
+    ]
+}

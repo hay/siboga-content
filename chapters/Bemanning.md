@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "3"
+geojson: "[[Bemanning.geojson]]"
 comment: OJ Voorstel (concept), gebaseerd op de records in /records en op Acda, Op de deining van de wetenschap (2019), blz. 153-165. Opmerking van SF = misschien voor de leuk zeker De Man (onze Man uit Middelburg) vermelden
 kicker: Wie er aan boord waren
 ---

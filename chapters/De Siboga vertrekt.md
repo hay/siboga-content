@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "1"
+geojson: "[[De Siboga vertrekt.geojson]]"
 comment: DJ
 kicker: 7 maart 1899
 ---

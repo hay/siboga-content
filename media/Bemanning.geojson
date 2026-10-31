@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soerabaja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.7333, -7.2]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saleier",
+                "link": "[[Station 213]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.4666, -6.1196]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Misool"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.1381, -1.8695]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soeloe-archipel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121.0, 6.0]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Penida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115.5333, -8.7333]
+            }
+        }
+    ]
+}

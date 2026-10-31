@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "5"
+geojson: "[[De route van de expeditie.geojson]]"
 comment:
 kicker: Bijna een jaar, 363 stations
 ---

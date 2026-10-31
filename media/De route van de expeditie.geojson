@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Station 262",
+                "link": "[[Station 262]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.8133, -5.8967]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rede van Tual",
+                "link": "[[Station 258]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.743, -5.6426]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [126.6322, -3.4458]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tussen Buru en Sulawesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124.2583, -3.5417]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Banda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [129.9167, -4.5833]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weber-diep"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [129.34, -4.2]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diepste punt (5684 meter)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.7, -4.6333]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tioer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131.7411, -4.7472]
+            }
+        }
+    ]
+}

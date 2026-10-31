@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buitenzorg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106.7993, -6.5978]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Waingapu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.2667, -9.65]
+            }
+        }
+    ]
+}

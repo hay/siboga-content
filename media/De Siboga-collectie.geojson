@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rede van Tual",
+                "link": "[[Station 258]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.743, -5.6426]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Station 262",
+                "link": "[[Station 262]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.8133, -5.8967]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Station 297",
+                "link": "[[Station 297]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.6667, -10.65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Station 170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131.44, -3.6283]
+            }
+        }
+    ]
+}

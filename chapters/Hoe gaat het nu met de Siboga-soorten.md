@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "9"
+geojson: "[[Hoe gaat het nu met de Siboga-soorten.geojson]]"
 comment: "Concept 31-10-2026 (voorheen placeholder Klimaatimpact), op basis van GBIF, de IUCN Rode Lijst (2024) en de stationslijst. Locatie: Naturalis, Leiden."
 kicker: Een koraal uit 1899, bedreigd in 2024
 ---
