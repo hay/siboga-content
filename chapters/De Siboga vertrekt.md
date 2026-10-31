@@ -13,7 +13,7 @@ De Siboga-expeditie was een wetenschappelijke expeditie die van 7 maart 1899 tot
 ## Initiatief
 De [[Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën]] (ook wel *Treub-maatschappij* genoemd) stelde de expeditie in 1896 voor. De botanicus Melchior Treub was de directeur was van ‘s Lands Plantentuin in Buitenzorg. Zoöloog [[Max Weber]] bood aan haar te leiden. 
 ![Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën en de leden van de Siboga-expeditie](https://upload.wikimedia.org/wikipedia/commons/f/f3/Bijeenkomst_van_het_Bestuur_van_de_Maatschappij_ter_Bevordering_v..._-_Collectie_stichting_Nationaal_Museum_van_Wereldculturen_-_TM-60048273.jpg)
-*[[Foto van de kor die aan boord van de Siboga wordt gehaald|De kor wordt aan boord van de Siboga gehaald (1899-1900); door de druk van het water is een van de korbomen gebroken]]*
+
 De Maatschappij lobbyde bij de Nederlandse en koloniale overheid. In mei 1898 besloot de [[gouverneur-generaal]] in Batavia de [[Hr.Ms. Siboga|kanonneerboot Siboga]] ter beschikking van Weber te stellen. De koloniale regering in Nederlands-Indië betaalde ook de kolen, het onderhoud van het schip en de salarissen van de commandant, de officieren en de bemanning.
 ## Financiering
 De financiering van de expeditie lag grotendeels in handen van de Treub-maatschappij. De Maatschappij zocht ook particuliere fondsen voor de expeditie. Ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
