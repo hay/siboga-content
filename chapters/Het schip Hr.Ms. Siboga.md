@@ -30,7 +30,7 @@ In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd o
 
 ## Werken aan boord
 
-De dag aan boord draaide om meten en verzamelen. Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, haar rust nodig. In de hele reis voer de Siboga maar 75 nachten door.
+Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, haar rust nodig. In de hele reis voer de Siboga maar 75 nachten door.
 
 Toch legde het schip 12.350 zeemijlen af. Het verstookte 1216 ton kolen, en zestien keer moest er kolen geladen worden. 's Avonds was er ruimte voor ontspanning. Volgens Anna Weber maakten de hoofdmachinist, [[Doedo Klazinga]], en zijn assistenten vaak muziek.
 
@@ -49,17 +49,13 @@ In 1902 tekende Tydeman de hele inrichting voor zijn *Description of the ship an
 De thermometers en waterscheppers werden vaak door Max Weber zelf aan de draad gebonden, vanaf een plankje buiten boord (zie [[Bemanning]]).
 
 
-
 ## In het dok
 
-Een schip dat elke dag zo zwaar werkt, heeft onderhoud nodig. Halverwege de reis lag de Siboga lange tijd [[Foto van de Siboga in dok|in dok]], terwijl de expeditie op het eiland Saleier wachtte.
+Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de reis lag de Siboga lange tijd [[Foto van de Siboga in dok|in dok]], terwijl de expeditie op het eiland Saleier wachtte.
 
 ![De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.424_-_Siboga_-_de_Siboga_ligt_in_dok.jpg?width=1200)
 *[[Foto van de Siboga in dok|De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)]]*
 
-## Ideeën
-1. collecties
-2. scheepskist > ander schip Wilhelmina HNLS koningin wilhelmina
 
 ## Bronnen (voor het team)
 
