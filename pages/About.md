@@ -36,7 +36,7 @@ Voor deze site zijn onder meer deze collecties en databronnen gebruikt. Bronnen 
 Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://iiif.io/).
 
 ### Literatuur
-- M. Weber, [Siboga expeditie](https://www.wikidata.org/wiki/Q47059163)
+- M. Weber (red.), [[Siboga-Expeditie (publicatiereeks)|Siboga-Expeditie]] (1901-1986)
 - A. Weber-van Bosse, [[Een jaar aan boord H.M. Siboga]] (1904)
 - G.M.W. Acda, [[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf (2019), [[media/Op de deining van de wetenschap. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf.pdf|PDF]]
 - E.S. Hutcheson, [[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930|The Living Seas: Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]] (2023)
