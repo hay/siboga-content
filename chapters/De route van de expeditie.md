@@ -20,6 +20,8 @@ De expeditie vond plaats in wat nu Indonesië is. In 1899 was dat de Nederlandse
 
 Bij elk station werden de datum, de positie, de diepte en het soort bodem genoteerd, en wat er gedaan was. Ook wat er mis ging, kwam in de lijst: een gescheurd net, een verloren thermometer.
 
+![[Pasted image 20261031014504.png]]
+
 Waar het volgende station kwam, spraken Weber en commandant [[Gustaaf Frederik Tydeman]] de avond ervoor af. 's Ochtends vroeg ging het anker op. Eenmaal op de plek riep Tydeman volgens Anna naar Weber: „wij zijn nu op die of die breedte, zullen wij looden voor het dreggen". Lagen de stations ver uit elkaar, zoals in de Banda-zee, dan voer het schip 's nachts door naar het volgende.
 
 De Siboga legde voor een station zelden aan. Meestal lag of dreef het schip op open zee en gingen de instrumenten en netten overboord. [[Station 262]] bijvoorbeeld lag in zee bij de Kei-eilanden, op 560 meter diepte. Andere stations waren een ankerplaats bij de kust. Van daaruit gingen de wetenschappers met een sloep naar het rif of aan land. [[Station 258]] was zo'n ankerplaats: de rede van Tual, op de Kei-eilanden, in 22 meter water.
