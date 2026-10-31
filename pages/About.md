@@ -15,7 +15,6 @@ Voor deze site zijn onder meer deze databronnen, collecties en literatuur gebrui
 - [[Biodiversity Heritage Library]]
 - [[World Register of Marine Species]]
 
-Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://iiif.io/).
 ### Collecties
 - [[Naturalis Biodiversity Center]]
 - [[Zoölogisch Museum Amsterdam]]
@@ -38,6 +37,8 @@ Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://
 - Diepte en land: Natural Earth
 - Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
 - Historische kaart: [[Stadsarchief Amsterdam]]
+### IIIF
+* Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://iiif.io/).
 ## Team
 ![[media/team.jpg|300]]
 *Het team van siboga.nl tijdens de Hackalod 2026. Van links naar rechts: Olaf Janssen, Sandra Fauconnier, Daniëlle Jansen, Annika Hendriksen, Hay Kranen en Daan van Ramshorst*
