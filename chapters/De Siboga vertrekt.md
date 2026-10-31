@@ -8,7 +8,6 @@ kicker: 7 maart 1899
 De Siboga-expeditie was een wetenschappelijke expeditie die van 7 maart 1899 tot 28 februari 1900 door de zeeën van Nederlands-Indië (het huidige Indonesië) voer. De expeditie is vernoemd naar het [[Marinevaartuig|marinevaartuig]] waarmee de expeditie is uitgevoerd, de [[Kanonneerboot|kanonneerboot]] [[Hr.Ms. Siboga]].
 
 ![De bemanning van de Siboga aan het werk](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.006_-_Siboga_-_de_kor_wordt_aan_boord_gehaald.jpg?width=1200)
-*[[Foto van de kor die aan boord van de Siboga wordt gehaald|De kor wordt aan boord van de Siboga gehaald (1899-1900); door de druk van het water is een van de korbomen gebroken]]*
 
 ## Initiatief
 De [[Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën]] (ook wel *Treub-maatschappij* genoemd) stelde de expeditie in 1896 voor. De botanicus Melchior Treub was de directeur was van ‘s Lands Plantentuin in Buitenzorg. Zoöloog [[Max Weber]] bood aan haar te leiden. 
