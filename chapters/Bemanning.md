@@ -12,7 +12,7 @@ Op de groepsfoto's van de [[Hr.Ms. Siboga]] staan ze schouder aan schouder: [[Of
 ![De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.426_-_Siboga_-_de_bemanning_en_de_wetenschappelijke_staf_van_de_Siboga.jpg?width=1200)
 *[[Foto van de bemanning en wetenschappelijke staf van de Siboga (300.426)|De bemanning en de wetenschappelijke staf op het dek van de Siboga (1899-1900)]]*
 
-Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
+Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers - onder wie één vrouw - deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
 Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak.
 * De **[[Commandant|commandant]]** had de leiding en droeg de verantwoordelijkheid voor schip en [[Bemanning|bemanning]].
