@@ -2,7 +2,7 @@
 type: chapter
 chapter: "7"
 location: 52.10885, 6.0716
-comment: DJ
+comment: "DJ ; SF opmerking: De Man hierin verwerken"
 kicker:
 ---
 >Onverwachts deed zich echter een omstandigheid voor, die mij ertoe bracht mijn reisherinneringen neer te schrijven en den lezer aan te bieden ([[Anna Weber-van Bosse]])
