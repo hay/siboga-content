@@ -20,7 +20,7 @@ In mei 1898 besloot de gouverneur-generaal in Batavia de [[Hr.Ms. Siboga|kanonne
 Weber kocht thermometers, waterflessen, laboratoriumuitrusting en netten. Wie dat betaalde, staat er niet bij. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter werd door de marine beschikbaar gesteld.
 
 ## Financiering
-de Maatschappij zocht ook particuliere fondsen voor de expeditie. 
+De Maatschappij zocht ook particuliere fondsen voor de expeditie. 
 
 De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
 
