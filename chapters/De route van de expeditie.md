@@ -7,7 +7,8 @@ kicker: Bijna een jaar, 363 stations
 ---
 Wie de route van de [[Hr.Ms. Siboga]] op de kaart volgt, ziet een kluwen van lijnen. Bijna een jaar lang zigzagde het schip tussen honderden eilanden. Steeds weer hield het stil om de zee te onderzoeken. Elke plek waar dat gebeurde, kreeg een nummer: een station.
 
-https://id.archief.amsterdam/resources/records/media/d40a95f4-d13e-2841-e053-b784100aaebf/iiif/3/manifest.json
+[[IIIF#https://id.archief.amsterdam/resources/records/media/d40a95f4-d13e-2841-e053-b784100aaebf/iiif/3/manifest.json]]
+
 ## Een zee vol eilanden
 
 De expeditie vond plaats in wat nu Indonesië is. In 1899 was dat de Nederlandse kolonie Nederlands-Indië. Tussen de eilanden van de archipel liggen zeeën die op de ene plek een paar meter diep zijn en op de andere meer dan vijf kilometer. Over die zeeën was weinig bekend. [[Max Weber]] wilde weten hoe diep ze waren, hoe de bodem eruitzag en wat er leefde.
