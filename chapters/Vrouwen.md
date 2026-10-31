@@ -27,7 +27,9 @@ Alleen Anna's boek noemt Indonesische bemanningsleden bij naam (zie [[records/Be
 
 Na de reis werd alles wat de netten hadden opgehaald verdeeld onder zo'n vijftig geleerden in Europa, Amerika en Indië. Ieder kreeg een groep dieren of planten om te beschrijven. Hun onderzoek verscheen tussen 1901 en 1986 in 148 delen: de Siboga-reeks. Dertien van de auteurs waren vrouwen. Zij schreven mee aan zeventien delen.
 
-Al het tweede deel, in 1901, was van een vrouw: [[Ethel Barton]] beschreef het kalkwier *Halimeda*. Daarmee was ze Max Weber zelf voor; zijn inleiding verscheen pas als derde deel. In 1904 kon Anna in haar reisboek al de eerste uitkomsten noemen van [[Fanny Moser]], die tussen de staatkwallen vijf soorten vond die nieuw waren voor de wetenschap. Mosers eigen deel van de reeks ging over de ribkwallen en was al in 1903 verschenen. De staatkwallen werden uiteindelijk beschreven door [[Albertine Lens]] en [[Thea van Riemsdijk]] (1908). Anna schreef zelf vijf delen over wieren, en [[Maria Boissevain]] beschreef in 1906 de olifantstandjes, kleine weekdieren met een schelp als een slagtand.
+Al het tweede deel, in 1901, was van een vrouw: [[Ethel Barton]] beschreef het kalkwier *Halimeda*. Daarmee was ze Max Weber zelf voor; zijn inleiding verscheen pas als derde deel. In 1904 kon Anna in haar reisboek al de eerste uitkomsten noemen van [[Fanny Moser]], die tussen de staatkwallen vijf soorten vond die nieuw waren voor de wetenschap. Mosers eigen deel van de reeks ging over de ribkwallen en was al in 1903 verschenen. De staatkwallen werden uiteindelijk beschreven door [[Albertine Lens]] en [[Thea van Riemsdijk]] (1908). Anna schreef zelf vijf delen over wieren.
+
+[[Maria Boissevain]] (1878–1959), Mia, studeerde vanaf 1896 biologie in Amsterdam bij Max Weber en werd daarna zijn assistent. De Siboga-expeditie was de aanleiding voor haar promotieonderzoek in Zürich. Daar promoveerde ze in 1903, op haar 25e, op de bouw van het olifantstandje: een klein weekdier met een schelp als een slagtand. Met die kennis beschreef ze in 1906 de olifantstandjes die de Siboga had opgehaald, samen met de andere soorten uit de Indische en Stille Oceaan.
 
 ![Plaat uit het deel van Fanny Moser over de ribkwallen (1903), met de nieuwe soort Pleurobrachia globosa](https://commons.wikimedia.org/wiki/Special:FilePath/Taf._I_Die_Ctenophoren_der_Siboga-Expedition.webp?width=1200)
 *[[Plaat uit Die Ctenophoren der Siboga-Expedition (Moser 1903, tafel 1)|Plaat uit het deel van Fanny Moser over de ribkwallen (1903), met de nieuwe soort Pleurobrachia globosa]]*
@@ -56,6 +58,7 @@ In dezelfde jaren beschreven [[Anna van Dam]] (1933) en [[Jentina Leene]] (1938)
 - G. Stiasny-Wijnhoff, "On Brinkmann's System of the Nemertea Enopla and *Siboganemertes weberi*, n.g.n.sp.", *Quarterly Journal of Microscopical Science* 67 (1923), blz. 627–669, [doi:10.1242/jcs.s2-67.268.627](https://doi.org/10.1242/jcs.s2-67.268.627)
 - Lijst van de Siboga-reeks op [Wikipedia:GLAM/Expedities](https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Expedities/Expedities), naar M. Weber en L.F. de Beaufort, *Siboga-Expeditie. A survey of the results as far as published* (1963)
 - Bibliografische gegevens van de [[KB, nationale bibliotheek]]
+- Wikipedia, [*Mia Boissevain*](https://nl.wikipedia.org/wiki/Mia_Boissevain)
 :::
 
 ### Delen van de Siboga-reeks door vrouwen
