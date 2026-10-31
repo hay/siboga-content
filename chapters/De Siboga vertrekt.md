@@ -17,6 +17,9 @@ De Maatschappij lobbyde bij de Nederlandse en koloniale overheid. In mei 1898 be
 ## Financiering
 De financiering van de expeditie lag grotendeels in de handen van de Treub-maatschappij. De Maatschappij zocht ook particuliere fondsen voor de expeditie. Ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
 ## Voorbereiding
+![Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.004_-_Siboga_-_laboratorium_aan_boord_van_de_Siboga.jpg?width=1200)
+*[[Foto van het laboratorium aan boord van de Siboga|Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz]]*
+
 Weber kocht thermometers, waterflessen,  [[Inhoud der kisten]] laboratoriumuitrusting en netten. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter. Aan boord van de Siboga was een uitgebreide wetenschappelijke staf. De belangrijkste leden daarvan waren [[Max Weber]] (initiatiefnemer van de Siboga-expeditie) en [[Algen|algologe]] [[Anna Weber-van Bosse]].  Het echtpaar maakte een reis [door Egypte](https://commons.wikimedia.org/wiki/File:UvA-BC_300.452_-_Siboga_-_Anna_Weber-van_Bosse_op_weg_naar_de_Siboga-expeditie.jpg) en India voordat zij in Batavia (nu Jakarta) aan boord van de Siboga gingen.
 ## Een jaar aan boord van de Siboga
 Anna Weber schreef [[Na de Siboga|na de expeditie een persoonlijk reisverslag]] dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
