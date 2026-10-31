@@ -2,14 +2,14 @@
 type: chapter
 chapter: "10"
 location:
-comment: AH concept, aangevuld met Acda, Op de deining van de wetenschap (2019), blz. 148-167 /  NB Betere titel nodig
-kicker: Korren en dreggen
+comment: "AH concept, aangevuld met Acda, Op de deining van de wetenschap (2019), blz. 148-167 /  NB Betere titel nodig Verwijderd: Max Weber wilde met zijn team niet alleen zoveel mogelijk specimens verzamelen, hij wilde ook weten of de [[https://nl.wikipedia.org/wiki/Wallacelijn|Lijn van Wallace]] klopte, de veronderstelde grens tussen de Aziatische en de Australische dieren- en plantenwereld. Hij stelde zelf een andere scheidslijn voor, de Weberlijn."
+kicker: Korren en dreggen, buizen en potten
 ---
 ## Verzamelen in de diepzee
 
-Max Weber wilde met zijn team niet alleen zoveel mogelijk specimens verzamelen. Hij wilde ook weten of de [[https://nl.wikipedia.org/wiki/Wallacelijn|Lijn van Wallace]] klopte, de veronderstelde grens tussen de Aziatische en de Australische dieren- en plantenwereld. Hij stelde zelf een andere scheidslijn voor, de Weberlijn.
 
-Dat verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga daarom een extra laadboom, waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het loden.
+
+Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra laadboom, waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het loden.
 
 ## Dreggen en korren
 
