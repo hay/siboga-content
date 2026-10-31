@@ -1,6 +1,7 @@
 ---
 type: chapter
 chapter: "4"
+location:
 comment: AH. Concept OJ, op basis van GBIF (stand 31-10-2026), Acda (2019), Expeditie Online van Naturalis, Wikipedia en de records in /records.
 kicker: Duizenden dieren en planten uit zee
 ---
@@ -17,7 +18,7 @@ Het was bijna allemaal zeeleven, en vooral dieren zonder ruggengraat. Wie nu in 
 - **Kreeftachtigen**, zoals krabben, garnalen en kreeften: ruim 2200
 - **Stekelhuidigen**, zoals zee-egels, zeesterren, slangsterren en zeekomkommers: ruim 1600
 - **Mosdiertjes**, kleine dieren die samen korstjes en struikjes vormen: ruim 1400
-- **Wieren en planten**: ruim 150
+- **Wieren, algen en planten**: ruim 150
 - **Wormen, weekdieren, vissen, manteldieren en andere groepen**: de rest
 
 Die exemplaren horen bij bijna 3000 verschillende soorten. En dat is nog lang niet alles: veel vissen, schelpen en ander materiaal zijn nog niet digitaal ontsloten.
