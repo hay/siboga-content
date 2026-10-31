@@ -36,7 +36,7 @@ Max Weber zat vaak buiten boord, op een klein plankje tussen lucht en water. Daa
 ![Max Weber zit op "zijn" plankje, bevestigd aan de zijkant van het schip.](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.328_-_Siboga_-_Max_Weber_turend_naar_de_instrumenten_voor_een_diepzeeloding.jpg?width=1200)
 *[[Max Weber op zijn plankje|Max Weber zit op "zijn" plankje, bevestigd aan de zijkant van het schip.]]*
 
-Anna en de baboe waren de enige vrouwen aan boord (zie [[Hoofdstuk 6 - Vrouwen]]). Dat Anna een jaar lang deel uitmaakte van de bemanning van een marineschip was in die tijd uitzonderlijk. Pas in de Tweede Wereldoorlog traden de eerste vrouwen in marinedienst.
+Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna een jaar lang deel uitmaakte van de bemanning van een marineschip was in die tijd uitzonderlijk. Pas in de Tweede Wereldoorlog traden de eerste vrouwen in marinedienst.
 
 ## De wetenschappelijke staf
 
@@ -78,7 +78,7 @@ Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het 
 ![Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
 *[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis]]*
 
-Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Hoofdstuk 2 - Schip de Siboga]]). Van hem is geen portret bekend.
+Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip, H.M. Siboga]]). Van hem is geen portret bekend.
 
 ## Samen aan tafel
 
@@ -112,3 +112,11 @@ Op 26 februari 1900 liep de Siboga weer de haven van Soerabaja binnen. In maart 
 Ieder ging zijn eigen weg. Boldingh bleef in Indië en ging met Hr.Ms. Bali verder met het in kaart brengen van de zeeën. Hoorens van Heyningen probeerde het leraarschap aan de hbs in Semarang. Dat beviel hem zo goed dat hij in 1901 de marine verliet. Hoofdmachinist Klazinga werd in 1904 bevorderd tot officier-machinist. Voor een machinist was dat toen uitzonderlijk, en Acda schrijft het mede toe aan zijn werk op de Siboga.
 
 Van de wetenschappers werd Versluys hoogleraar in Giessen en later in Wenen. Nierstrasz promoveerde op materiaal van de expeditie en volgde in 1910 Hubrecht op als hoogleraar in Utrecht. Schmidt werd huisarts in Utrecht. Huijsmans bleef in Indië en kreeg in de Plantentuin van Buitenzorg een eigen werkplaats en drukkerij. De Webers, Versluys en Nierstrasz beschreven de vondsten in de Siboga-reeks. De laatste bijdrage van dat viertal verscheen in 1941.
+
+## Bronnen
+
+- G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
+- Anna Weber-van Bosse, *[[Een jaar aan boord H.M. Siboga]]* (1904)
+- Emily Hutcheson, *[[The Living Seas - Marine Algae, Symbiosis and the Modern Conception of Coral Reefs 1880-1930]]* (2023)
+- G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
+- Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
