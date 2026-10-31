@@ -1,6 +1,6 @@
 ---
 type: chapter
-chapter: "7"
+chapter: "8"
 comment: "DJ ; SF opmerking: De Man hierin verwerken"
 kicker:
 ---
