@@ -37,6 +37,7 @@ Voor deze site zijn onder meer deze databronnen, collecties en literatuur gebrui
 - Diepte en land: Natural Earth
 - Route: Kaart van den Trek v. H.M. Siboga (Weber-van Bosse, 1904)
 - Historische kaart: [[Stadsarchief Amsterdam]]
+- Kaarttegels worden geserveerd door [Allmaps](https://allmaps.org/)
 ### IIIF
 * Sommige van de foto's en kaarten zijn ontsloten via de [IIIF-standaard](https://iiif.io/).
 ## Team
