@@ -12,7 +12,7 @@ Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze v
 
 Vele kisten met apparatuur, buizen, potten en chemicaliën werden met de [[HNLMS Koningin Wilhelmina der Nederlanden]] ]] naar de Indische archipel. De [[Scan van schriftje met Inhoud der kisten|inhoud van de kisten]] werd beschreven in een [schriftje](https://archief.amsterdam/inventarissen/file/d40a95f4-d13a-2841-e053-b784100aaebf).
 
-[[Inhoud der kisten]]
+
 ## Dreggen en korren
 
 Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[Dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
