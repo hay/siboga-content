@@ -35,8 +35,8 @@ Daarin beschreef ze onder meer [[Drepanophoringia waingapuensis Stiasny-Wijnhoff
 
 Het laatste deel van een vrouw verscheen in 1970. [[Marian Pettibone]] beschreef borstelwormen, bijna zeventig jaar na Ethel Barton.
 
-## Bronnen (voor het team)
-
+## Bronnen
+:::details Bekijk alle bronnen
 - Anna Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904), gedrukte pagina's; citaten uit de OCR-tekst, nog niet op de scan gecontroleerd:
   - riffen, schoenen en kousen, lange rok (p. 9-10);
   - algen drogen in de kajuit, schroeven (p. 132);
@@ -54,3 +54,4 @@ Het laatste deel van een vrouw verscheen in 1970. [[Marian Pettibone]] beschreef
   - Dat *D. waingapuensis* bij Waingapu verzameld is, is afgeleid uit de naam. Waingapu = Nangamessi: Anna p. 46. De Siboga lag daar op 21 april 1899 (station 53, baai van Nangamessi, 36 m). Of de worm uit station 53 komt, is niet gecontroleerd.
   - Uitleg van snoerwormen en "Polystilifera": algemene kennis, niet uit de bronnen hier.
   - Over haar leven (geboorte, opleiding, overlijden) heb ik geen betrouwbare bron gevonden. Mogelijke bron: M.L. Schwartz, "Women in nemertean biology", *Journal of Natural History* 44 (2010), p. 2379–2394, [doi:10.1080/00222933.2010.504896](https://doi.org/10.1080/00222933.2010.504896), met haar portret op p. 2382 ([Zenodo](https://zenodo.org/records/5210479)). Achter een betaalmuur; graag uploaden als je toegang hebt.
+:::

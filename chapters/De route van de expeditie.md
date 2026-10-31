@@ -9,6 +9,8 @@ Wie de route van de [[Hr.Ms. Siboga]] op de kaart volgt, ziet een kluwen van lij
 
 [[IIIF#https://id.archief.amsterdam/resources/records/media/d40a95f4-d13e-2841-e053-b784100aaebf/iiif/3/manifest.json]]
 
+*Bron: [Stadsarchief Amsterdam](https://beta.archief.amsterdam/zoeken/detail/d40a95f4-d13e-2841-e053-b784100aaebf)*
+
 ## Een zee vol eilanden
 
 De expeditie vond plaats in wat nu Indonesië is, toen de Nederlandse kolonie Nederlands-Indië. Tussen de eilanden liggen zeeën die op de ene plek een paar meter diep zijn en op de andere meer dan vijf kilometer. [[Max Weber]] wilde weten hoe diep ze waren, hoe de bodem eruitzag en wat er leefde.
