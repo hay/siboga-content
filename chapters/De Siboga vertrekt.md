@@ -13,18 +13,13 @@ Aan boord van de Siboga was een uitgebreide wetenschappelijke staf. De belangrij
 *[[Foto van de kor die aan boord van de Siboga wordt gehaald|De kor wordt aan boord van de Siboga gehaald (1899-1900); door de druk van het water is een van de korbomen gebroken]]*
 
 ## Initiatief
-De _Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën_ (opgericht in 1890) stelde de expeditie in 1896 voor. Max Weber bood aan haar te leiden. De Maatschappij lobbyde bij de Nederlandse en koloniale overheid.
-
-In mei 1898 besloot de gouverneur-generaal in Batavia de [[Hr.Ms. Siboga|kanonneerboot _Siboga]] ter beschikking van Weber te stellen. De koloniale regering in Nederlands-Indië betaalde ook de kolen, het onderhoud van het schip en de salarissen van de commandant, de officieren en de bemanning.
-
-Weber kocht thermometers, waterflessen, laboratoriumuitrusting en netten. Wie dat betaalde, staat er niet bij. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter werd door de marine beschikbaar gesteld.
-
+De *Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën* (opgericht in 1890) stelde de expeditie in 1896 voor. Max Weber bood aan haar te leiden. De Maatschappij lobbyde bij de Nederlandse en koloniale overheid. In mei 1898 besloot de gouverneur-generaal in Batavia de [[Hr.Ms. Siboga|kanonneerboot _Siboga]] ter beschikking van Weber te stellen. De koloniale regering in Nederlands-Indië betaalde ook de kolen, het onderhoud van het schip en de salarissen van de commandant, de officieren en de bemanning.
 ## Financiering
-De Maatschappij zocht ook particuliere fondsen voor de expeditie. 
-
-De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
-
-Anna Weber schreef na de expeditie een persoonlijk reisverslag dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
+De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. De Maatschappij zocht ook particuliere fondsen voor de expeditie. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
+## Voorbereiding
+Weber kocht thermometers, waterflessen, laboratoriumuitrusting en netten. Wie dat betaalde, staat er niet bij. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter werd door de marine beschikbaar gesteld.
+## Een jaar aan boord van de Siboga
+Anna Weber schreef [[Na de Siboga|na de expeditie een persoonlijk reisverslag]] dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
 
 ![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
 *[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
