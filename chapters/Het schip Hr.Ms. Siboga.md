@@ -22,7 +22,7 @@ Op 7 maart 1899 lichtte de Siboga op de rede van Soerabaja het anker.
 ![Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.004_-_Siboga_-_laboratorium_aan_boord_van_de_Siboga.jpg?width=1200)
 *[[Foto van het laboratorium aan boord van de Siboga|Laboratorium aan boord van de Siboga (1899-1900), met vier leden van de wetenschappelijke staf, waaronder Max Weber en H.F. Nierstrasz]]*
 
-In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werden de specimens ook geconserveerd, in potjes, blikken en glazen cilinders, zodat het later in het Zoölogisch Museum Amsterdam bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Bemanning]].
+In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd onderzocht wat de netten opleverden. Daar werden de specimens ook geconserveerd, in potjes, blikken en glazen cilinders, zodat het later in het [[Zoölogisch Museum Amsterdam]] bewaard kon worden. [[Anna Weber-van Bosse]] kweekte er wieren in aquaria. Een deel van haar verzameling ging naar huis in haar oude parfumflesjes. Wie er aan het werk was, zie je op het groepsportret in [[Bemanning]].
 
 ![Slagenteller, dynamometer en veeraccumulator op het dek van de Siboga, voor de toegang tot het laboratorium (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.008_-_Siboga_-_slagenteller,_dynamometer_en_veeraccumulator_op_het_dek_van_de_Siboga_voor_de_toegang_tot_het_laboratorium.jpg?width=1200)
 *[[Foto van slagenteller, dynamometer en veeraccumulator op het dek van de Siboga|Slagenteller, dynamometer en veeraccumulator op het dek van de Siboga, voor de toegang tot het laboratorium (1899-1900)]]*
@@ -65,6 +65,6 @@ Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de 
   - de dagindeling, de zeemijlen, de kolen, de staaltrossen, de diepste korring en de fuik (blz. 158).
 - [Expeditie Online van Naturalis](https://expeditieonline.naturalis.nl/nl/expeditie/siboga-expeditie). Hieruit komen de pianosnaar van 10.000 meter, de muziek van de hoofdmachinist, de aquaria en de parfumflesjes, en de potjes, blikken en cilinders.
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902), platen 1-3 ([Commons](https://commons.wikimedia.org/wiki/Category:Description_of_the_ship_and_appliances_used_for_scientific_exploration_(1902))).
-- De foto's komen uit de Bijzondere Collecties van de UvA (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
+- De foto's komen uit de [[Bijzondere Collecties van de Universiteit van Amsterdam|Bijzondere Collecties van de UvA]] (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
 - Nog te controleren: waar de Siboga precies in dok lag. Het record zegt "waarschijnlijk op de marinewerf van Soerabaja".
 :::

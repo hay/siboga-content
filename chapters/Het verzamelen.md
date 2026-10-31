@@ -54,7 +54,7 @@ De expeditieleden keken ook goed naar hoe de bewoners van de eilanden visten. We
 
 ## Van dek naar museum
 
-Wat dreg, kor en fuik opleverden, werd in het laboratorium aan boord onderzocht en geconserveerd. Zo kon het later in het Zoölogisch Museum Amsterdam bewaard worden. Honderden flessen werden gevuld met plankton, het voedsel van de diepzeedieren. Al tijdens de reis ging het zoölogisch materiaal in meer dan honderd kisten, in verschillende zendingen, naar Nederland.
+Wat dreg, kor en fuik opleverden, werd in het laboratorium aan boord onderzocht en geconserveerd. Zo kon het later in het [[Zoölogisch Museum Amsterdam]] bewaard worden. Honderden flessen werden gevuld met plankton, het voedsel van de diepzeedieren. Al tijdens de reis ging het zoölogisch materiaal in meer dan honderd kisten, in verschillende zendingen, naar Nederland.
 
 Een van de opvallendste vangsten was een zeilvis van bijna drie meter lang. Met zijn hoge rugvin boven water kan zo'n vis 'zeilend' flink snelheid maken.
 
@@ -67,5 +67,5 @@ Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
 - *De expeditie der Siboga*, Het Vaderland, 24 juli 1899
-- Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
+- [[Bijzondere Collecties van de Universiteit van Amsterdam|Bijzondere Collecties Universiteit van Amsterdam]], via [[Wikimedia Commons]]
 :::
