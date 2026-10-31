@@ -10,12 +10,14 @@ Na de reis vertrokken [[Max Weber]] en [[Anna Weber-van Bosse]] weer terug naar 
 
 Anna schreef haar eigen reisverhaal over de Siboga-expeditie '[[Een jaar aan boord H.M. Siboga]]' dat in 1904 werd gepubliceerd.
 
-![Een jaar aan boord van de Siboga](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
+![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
+*[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
 
 ### Wetenschappelijke publicatiereeks
 Max Weber had ook de bedoeling om de resultaten van de Siboga-expeditie te publiceren. Deze wetenschappelijke Siboga-reeks werd tussen 1901 en 1986 door een groot aantal wetenschappers geschreven. Er verschenen 148 delen over de [[Het verzamelen|specimen en soorten die tijdens de expeditie werden verzameld]].
 
-![Livraison 3 – Introduction et description de l'expédition, pagina 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Livr3_Introduction_et_description_de_l%E2%80%99exp%C3%A9dition.pdf/page1-960px-Livr3_Introduction_et_description_de_l%E2%80%99exp%C3%A9dition.pdf.jpg)
+![Eerste pagina van Introduction et description de l'expédition door Max Weber (1902), livraison 3 van de Siboga-reeks](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Livr3_Introduction_et_description_de_l%E2%80%99exp%C3%A9dition.pdf/page1-960px-Livr3_Introduction_et_description_de_l%E2%80%99exp%C3%A9dition.pdf.jpg)
+*[[Eerste pagina van Introduction et description de l'expédition|Eerste pagina van Introduction et description de l'expédition door Max Weber (1902), livraison 3 van de Siboga-reeks]]*
 
 Een van de ijverigste auteurs was de Zeeuwse zoöloog [[Johannes Govertus de Man]]. Hij was specialist in kreeftachtigen en beschreef een groot deel van de krabben, garnalen en kreeften van de Siboga. Tussen 1911 en 1928 schreef hij negen delen van *The Decapoda of the Siboga Expedition*, de laatste toen hij al bijna tachtig was. Hij beschreef er veel nieuwe soorten in, zoals de diepzeegarnaal [[Glyphocrangon faxoni De Man, 1918|*Glyphocrangon faxoni*]] (zie [[De Siboga-collectie]]).
 
