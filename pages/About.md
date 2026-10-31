@@ -4,6 +4,8 @@ title: Over deze website
 ---
 Deze website is gebouwd in het kader van de [Hackalod 2026](https://netwerkdigitaalerfgoed.nl/agenda/hackalod-2026/). 
 ## Team
+![[media/team.jpg|300]]
+
 - Sandra Fauconnier
 - Annika Hendriksen
 - Daniëlle Jansen
