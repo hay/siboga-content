@@ -8,9 +8,11 @@ kicker: Korren en dreggen, buizen en potten
 ## Verzamelen in de diepzee
 
 
-
 Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra laadboom, waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het loden.
 
+Vele kisten met apparatuur en chemicaliën werden met de HNLMS Koningin Wilhelmina der Nederlanden verscheept naar de Indische archipel.
+#hier een afbeelding
+[[Inhoud der kisten]]
 ## Dreggen en korren
 
 Het eigenlijke verzamelen gebeurde met grote netten die over de zeebodem werden gesleept. De [[Kor]] is een net met een dwarsbalk, de korboom. De [[Dreg]] is een zwaar metalen frame met een net, bedoeld voor een stenige bodem. Sommige dreggen hadden dikke zwabbers waarin kleine dieren van de bodem bleven hangen.
