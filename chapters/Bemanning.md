@@ -53,12 +53,12 @@ Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna ee
 ![Groepsportret in het laboratorium van de Siboga (16 september 1899), met van links naar rechts H.F. Nierstrasz, J.W. Huysmans, Max Weber en J. Versluys](https://commons.wikimedia.org/wiki/Special:FilePath/Siboga_expedition_group_portrait_in_laboratory.jpg?width=1200)
 *[[Foto van de wetenschappelijke staf van de Siboga in het laboratorium|Groepsportret in het laboratorium van de Siboga (16 september 1899), met van links naar rechts H.F. Nierstrasz, J.W. Huysmans, Max Weber en J. Versluys]]*
 
-Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je H. G. Nierstrasz, tekenaar J.W. Huijsmans, Max Weber en zijn eerste assistent Jan Versluys.
+Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je H. G. Nierstrasz, **wetenschappelijk tekenaar** J.W. Huijsmans, Max Weber en zijn **eerste assistent** Jan Versluys.
 
-De drie zoölogen aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker. 
+De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker. 
 * [[Jan Versluys]] was op het Zoölogisch Laboratorium in Amsterdam Webers assistent. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië. 
 * [[Hugo Frederik Nierstrasz]] had in Utrecht bij Hubrecht gestudeerd. 
-* Scheepsarts [[August Herman Schmidt]] was naast arts ook zoöloog. Hij was conservator bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
+* **Scheepsarts** [[August Herman Schmidt]] was naast arts ook zoöloog. Hij was conservator bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
 
 [[Jozef Willem Huijsmans]] was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's. 
 
@@ -109,17 +109,17 @@ Ook de baboe van Anna hoorde bij het gezelschap. In het hele jaar was er maar é
 
 ## Titi en Piet
 
-Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de scheepskat.
+Niet alle opvarenden hadden twee benen of een monsterrol. Op een groepsfoto aan dek zit Anna Weber-van Bosse met een zwarte kat op schoot: [[Titi (scheepskat)|Titi]], de **scheepskat**.
 
 :::gallery
 ![Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga (1899)](https://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_Anna_Weber-van_Bosse_met_op_haar_schoot_de_scheepskat_Titi,_gemaakt_op_het_dek_van_de_Siboga.jpg?width=1200)
-*[[Foto van Anna Weber-van Bosse met de scheepskat Titi|Anna Weber-van Bosse met de scheepskat Titi op schoot, op het dek van de Siboga (1899)]]*
+*[[Foto van Anna Weber-van Bosse met de scheepskat Titi|Anna Weber-van Bosse met de scheepskat Titi op schoot]]*
 
 ![De "scheepsvogel" Piet, een kasuaris, op het erf van de pasanggrahan op Saleier (1899-1900)](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-BC_300.273_-_Siboga_-_de_%22scheepsvogel%22_Piet,_een_kasuaris,_op_het_erf_van_de_pasanggrahan_op_Saleyer.jpg?width=1200)
-*[[Foto van de kasuaris Piet op Saleier|De "scheepsvogel" Piet, een kasuaris, op het erf van de pasanggrahan op Saleier (1899-1900)]]*
+*[[Foto van de kasuaris Piet op Saleier|De "scheepsvogel" Piet, een kasuaris]]*
 :::
 
-Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "scheepsvogel". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
+Opvallender was [[Piet (kasuaris)|Piet]], een kasuaris, de "**scheepsvogel**". Toen de expeditie maandenlang op het eiland Saleier zat, terwijl de Siboga in [[Foto van de Siboga in dok|dok]] lag, liep Piet vrij rond op het erf van de pasanggrahan. Hij wandelde ook door de overdekte ruimte die als laboratorium dienstdeed. Op een kist zat dan de kat, die de beschrijving bij die foto "Bob of Titi" noemt. Misschien waren er dus twee katten aan boord.
 
 Op Koninginnedag, 31 augustus 1899, ging bijna iedereen nog één keer samen op de foto, met als gast de radja van Misool. Het is een van de weinige beelden waarop marine en wetenschap echt één bemanning lijken.
 
