@@ -12,9 +12,26 @@ Aan boord van de Siboga was een uitgebreide wetenschappelijke staf. De belangrij
 ![De bemanning van de Siboga aan het werk](https://commons.wikimedia.org/wiki/Special:FilePath/UvA-Artis_300.006_-_Siboga_-_de_kor_wordt_aan_boord_gehaald.jpg?width=1200)
 *[[Foto van de kor die aan boord van de Siboga wordt gehaald|De kor wordt aan boord van de Siboga gehaald (1899-1900); door de druk van het water is een van de korbomen gebroken]]*
 
+## Initiatief
+De _Maatschappij ter bevordering van het Natuurkundig Onderzoek der Nederlandsche Koloniën_ (opgericht in 1890) stelde de expeditie in 1896 voor. Max Weber bood aan haar te leiden. De Maatschappij lobbyde bij de Nederlandse en koloniale overheid.
+
+In mei 1898 besloot de gouverneur-generaal in Batavia de [[Hr.Ms. Siboga|kanonneerboot _Siboga]] ter beschikking van Weber te stellen. De koloniale regering in Nederlands-Indië betaalde ook de kolen, het onderhoud van het schip en de salarissen van de commandant, de officieren en de bemanning.
+
+Weber kocht thermometers, waterflessen, laboratoriumuitrusting en netten. Wie dat betaalde, staat er niet bij. De Le Blanc-dieptemeter was van de koloniale regering en de Lucas-dieptemeter werd door de marine beschikbaar gesteld.
+
+## Financiering
+de Maatschappij zocht ook particuliere fondsen voor de expeditie. 
+
 De financiering van de expeditie lag grotendeels in de handen  van de Treub-maatschappij. Maar ook koningin-moeder Emma en prinses Wilhelmina deden een particuliere bijdrage van 10.000 gulden aan het fonds.
 
 Anna Weber schreef na de expeditie een persoonlijk reisverslag dat in 1903 gepubliceerd werd: [[Een jaar aan boord H.M. Siboga]].
 
 ![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
 *[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
+
+## Bronnen
+:::details Bekijk alle bronnen van dit hoofdstuk
+* [Dutch Oceanographic Research in Indonesia in Colonial Times (Van Aken, _Oceanography_)](http://mseas.mit.edu/Research/Straits/PDF/oceanography_18.4_van_aken.pdf)
+- [The Siboga expedition (Hydro International)](https://www.hydro-international.com/content/article/the-siboga-expedition)
+- [Society for the Promotion of the Physical Exploration of the Dutch Colonies (Wikipedia)](https://en.wikipedia.org/wiki/Society_for_the_Promotion_of_the_Physical_Exploration_of_the_Dutch_Colonies)
+:::
