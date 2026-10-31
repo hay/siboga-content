@@ -3,9 +3,9 @@ type: chapter
 chapter: "6"
 geojson: "[[Vrouwen.geojson]]"
 comment: Sandra - buitenzorg nederlands indie niet bogor. Uitgebreid en ingekort 31-10-2026 (Anna 1904, KB, GLAM-lijst, Stiasny-Wijnhoff 1923); zie Bronnen.
-kicker: Vrouwen aan boord en aan het bureau
+kicker: Vrouwen aan boord en in de wetenschap
 ---
-Aan boord van de Siboga waren twee vrouwen, tussen ruim vijftig mannen (zie [[Bemanning]]). Na de reis kwamen er veel meer bij: zij schreven aan hun bureaus mee aan de boekenreeks over wat de expeditie had opgehaald.
+Aan boord van de Siboga waren twee vrouwen, tussen ruim vijftig mannen (zie [[Bemanning]]). Na de reis raakten veel meer vrouwen bij de expeditie betrokken: zij ded aan hun bureaus mee aan de boekenreeks over wat de expeditie had opgehaald.
 
 ## Anna Weber-van Bosse: in lange rok het rif op
 
