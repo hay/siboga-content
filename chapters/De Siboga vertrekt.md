@@ -25,8 +25,9 @@ Anna Weber schreef [[Na de Siboga|na de expeditie een persoonlijk reisverslag]] 
 ![Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven](https://cms.allardpierson.nl/storage/media/Blogs/_1920xAUTO_crop_center-center_84_none/53150/afbeelding-2.webp)
 *[[Band van Een jaar aan boord H.M. Siboga|Band van Een jaar aan boord H.M. Siboga door Anna Weber-van Bosse (Brill, 1904), met een goudopdruk van vissen en golven]]*
 
-## Bronnen
+## BronnenIntroduction et description de l'expédition
 :::details Bekijk alle bronnen van dit hoofdstuk
+* [Max Weber, Introduction et description de l'expédition](https://archimer.ifremer.fr/doc/00000/4745/4237.pdf)
 * [Dutch Oceanographic Research in Indonesia in Colonial Times (Van Aken, _Oceanography_)](http://mseas.mit.edu/Research/Straits/PDF/oceanography_18.4_van_aken.pdf)
 - [The Siboga expedition (Hydro International)](https://www.hydro-international.com/content/article/the-siboga-expedition)
 - [Society for the Promotion of the Physical Exploration of the Dutch Colonies (Wikipedia)](https://en.wikipedia.org/wiki/Society_for_the_Promotion_of_the_Physical_Exploration_of_the_Dutch_Colonies)
