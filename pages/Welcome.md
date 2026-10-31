@@ -2,4 +2,4 @@
 type: page
 title: De Siboga-expeditie
 ---
-Ontdek de reis van de Siboga-expeditie. Een van de belangrijkste expedities die ooit heeft plaatsgevonden, tussen 1899 en 1900. De Siboga ontdekte nieuwe soorten en veroorzaakte een revolutie in de wetenschappelijke wereld. Leer hier alles over de Siboga: wat ze ontdekten, wie er meevoeren en waar ze allemaal kwamen.
+Ontdek de reis van de Siboga-expeditie: een wetenschappelijke ontdekkingsreis in 1899 en 1900 door de zeeën van Nederlands-Indië op de kanonneerboot Hr.Ms. Siboga. De biologen aan boord verzamelde veel nieuwe soorten en veroorzaakten een revolutie in de wetenschappelijke wereld. Leer hier alles over de expeditie: wie voeren er mee, waar kwamen ze allemaal kwamen en wat verzamelden ze allemaal.
