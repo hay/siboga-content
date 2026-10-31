@@ -7,7 +7,6 @@ kicker: Korren en dreggen, buizen en potten
 ---
 ## Verzamelen in de diepzee
 
-
 Het verzamelen op grote diepte en op de bodem van de zee bepaalde ook de keuze voor een  stoomschip en geen zeilschip. Voor vertrek kreeg de Siboga een extra [[Laadboom|laadboom]], waarmee de dregkabel, de korren en ander vistuig buiten boord gebracht konden worden. Ook kwam er een kabeltrommel met een elektromotor en tienduizend meter staalkabel voor het [[Loden|loden]].
 
 Vele kisten met apparatuur, buizen, potten en chemicaliën werden met de [[HNLMS Koningin Wilhelmina der Nederlanden]] naar de Indische archipel. De [[Scan van schriftje met Inhoud der kisten|inhoud van de kisten]] werd beschreven in een [schriftje](https://archief.amsterdam/inventarissen/file/d40a95f4-d13a-2841-e053-b784100aaebf).
