@@ -1,6 +1,6 @@
 ---
 type: chapter
-chapter: "2"
+chapter: "3"
 geojson: "[[Het schip Hr.Ms. Siboga.geojson]]"
 comment: AH Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis.
 kicker: Een varend laboratorium op stoom
