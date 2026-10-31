@@ -9,7 +9,7 @@ Door de Siboga-expeditie hebben we (vaak de allereerste) wetenschappelijke gegev
 
 ## Een naamloze koraal van Selayar
 
-Op 26 september 1899 lag de Siboga voor anker bij het eiland Selayar ([[Station 213]]). Daar kwam van 36 meter diepte een koraal boven die niet vastgroeit, en los op de zeebodem ligt. Het gedroogde [[Ctenactis albitentaculata Hoeksema, 1989|exemplaar]] ging naar Amsterdam en ligt nu bij Naturalis in Leiden.
+Op 26 september 1899 lag de Siboga voor anker bij het eiland Selayar ([[Station 213]]). Daar kwam van 36 meter diepte een koraal boven die niet vastgroeit, en los op de zeebodem ligt. Het gedroogde [[Specimen ZMA.COEL.405|exemplaar]] ging naar Amsterdam en ligt nu bij Naturalis in Leiden.
 
 Bijna negentig jaar lang had de soort geen naam. Pas in 1989 beschreef de koraalonderzoeker Bert Hoeksema hem als *Ctenactis albitentaculata*, „met witte tentakels". Die witte tentakels maken hem te onderscheiden van zijn naaste verwanten.
 
