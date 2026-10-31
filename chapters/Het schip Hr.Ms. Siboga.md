@@ -3,7 +3,7 @@ type: chapter
 chapter: "2"
 location: Q745025 ?
 comment: AH Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis.
-kicker: Een varend laboratorium
+kicker: Een varend laboratorium op stoom
 ---
 
 

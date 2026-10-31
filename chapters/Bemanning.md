@@ -97,7 +97,7 @@ Diep in het schip werkten de mannen die je op het dek zelden zag. Hoofdmachinist
 
 Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het koken deed een inheemse sergeant-kok, van wie we de naam niet kennen. Nieuwenhuyzen had duidelijk vertrouwen in zijn commandant. Na een tocht door nauw en kolkend water noteerde Anna zijn opmerking dat de commandant "niet voor een kleintje vervaard" was.
 
-Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip, H.M. Siboga]]). Van hem is geen portret bekend.
+Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip Hr.Ms. Siboga]]). Van hem is geen portret bekend.
 
 ## Samen aan tafel
 
