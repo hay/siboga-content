@@ -1,6 +1,6 @@
 ---
 type: record
-uri:
+uri: https://www.wikidata.org/wiki/Q2061408
 description_nl:
 contenttype: term
 comment:
