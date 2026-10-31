@@ -11,6 +11,8 @@ kicker: Wie er aan boord waren
 
 Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
+## Rollen aan boord
+
 Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak.
 * De **commandant** had de leiding en droeg de verantwoordelijkheid voor schip en bemanning.
 * De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart.
