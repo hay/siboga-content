@@ -1,7 +1,6 @@
 ---
 type: chapter
 chapter: "3"
-location: -8.7249,115.5487
 comment: OJ Voorstel (concept), gebaseerd op de records in /records en op Acda, Op de deining van de wetenschap (2019), blz. 153-165. Opmerking van SF = misschien voor de leuk zeker De Man (onze Man uit Middelburg) vermelden
 kicker: Wie er aan boord waren
 ---
@@ -12,15 +11,15 @@ kicker: Wie er aan boord waren
 
 Ze leefden aan boord in twee werelden. De marine voer het schip, de wetenschappers deden het onderzoek. En tussen hen in liepen een kat en een kasuaris rond.
 
-Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak. 
-* De **commandant** had de leiding en droeg de verantwoordelijkheid voor schip en bemanning. 
-* De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart. 
-* De **schipper, de chef d'équipage**, leidde het werk aan dek: de ankers, de touwen en trossen, de sloepen en het uitzetten en binnenhalen van de netten. 
+Om zo'n schip een jaar lang draaiende te houden, had iedereen aan boord een eigen taak.
+* De **commandant** had de leiding en droeg de verantwoordelijkheid voor schip en bemanning.
+* De twee **officieren** hielden om beurten de wacht, bepaalden de positie van het schip en brachten met de stoomsloep of de roeisloep ankerplaatsen en kusten in kaart.
+* De **schipper, de chef d'équipage**, leidde het werk aan dek: de ankers, de touwen en trossen, de sloepen en het uitzetten en binnenhalen van de netten.
 * De **matrozen en lichtmatrozen** deden dat werk met hun handen. Ze stonden aan het roer, hielden het schip schoon en bedienden de stoomspil.
-* De **hoofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel. 
-* **Stokers** schepten dag in dag uit kolen in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden. 
-* Een **korporaal-hofmeester** beheerde de proviand en zorgde voor de tafel, en een inheemse **sergeant-kok** kookte de maaltijden. 
-* Twee **privébedienden** zorgden voor het echtpaar Weber. 
+* De **hoofdmachinist en twee machinisten** zorgden dat de stoommachine onderdeks bleef lopen, en ook de stoomspil en de elektromotor van het lodingtoestel.
+* **Stokers** schepten dag in dag uit kolen in de ketels. Zestien keer moest er onderweg nieuwe kolen geladen worden.
+* Een **korporaal-hofmeester** beheerde de proviand en zorgde voor de tafel, en een inheemse **sergeant-kok** kookte de maaltijden.
+* Twee **privébedienden** zorgden voor het echtpaar Weber.
 * De **scheepsarts** waakte over de gezondheid van iedereen aan boord en hielp daarnaast mee met het onderzoek.
 
 Toen de Siboga in maart 1899 uitvoer, waren er 56 mensen aan boord: drie officieren, 45 schepelingen, twee privébedienden en zes wetenschappers. Later kwamen er nog vijf matrozen en twee stokers bij. Dat was veel minder dan de 86 koppen die het schip naar Indië hadden gebracht. Zonder geschut en met een speciale opdracht kon de bemanning kleiner zijn.
@@ -55,12 +54,12 @@ Anna en de baboe waren de enige vrouwen aan boord (zie [[Vrouwen]]). Dat Anna ee
 
 Op 16 september 1899 poseerde de wetenschappelijke staf in het laboratorium aan boord. Van links naar rechts zie je H. G. Nierstrasz, **wetenschappelijk tekenaar** J.W. Huijsmans, Max Weber en zijn **eerste assistent** Jan Versluys.
 
-De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker. 
-* [[Jan Versluys]] was op het Zoölogisch Laboratorium in Amsterdam Webers assistent. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië. 
-* [[Hugo Frederik Nierstrasz]] had in Utrecht bij Hubrecht gestudeerd. 
+De drie **zoölogen** aan boord waren uitgekozen door Weber en de Utrechtse hoogleraar Hubrecht, die hen kenden als student of medewerker.
+* [[Jan Versluys]] was op het Zoölogisch Laboratorium in Amsterdam Webers assistent. Hij had al zeeonderzoek gedaan in West-Indië. Als enige van de staf voer hij met de Siboga mee vanuit Nederland; de anderen reisden op eigen gelegenheid naar Indië.
+* [[Hugo Frederik Nierstrasz]] had in Utrecht bij Hubrecht gestudeerd.
 * **Scheepsarts** [[August Herman Schmidt]] was naast arts ook zoöloog. Hij was conservator bij Hubrecht en had in Napels aan het beroemde Zoölogisch Station gewerkt.
 
-[[Jozef Willem Huijsmans]] was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's. 
+[[Jozef Willem Huijsmans]] was een Javaanse Nederlander van negentien en maakte tekeningen en aquarellen van de dieren die uit zee kwamen. Er werd ook veel gefotografeerd. Tydeman en Nierstrasz hadden allebei een eigen reiscamera mee en maakten samen enkele honderden foto's.
 
 :::gallery
 ![Scheepsarts August Herman Schmidt, uitsnede uit de groepsfoto "Leden der expeditie" in Eigen Haard (1900)](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_August_Herman_Schmidt,_Dutch_physician_%281871-1937%29,_ship's_doctor_on_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)

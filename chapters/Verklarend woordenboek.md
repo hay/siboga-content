@@ -1,7 +1,6 @@
 ---
 type: chapter
 chapter: "10"
-location: 51.499520,3.614325
 comment: verklaring van gebruikte termen
 kicker: Moeilijke woorden uitgelegd
 ---

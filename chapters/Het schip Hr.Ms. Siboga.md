@@ -1,7 +1,6 @@
 ---
 type: chapter
 chapter: "2"
-location: Q745025 ?
 comment: AH Voorstel (concept), gebaseerd op de records in /records, het proefschrift van Acda (blz. 143-167) en Expeditie Online van Naturalis.
 kicker: Een varend laboratorium op stoom
 ---
@@ -30,13 +29,13 @@ In het [[Foto van het laboratorium aan boord van de Siboga|laboratorium]] werd o
 
 ## Werken aan boord
 
-Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, rust nodig. 
+Overdag voer de Siboga en werden monsters genomen van zeebodem en zeewater en diepten gemeten. 's Nachts lag het schip meestal voor anker omdat de kaarten aan boord niet betrouwbaar waren en 's nacht onderzeese riffen niet zichtbaar waren. Bovendien had de kleine bemanning, die overdag voortdurend in touw was, rust nodig.
 
 Toch legde het schip 12.350 zeemijlen af. Het verstookte 1216 ton kolen, en zestien keer moest er kolen geladen worden. 's Avonds was er ruimte voor ontspanning. Volgens Anna Weber maakten de hoofdmachinist, [[Doedo Klazinga]], en zijn assistenten vaak muziek.
 
 ## Loden: hoe diep is de zee?
 
-Voor elke [[Dreg|dregbeurt]] werd eerst gelood om de diepte te bepalen. Aan de lodingdraad hingen tegelijk een peillood dat een monster van de bodem meenam, een waterschepper en een forse diepzeethermometer. 
+Voor elke [[Dreg|dregbeurt]] werd eerst gelood om de diepte te bepalen. Aan de lodingdraad hingen tegelijk een peillood dat een monster van de bodem meenam, een waterschepper en een forse diepzeethermometer.
 
 ![Plaat 2 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreg- en peilinrichting van de Siboga, met o.a. accumulator, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium, de Le Blanc-peilmachine en een zeeftafel](https://commons.wikimedia.org/wiki/Special:FilePath/Tydeman_-_Siboga_ship_1902_-_pl_02.jpg?width=1200)
 *[[Tekening van de dreg- en peilinrichting van de Siboga (Tydeman 1902, plaat 2)|Plaat 2 uit G.F. Tydeman, Description of the ship and appliances used for scientific exploration (1902); de dreg- en peilinrichting van de Siboga, met o.a. accumulator, dregkabel, dynamometer, stoomspil, rolstoppers, het laboratorium, de Le Blanc-peilmachine en een zeeftafel]]*
