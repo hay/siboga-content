@@ -95,7 +95,7 @@ Voor de proviand en de tafel zorgde korporaal-hofmeester [[Nieuwenhuyzen]]. Het 
 ![Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis](https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nieuwenhuyzen,_corporal_steward_on_HNLMS_Siboga_during_the_Siboga_Expedition_%281899-1900%29.jpg?width=1200)
 *[[Portret van Nieuwenhuyzen|Korporaal-hofmeester Nieuwenhuyzen op het dek van de Siboga (1899-1900), uitsnede uit een foto van een gevangen zwaard- of zeilvis]]*
 
-Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip, H.M. Siboga]]). Van hem is geen portret bekend.
+Het grootste deel van de bemanning die het schip uit Nederland had gebracht, ging in Soerabaja van boord. Hun plaatsen werden ingenomen door inheemse matrozen, lichtmatrozen en stokers. Van hen kennen we er maar één bij naam: [[Samioen]], een Javaanse matroos die de stoomspil bediende. Daarmee werden de netten van de zeebodem opgehaald (zie [[Het schip Hr.Ms. Siboga]]). Van hem is geen portret bekend.
 
 ## Samen aan tafel
 
