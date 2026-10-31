@@ -1,6 +1,6 @@
 ---
 type: chapter
-chapter: "10"
+chapter: "12"
 location:
 comment: verklaring van gebruikte termen
 kicker: Moeilijke woorden uitgelegd

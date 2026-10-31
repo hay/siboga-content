@@ -21,8 +21,8 @@ Dat oordeel gaat vooral over de toekomst. Het is nog een vrij algemene koraal, e
 
 Of de koraal nu nog bij Selayar leeft, weten we niet. Daarvoor zou iemand opnieuw moeten gaan kijken. Wel laat het exemplaar van de Siboga zien waar de soort ruim 125 jaar geleden voorkwam.
 
-## Bronnen (voor het team)
-
+## Bronnen
+:::details Bekijk alle bronnen
 - Siboga-exemplaar: Naturalis ZMA.COEL.405, [GBIF 2433852088](https://www.gbif.org/occurrence/2433852088): "Siboga Expedition", 26-09-1899, Celebes, 36 meter, gedroogd. Geen typestatus.
 - Station 213 in de stationslijst (Weber 1902, Liste des stations): Saleyer-anchorage, 26 september-26 oktober 1899, 36 m, rifonderzoek. Dat het exemplaar van station 213 komt, is afgeleid uit datum en diepte; het staat niet in het GBIF-record.
 - IUCN: Shlesinger, T. et al. 2024. *Ctenactis albitentaculata*. The IUCN Red List of Threatened Species 2024: e.T133083A165712038. [doi:10.2305/IUCN.UK.2024-2.RLTS.T133083A165712038.en](https://dx.doi.org/10.2305/IUCN.UK.2024-2.RLTS.T133083A165712038.en). PDF van 31-10-2026, pagina's van de PDF:
@@ -33,3 +33,4 @@ Of de koraal nu nog bij Selayar leeft, weten we niet. Daarvoor zou iemand opnieu
   - gevoelig voor verbleking, klimaatverandering als grootste bedreiging (p. 7).
 - "Met witte tentakels" is de betekenis van de naam (afgeleid). De voornaam Bert van B.W. Hoeksema is algemene kennis, niet uit de bronnen hier.
 - Nog te controleren: of het Siboga-exemplaar tot het typemateriaal van Hoeksema (1989) hoort. Zijn publicatie staat waarschijnlijk vrij online in de repository van Naturalis.
+:::

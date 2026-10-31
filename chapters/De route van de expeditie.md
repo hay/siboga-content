@@ -33,6 +33,7 @@ Hoe er verzameld werd, lees je in [[Het verzamelen]].
 Onderweg bleken de zeekaarten er vaak naast te zitten. Tussen Buru en Sulawesi stond een ondiepe bank op de kaart, waar Weber dagen wilde dreggen. Het lood vond er op 4800 meter nog geen bodem. Bij Banda stond een diepte van 7200 meter, door een Britse geleerde het "Weber-diep" genoemd. De Siboga mat er hooguit 4446 meter, en Weber moest zelf vaststellen dat zijn diep niet bestond. Waar de kaart juist ondiep water aangaf, tussen Banda en Tioer, lag het diepste punt van de reis: 5684 meter. Aan boord grapten ze dat veel uitkomsten "van negeerenden aard" waren.
 
 ## Bronnen
-
+:::details Bekijk alle bronnen
 - "Liste des Stations de la Campagne scientifique du Siboga, révisée par le Commandant M.-G. F. Tydeman", in Max Weber, *Introduction et description de l'expédition* (Siboga-Expeditie I, livraison 3), Leiden: E.J. Brill, 1902. 
 - A. Weber-van Bosse, *Een jaar aan boord H.M. Siboga* (1904)
+:::

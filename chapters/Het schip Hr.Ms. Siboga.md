@@ -57,8 +57,8 @@ Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de 
 *[[Foto van de Siboga in dok|De Siboga ligt in dok, waarschijnlijk op de marinewerf van Soerabaja, tijdens het langdurige gedwongen verblijf van de expeditie op het eiland Saleier (1899-1900)]]*
 
 
-## Bronnen (voor het team: inkorten voor publicatie?)
-
+## Bronnen
+:::details Bekijk alle bronnen
 - G.M.W. Acda, [[Op de deining van de wetenschap]] (2019), blz. 149-158, in `media/Op de deining van de wetenschap - De Siboga-expeditie (blz. 143-167).pdf`. Hieruit komen:
   - het flottieljevaartuig en de toezegging van 4 juli 1898 (blz. 149-150);
   - de indienststelling op 1 november 1898 (blz. 153);
@@ -68,3 +68,4 @@ Een schip dat zo intensief gebruikt wordt, heeft onderhoud nodig. Halverwege de 
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902), platen 1-3 ([Commons](https://commons.wikimedia.org/wiki/Category:Description_of_the_ship_and_appliances_used_for_scientific_exploration_(1902))).
 - De foto's komen uit de Bijzondere Collecties van de UvA (via Commons). De foto van het schip is de P18-afbeelding van [[Hr.Ms. Siboga]] op Wikidata.
 - Nog te controleren: waar de Siboga precies in dok lag. Het record zegt "waarschijnlijk op de marinewerf van Soerabaja".
+:::

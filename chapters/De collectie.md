@@ -79,9 +79,10 @@ De Man was de specialist voor de kreeftachtigen van de Siboga. Hij beschreef er 
 De naam *Bathygadus* betekent "diepzee-kabeljauw". Het is een rattenstaart, een familie van vissen die vlak boven de diepzeebodem leeft. Weber beschreef de soort pas in 1913, in zijn boek over de vissen van de Siboga. Hij noemde hem *dubiosus*, "twijfelachtig". Het exemplaar in de pot is het holotype en staat nog altijd in Naturalis, ruim een eeuw na de vangst.
 
 ## Bronnen
-
+:::details Bekijk alle bronnen
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
 - Naturalis, *Siboga-expeditie: wat een vangst!*, Expeditie Online
 - Wikipedia, *Siboga-expeditie*
 - GBIF, Global Biodiversity Information Facility, gegevens van Naturalis, het Museum of Comparative Zoology en andere musea
 - Wikimedia Commons
+:::

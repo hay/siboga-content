@@ -61,8 +61,9 @@ Een van de opvallendste vangsten was een zeilvis van bijna drie meter lang. Met 
 
 Elke plek waar werd gedregd, gekord of gelood, kreeg een nummer: een station. In totaal waren het er 363. Per station werd bijgehouden wanneer en waar er onderzoek was gedaan, hoe diep het was, en wat de watertemperatuur was, hoe er was verzameld en soms ook wat er misging. 
 ## Bronnen
-
+:::details Bekijk alle bronnen
 - G.M.W. Acda, *[[Op de deining van de wetenschap]]. Leven en werk van Gustaaf Frederik Tydeman (1858-1939), zeeofficier en hydrograaf* (2019)
 - G.F. Tydeman, *Description of the ship and appliances used for scientific exploration* (1902)
 - *De expeditie der Siboga*, Het Vaderland, 24 juli 1899
 - Bijzondere Collecties Universiteit van Amsterdam, via Wikimedia Commons
+:::
